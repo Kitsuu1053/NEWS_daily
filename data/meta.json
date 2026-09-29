@@ -1,6 +1,6 @@
 {
- "first_briefing_date": "2026-10-01",
+ "first_briefing_date": "2026-09-30",
+ "first_round": 0,
  "last_round": 0,
- "last_date": null,
- "note": "2026-09-30 is a sample, not counted"
+ "last_date": "2026-09-30"
 }
