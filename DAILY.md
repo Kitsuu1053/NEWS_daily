@@ -15,7 +15,7 @@
 - RULES.md대로 5개 섹터(요일별 문화 포함)·서울 날씨·시장 지표를 하위 에이전트로 병렬 수집. 제외 목록은 `data/dedup.json`의 제목들을 요약해 각 에이전트에 전달.
 - `data/today.json` 작성 → `python3 build.py data/today.json` (오류 시 원인 수정 후 재실행)
 - `git add index.html prev.html data` → 커밋 `Briefing YYYY-MM-DD (N회차)` (작성자 Claude <noreply@anthropic.com>) → `git push origin HEAD:main`
-- 약 60초 후 `curl -s https://kitsuu1053.github.io/NEWS_daily/ | grep 'class="round"'`로 반영 확인.
+- 약 60초 후 **WebFetch**로 https://kitsuu1053.github.io/NEWS_daily/ 를 열어 제목 아래 회차 문구로 반영 확인 (셸 curl은 github.io 접속이 막혀 있음).
 
 ## 4. 알림
 - 문구(링크·회차 없이): 성공 **"YYYY년 MM월 DD일 아침 브리핑이 준비되었습니다."** / 실패 **"YYYY년 MM월 DD일 아침 브리핑 생성 실패 (사유 한 줄)"** — 월·일은 두 자리.
