@@ -1,8 +1,7 @@
 {
  "first_briefing_date": "2026-09-30",
  "first_round": 0,
- "last_round": 1,
+ "last_round": 0,
  "last_date": "2026-09-30",
- "prev_date": "2026-09-29",
- "note": "시험용: 0회차를 전날(09-29)로 취급. 시험 후 초기화 예정"
+ "prev_date": null
 }
