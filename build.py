@@ -136,7 +136,7 @@ def render(d, meta_line, prev_href, next_href):
         <div class="wxline">{ICONS[w["pm_icon"]]}<span class="when">오후</span><span>{e(w["pm_text"])}</span></div>
       </div>
       <div class="wxgrid">
-        <div><span class="k">습도</span><b>{e(str(w["humidity"]))}%</b></div>
+        <div><span class="k">습도</span><b>{(e(str(w["humidity"])) + "%") if w.get("humidity") is not None else "—"}</b></div>
         <div><span class="k">미세먼지</span><span class="aq {AQ[w["pm10"]]}">{e(w["pm10"])}</span></div>
         <div><span class="k">강수량</span><b>{e(str(w["rain"]))}</b></div>
         <div><span class="k">초미세먼지</span><span class="aq {AQ[w["pm25"]]}">{e(w["pm25"])}</span></div>
