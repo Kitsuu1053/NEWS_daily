@@ -33,7 +33,8 @@
 - 블루아카이브: 한국 공식(bluearchive.nexon.com), 일본 공식(bluearchive.jp), 콜라보카페(collabo-cafe.com)
 - 공모전: 링커리어, 스펙토리, 위비티, 씽굿, 캠퍼스픽
 - 날씨·시세·브리핑: 기상청(weather.go.kr), 에어코리아, Investing.com(kr), kitsuu1053.github.io
-- **사이트 접근 승인이 필요한 곳은 기다리지 말고 즉시 다른 출처로 넘어간다.** (예: anime.eiga.com은 승인 대기로 막힌 적 있음 → animeanime.jp 등 대체)
+- **모든 페이지는 WebSearch 결과에 나온 주소로만 연다.** 주소를 직접 입력하거나 기억한 주소·첫 화면·목록 페이지를 바로 열면, 아무도 없는 시간에는 승인 대기로 막힌다(2026-10-03 실험: 직접 열기 0/3, 검색 거쳐 열기 4/4, 예약 메시지에 적은 주소 0/3). 원하는 페이지가 검색에 안 나오면 검색어를 바꿔 다시 찾는다.
+- 그래도 승인 대기·시간 초과가 나면 기다리지 말고 즉시 다른 출처로 넘어간다.
 - 수집은 섹터별 하위 에이전트로 병렬 진행하고, 각 에이전트는 약 5분 안에 끝내도록 지시한다.
 - 모든 기사는 WebFetch로 **실제로 열어서** 제목·게재 시각·내용을 확인한다. 제목은 게재된 그대로 쓴다(외국어 기사는 한국어로 번역하고 원제는 `orig`에).
 - 한국어 매체 우선.
@@ -97,9 +98,9 @@
 - 기온: 서울 최저·최고 단일 값. 기상청 기반 최신 날씨 기사(서울 수치 명시) 또는 기상청 예보.
 - 오전·오후 하늘 상태를 짧은 한국어로, 비가 오면 시간대 포함. 아이콘은 `sun, sun_cloud, cloud, rain, heavy_rain, snow, thunder` 중 선택.
 - 강수량: 비 예보 시 "5~10mm" 형식, 없으면 "없음".
-- 습도: 기상청 도시별 관측표(https://www.weather.go.kr/w/weather/land/city-obs.do)의 서울 최신값(숫자만).
-- 미세먼지·초미세먼지: 에어코리아 예보(https://www.airkorea.or.kr/web/dustForecast?pMENU_NO=113) 서울 오늘 등급: 좋음/보통/나쁨/매우나쁨.
-- 기상청 예보 종합: https://www.weather.go.kr/w/forecast/overall/short-term.do?stnId=109&lnd=1
+- 습도: WebSearch "기상청 날씨누리 도시별 관측" → 결과의 도시별관측 페이지(예: https://www.weather.go.kr/w/observation/land/city-obs.do)에서 서울 최신값(숫자만). 끝내 못 구하면 null.
+- 미세먼지·초미세먼지: WebSearch "에어코리아 대기정보 예보" → 결과의 예보 페이지(예: https://www.airkorea.or.kr/web/dustForecast?pMENU_NO=113)에서 서울 오늘 등급: 좋음/보통/나쁨/매우나쁨.
+- 기상청 예보 종합: WebSearch "기상청 단기예보 예보 종합" 결과의 페이지를 쓴다.
 
 ## 6. 시장 지표 (3개, 순서 고정)
 

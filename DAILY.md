@@ -12,10 +12,10 @@
 - `RULES.md`를 읽고 따른다. `TZ=Asia/Seoul date`로 날짜·요일·시각 확인, 시작 시각 기록.
 
 ## 3. 수집 → 빌드 → 올리기
-- RULES.md대로 5개 섹터(요일별 문화 포함)·서울 날씨·시장 지표를 하위 에이전트로 병렬 수집. 제외 목록은 `data/dedup.json`의 제목들을 요약해 각 에이전트에 전달.
+- RULES.md대로 5개 섹터(요일별 문화 포함)·서울 날씨·시장 지표를 하위 에이전트로 병렬 수집. 각 에이전트에 "WebSearch 결과에 나온 주소만 WebFetch로 열 것(직접 입력·목록 페이지 금지)"을 반드시 전달. 제외 목록은 `data/dedup.json`의 제목들을 요약해 각 에이전트에 전달.
 - `data/today.json` 작성 → `python3 build.py data/today.json` (오류 시 원인 수정 후 재실행)
 - `git add index.html prev.html data` → 커밋 `Briefing YYYY-MM-DD (N회차)` (작성자 Claude <noreply@anthropic.com>) → `git push origin HEAD:main`
-- 약 60초 후 **WebFetch**로 https://kitsuu1053.github.io/NEWS_daily/ 를 열어 제목 아래 회차 문구로 반영 확인 (셸 curl은 github.io 접속이 막혀 있음).
+- 반영 확인은 하지 않는다: 브리핑 페이지는 검색에 나오지 않아 아무도 없는 시간에는 열 수 없다. `git push` 성공을 완료 기준으로 삼는다.
 
 ## 4. 알림
 - 문구(링크·회차 없이): 성공 **"YYYY년 MM월 DD일 아침 브리핑이 준비되었습니다."** / 실패 **"YYYY년 MM월 DD일 아침 브리핑 생성 실패 (사유 한 줄)"** — 월·일은 두 자리.
