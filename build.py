@@ -63,7 +63,7 @@ def validate(d):
         if w[k] not in ICONS:
             fail(f"weather.{k} 는 {list(ICONS)} 중 하나")
     for k in ("pm10", "pm25"):
-        if w[k] not in AQ:
+        if w[k] is not None and w[k] not in AQ:
             fail(f"weather.{k} 는 {list(AQ)} 중 하나")
     mk = d.get("markets")
     if mk is not None:
@@ -137,9 +137,9 @@ def render(d, meta_line, prev_href, next_href):
       </div>
       <div class="wxgrid">
         <div><span class="k">습도</span><b>{(e(str(w["humidity"])) + "%") if w.get("humidity") is not None else "—"}</b></div>
-        <div><span class="k">미세먼지</span><span class="aq {AQ[w["pm10"]]}">{e(w["pm10"])}</span></div>
+        <div><span class="k">미세먼지</span>{('<span class="aq ' + AQ[w["pm10"]] + '">' + e(w["pm10"]) + '</span>') if w.get("pm10") else "<b>—</b>"}</div>
         <div><span class="k">강수량</span><b>{e(str(w["rain"]))}</b></div>
-        <div><span class="k">초미세먼지</span><span class="aq {AQ[w["pm25"]]}">{e(w["pm25"])}</span></div>
+        <div><span class="k">초미세먼지</span>{('<span class="aq ' + AQ[w["pm25"]] + '">' + e(w["pm25"]) + '</span>') if w.get("pm25") else "<b>—</b>"}</div>
       </div>
     </div>'''
     mk = ""
