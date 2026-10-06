@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-09-30": [
-   {
-    "url": "https://view.asiae.co.kr/article/2026092916072809042",
-    "title": "외국인 2.9조 '팔자'…코스피, 6870선 약보합 마감"
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026092909540000393",
-    "title": "조정지역 내 일시적 2주택 특례기간 3년→2년"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026092909403055987",
-    "title": "2분기 해외직접투자액 205억달러…4개 분기 연속 증가"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20260930000041",
-    "title": "트럼프, 이르면 30일 알래스카 LNG 사업에 韓 540억달러 투입 발표할 듯"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609300253217432e7e8286d56_1",
-    "title": "日 2년물 국채금리 2% 육박… 30년 만에 최고치 '눈앞'"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/international/2026/09/29/20260929500199",
-    "title": "이란, 호르무즈 개방 조건 재전달...美, 핵 합의 시 제재 완화 가능성"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/09/30/20260930001004",
-    "title": "최소 4발… 北 지뢰밭이었다"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/politics/2026/09/30/20260930001002",
-    "title": "與, 조작기소 특검법 속도조절"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202609291640001/",
-    "title": "이 대통령, 정부 부처에 \"청와대 손 뗄 테니, 자율적으로\"…만기친람 비판 염두에 둔 듯"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20260929000823",
-    "title": "앤스로픽, IPO 투자설명서에 \"AI, 인류에 멸종급 위험\" 경고"
-   },
-   {
-    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312143",
-    "title": "[2026국감] 정부24 사상 첫 해킹…한 달째 피해규모 '깜깜'"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20260930034418",
-    "title": "시키지 않아도 일한다…오픈AI, AI 에이전트 '닷츠' 공개"
-   },
-   {
-    "url": "https://anime.eiga.com/news/127545/",
-    "title": "'히라야스미' 히로토 역은 우치다 유마, 나츠미 역은 다카하시 마유로 결정"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20260929000062",
-    "title": "앤 해서웨이 '베러티', 숨겨진 원고에서 시작된 비밀…10월 22일 개봉"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1162728",
-    "title": "'라이어' 10월 30일 첫 방송…유연석·서현진 배역부터 조연까지 총정리"
-   }
-  ],
   "2026-10-01": [
    {
     "url": "https://www.mt.co.kr/stock/2026/09/30/2026093016171549037",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.venturesquare.net/1117095",
     "title": "성수동고릴라, 10월 성수는 아이돌 캐릭터·로컬·애니·페스티벌…팝업 리스트 공개"
+   }
+  ],
+  "2026-10-07": [
+   {
+    "url": "https://www.news1.kr/finance/general-stock/6311738",
+    "title": "삼전닉스 약세에 코스피 6941선…코스닥 3%↑ 900선 탈환[시황종합]"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261006001169",
+    "title": "[2026 국감] 이형일, 부동산 '거래세→보유세 중심' 과세 전환 동의"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261006001529",
+    "title": "[2026 국감] \"달러 팔고 투자 때 다시 사라?\"…수출대기업 환전 요구 도마(종합)"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6312110",
+    "title": "美 국무 \"아이슬란드, 美 본토 방어에 핵심…협력 확대\""
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261007000046",
+    "title": "日금융당국, 은행 대출 데이터 외부 개방...금융부실 '데이터 감독' 강화"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261006001530",
+    "title": "우크라 \"러 정유시설 51% 가동 불능 상태… 전쟁을 그들 영토로 계속 가져갈 것\""
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261006515634",
+    "title": "[단독] K방산 핵심 경쟁력 ‘빠른 납기’ 차질 현실로"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6311253",
+    "title": "[국감현장] 법사위 여야 시작부터 충돌…조희대 인사말뒤 증인선서 거부"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6311895",
+    "title": "행안위 국감, '개문발차' 중수청부터 대통령 SNS·정부 해킹 질타(종합)"
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261006121237",
+    "title": "앤트로픽 최기영 \"AI 속도조절, 개발 중단 아냐…안전장치 병행해야\""
+   },
+   {
+    "url": "https://m.inews24.com/v/2012352",
+    "title": "[2026 국감] 독파모 공방에 정부 \"사업 계속\"⋯해킹 사태에는 \"과기정통부가 대응 주도\"(종합)"
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "title": "미스트랄의 새 1조 파라미터 모델, 폐쇄형·개방형 경쟁 모델 추월 노린다"
+   },
+   {
+    "url": "https://animeanime.jp/article/2026/10/05/103523.html",
+    "title": "「비블리아 고서당 사건수첩」 27년 4월 애니 방송! 시오리코와 다이스케 비주얼 공개&본PV 제1탄&추가 캐스트 발표"
+   },
+   {
+    "url": "https://www.maxmovie.com/news/articleView.html?idxno=502229",
+    "title": "예정 없던 경유 '레이오버 호텔' 정연주→안동구, 11월 개봉"
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1164362",
+    "title": "'100일의 거짓말' 이도군, 가족마저 속인 독립운동가 됐다…첫 시대극 도전"
    }
   ]
  }
