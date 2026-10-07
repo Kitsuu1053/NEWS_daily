@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-01": [
-   {
-    "url": "https://www.mt.co.kr/stock/2026/09/30/2026093016171549037",
-    "title": "코스피 약세 마감…美 국채금리 상승 여파"
-   },
-   {
-    "url": "https://etoday.co.kr/news/view/2631197",
-    "title": "정부, 7.9조 기업투자 앞당긴다…현대차 울산공장 인허가 3년→1년"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026093009164983714",
-    "title": "현대차 파업에 8월 생산·소비·투자 '트리플 감소'…정부 \"9월 모두 반등\"(종합)"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261001000018",
-    "title": "뉴욕증시, 10월 금리 인상 전망 후퇴 속 혼조 마감…기술주 강세"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610010234097836e7e8286d56_1",
-    "title": "일본 재무성, 다카이치 재정에 제동… 이자 45조엔 경고"
-   },
-   {
-    "url": "https://www.news1.kr/world/northeast-asia/6305956",
-    "title": "中 제조업 경기 확장세 복귀…9월 PMI 50.1"
-   },
-   {
-    "url": "https://etoday.co.kr/news/view/2630912",
-    "title": "李대통령, 이지스함 ‘대호김종서함’ 진수식…“자주국방 핵심 전력”"
-   },
-   {
-    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067551",
-    "title": "국감 증인 기싸움 본격화…김용범·김현지 놓고 여야 공방"
-   },
-   {
-    "url": "https://www.mt.co.kr/politics/2026/09/30/2026093016243462224",
-    "title": "농촌 찾은 장동혁 \"李, 전수조사 지나치게 집착…다른 의도 있다 확신\""
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20260930143741",
-    "title": "AWS, 서울 리전에 '클로드' 탑재…금융·공공 AI 확대"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/economy/industry/2026/10/01/20261001500009",
-    "title": "마이크론 매출 73.5조원 역대 최대…“메모리 공급난 더 심해진다”"
-   },
-   {
-    "url": "https://www.ngetnews.com/news/articleView.html?idxno=553884",
-    "title": "통신3사·티빙 등 과방위 국감 증인 채택…해킹·개인정보 유출 질의"
-   },
-   {
-    "url": "https://biz.heraldcorp.com/article/10887295",
-    "title": "'디오픈 챔프' 라이언 폭스, 제네시스 출전…11년 만 방한"
-   },
-   {
-    "url": "https://www.autoview.co.kr/ko-kr/articles/101913",
-    "title": "뷰익, 한국 시장 공식 진출… '엘렉트라 E7' 11월부터 판매"
-   },
-   {
-    "url": "https://linkareer.com/activity/344682",
-    "title": "pixiv 한국 학생 일러스트 공모전 2026"
-   }
-  ],
   "2026-10-02": [
    {
     "url": "https://www.fnnews.com/news/202610011619453708",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.wikitree.co.kr/articles/1164362",
     "title": "'100일의 거짓말' 이도군, 가족마저 속인 독립운동가 됐다…첫 시대극 도전"
+   }
+  ],
+  "2026-10-08": [
+   {
+    "url": "https://www.fnnews.com/news/202610071552318501",
+    "title": "코스피, 1.98% 내린 6803.90 마감...코스닥은 900선 내줘[fn마감시황]"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610071601469202",
+    "title": "한성숙 \"2030년까지 공적 주택 119만호..'공급 상황판' 전국민 공개\""
+   },
+   {
+    "url": "https://www.mt.co.kr/industry/2026/10/08/2026100806522773652",
+    "title": "메모리가 다 했다…삼성전자, 3Q 영업이익 107.4조 '새 역사'"
+   },
+   {
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02309126645610952",
+    "title": "트럼프, 머스크·젠슨 황 등에 과학 훈장…실리콘밸리와 밀착"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610072144437828740eacf404_1",
+    "title": "다카이치 日총리, 트럼프에 북일회담 ‘중재’ 요청…납북 문제 돌파구 모색"
+   },
+   {
+    "url": "https://www.news1.kr/world/europe/6313543",
+    "title": "고교생 시위 과잉진압 논란에…佛경찰, 섬광수류탄 사용 중단"
+   },
+   {
+    "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036900",
+    "title": "강신철 \"병역특례 점진 축소후 폐지가 국방부 목표\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610071701571938",
+    "title": "여야, 투표용지 부족 사태에 선관위 질타…\"재검표 서둘러야\" [2026년 국감]"
+   },
+   {
+    "url": "https://www.newsis.com/view/NISX20261007_0003816845",
+    "title": "野박충권 \"'탈북민 북송 회유' 제보 들어와\"…與 \"상식에 안 맞아\" 野 \"웃지마라\""
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+    "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개"
+   },
+   {
+    "url": "https://www.mt.co.kr/tech/2026/10/08/2026100709554237233",
+    "title": "[단독]\"팔아도 남는 게 없다\"…삼성, 스마트폰 생산량 30% 줄인다"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216023",
+    "title": "앤트로픽, '프로젝트 글래스윙' 개편...첨단 모델 접근 대폭 확대"
+   },
+   {
+    "url": "https://www.news1.kr/industry/auto-industry/6312364",
+    "title": "제네시스, 부산국제영화제 10년 연속 후원…레드카펫에 'GV90 네오룬'"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026100805461348902bd56fbc3c_1",
+    "title": "캐나다 자동차노조 유니포, 스텔란티스 대상 파업 찬반투표 실시"
+   },
+   {
+    "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2325195",
+    "title": "2026 영광관광 사진공모전, 10월 1일부터 작품 접수"
    }
   ]
  }
