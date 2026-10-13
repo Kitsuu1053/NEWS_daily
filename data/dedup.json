@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-07": [
-   {
-    "url": "https://www.news1.kr/finance/general-stock/6311738",
-    "title": "삼전닉스 약세에 코스피 6941선…코스닥 3%↑ 900선 탈환[시황종합]"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261006001169",
-    "title": "[2026 국감] 이형일, 부동산 '거래세→보유세 중심' 과세 전환 동의"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261006001529",
-    "title": "[2026 국감] \"달러 팔고 투자 때 다시 사라?\"…수출대기업 환전 요구 도마(종합)"
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6312110",
-    "title": "美 국무 \"아이슬란드, 美 본토 방어에 핵심…협력 확대\""
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261007000046",
-    "title": "日금융당국, 은행 대출 데이터 외부 개방...금융부실 '데이터 감독' 강화"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261006001530",
-    "title": "우크라 \"러 정유시설 51% 가동 불능 상태… 전쟁을 그들 영토로 계속 가져갈 것\""
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261006515634",
-    "title": "[단독] K방산 핵심 경쟁력 ‘빠른 납기’ 차질 현실로"
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6311253",
-    "title": "[국감현장] 법사위 여야 시작부터 충돌…조희대 인사말뒤 증인선서 거부"
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6311895",
-    "title": "행안위 국감, '개문발차' 중수청부터 대통령 SNS·정부 해킹 질타(종합)"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20261006121237",
-    "title": "앤트로픽 최기영 \"AI 속도조절, 개발 중단 아냐…안전장치 병행해야\""
-   },
-   {
-    "url": "https://m.inews24.com/v/2012352",
-    "title": "[2026 국감] 독파모 공방에 정부 \"사업 계속\"⋯해킹 사태에는 \"과기정통부가 대응 주도\"(종합)"
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-    "title": "미스트랄의 새 1조 파라미터 모델, 폐쇄형·개방형 경쟁 모델 추월 노린다"
-   },
-   {
-    "url": "https://animeanime.jp/article/2026/10/05/103523.html",
-    "title": "「비블리아 고서당 사건수첩」 27년 4월 애니 방송! 시오리코와 다이스케 비주얼 공개&본PV 제1탄&추가 캐스트 발표"
-   },
-   {
-    "url": "https://www.maxmovie.com/news/articleView.html?idxno=502229",
-    "title": "예정 없던 경유 '레이오버 호텔' 정연주→안동구, 11월 개봉"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1164362",
-    "title": "'100일의 거짓말' 이도군, 가족마저 속인 독립운동가 됐다…첫 시대극 도전"
-   }
-  ],
   "2026-10-08": [
    {
     "url": "https://www.fnnews.com/news/202610071552318501",
@@ -433,6 +371,68 @@
    {
     "url": "https://sports.khan.co.kr/en/article/202610130347007/",
     "title": "Connecting works and people, stages and markets··· ‘2026 Seoul Art Market’ opens on the 13th"
+   }
+  ],
+  "2026-10-14": [
+   {
+    "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013500225",
+    "title": "[마감시황]코스피 6,035.35 마감…외국인 대거 매도에 5.46% 급락"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261013000296",
+    "title": "산업부, 반도체 메가프로젝트 전담 국장급 조직 신설…20일 출범"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261013001116",
+    "title": "금융위 세종 이전에 금융 공공기관 이전 논란…금감원은 '별도 검토'"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6319048",
+    "title": "\"억대 빚 갚아줘\" 의혹…트럼프 장남 前약혼자 대사직 사임(종합)"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026101321043089830",
+    "title": "NHK \"日 다카이치 내각 지지율 51%\"…개각에도 하락"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261014000011",
+    "title": "英, 6조8000억 비트코인 '횡재' 눈앞… 중국 사기범에게서 압수, 국고 귀속 가능성"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610131205315431",
+    "title": "방사청 \"美 마스가 함정 1·2번함 국내 건조\"…안보는 '사이버 해킹' 비상"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6318035",
+    "title": "\"헌정사 초유의 폭거\"…野, 與주도 이진숙 과방위 '제척' 반발"
+   },
+   {
+    "url": "https://weekly.khan.co.kr/article/202610140740001/",
+    "title": "\"임은정 어떻게?\" 김지용 중수청장 후보 오늘 청문회"
+   },
+   {
+    "url": "https://www.mt.co.kr/tech/2026/10/13/2026101317543288087",
+    "title": "'국내 최초' 앤트로픽 프리퍼드 획득…LG CNS, 글로벌 50곳 벽 뚫었다"
+   },
+   {
+    "url": "https://mt.co.kr/tech/2026/10/13/2026101314541312264",
+    "title": "\"보안은 국정원·과기부\"…개인정보위 \"사전 예방 투자 땐 처분 감경\""
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216195",
+    "title": "\"요금 왜 올랐어?\"...통신사 앱 속 AI가 답변에서 납부까지 원스톱 지원"
+   },
+   {
+    "url": "https://news.mynavi.jp/article/20261013-5122249/",
+    "title": "'누에의 음양사' 2027년 여름 TV애니화 결정! 캐스트 코멘트 도착, 제작은 스튜디오 히바리"
+   },
+   {
+    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245191",
+    "title": "박훈정 신작 슬픈 열대, 11월 25일 개봉 확정"
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1164799",
+    "title": "글로벌 1위 찍더니… 이번에도 역대급 '신드롬' 기대되는 한국 드라마"
    }
   ]
  }
