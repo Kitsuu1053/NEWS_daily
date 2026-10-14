@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-08": [
-   {
-    "url": "https://www.fnnews.com/news/202610071552318501",
-    "title": "코스피, 1.98% 내린 6803.90 마감...코스닥은 900선 내줘[fn마감시황]"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610071601469202",
-    "title": "한성숙 \"2030년까지 공적 주택 119만호..'공급 상황판' 전국민 공개\""
-   },
-   {
-    "url": "https://www.mt.co.kr/industry/2026/10/08/2026100806522773652",
-    "title": "메모리가 다 했다…삼성전자, 3Q 영업이익 107.4조 '새 역사'"
-   },
-   {
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02309126645610952",
-    "title": "트럼프, 머스크·젠슨 황 등에 과학 훈장…실리콘밸리와 밀착"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610072144437828740eacf404_1",
-    "title": "다카이치 日총리, 트럼프에 북일회담 ‘중재’ 요청…납북 문제 돌파구 모색"
-   },
-   {
-    "url": "https://www.news1.kr/world/europe/6313543",
-    "title": "고교생 시위 과잉진압 논란에…佛경찰, 섬광수류탄 사용 중단"
-   },
-   {
-    "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036900",
-    "title": "강신철 \"병역특례 점진 축소후 폐지가 국방부 목표\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610071701571938",
-    "title": "여야, 투표용지 부족 사태에 선관위 질타…\"재검표 서둘러야\" [2026년 국감]"
-   },
-   {
-    "url": "https://www.newsis.com/view/NISX20261007_0003816845",
-    "title": "野박충권 \"'탈북민 북송 회유' 제보 들어와\"…與 \"상식에 안 맞아\" 野 \"웃지마라\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
-    "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개"
-   },
-   {
-    "url": "https://www.mt.co.kr/tech/2026/10/08/2026100709554237233",
-    "title": "[단독]\"팔아도 남는 게 없다\"…삼성, 스마트폰 생산량 30% 줄인다"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216023",
-    "title": "앤트로픽, '프로젝트 글래스윙' 개편...첨단 모델 접근 대폭 확대"
-   },
-   {
-    "url": "https://www.news1.kr/industry/auto-industry/6312364",
-    "title": "제네시스, 부산국제영화제 10년 연속 후원…레드카펫에 'GV90 네오룬'"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026100805461348902bd56fbc3c_1",
-    "title": "캐나다 자동차노조 유니포, 스텔란티스 대상 파업 찬반투표 실시"
-   },
-   {
-    "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2325195",
-    "title": "2026 영광관광 사진공모전, 10월 1일부터 작품 접수"
-   }
-  ],
   "2026-10-09": [
    {
     "url": "https://fnnews.com/news/202610081821082413",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.wikitree.co.kr/articles/1164799",
     "title": "글로벌 1위 찍더니… 이번에도 역대급 '신드롬' 기대되는 한국 드라마"
+   }
+  ],
+  "2026-10-15": [
+   {
+    "url": "https://www.newspim.com/news/view/20261014001192",
+    "title": "[마감시황] 코스피, 장 초반 2%대 상승분 반납…6000선 턱걸이"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261014000159",
+    "title": "지방공항 5대 관광권에 4100억 투입"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6320462",
+    "title": "트럼프 \"한국의 알래스카 500억달러 투자, 나와의 무역·투자 합의\""
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261015500742",
+    "title": "트럼프 “그린란드서 대규모 석유·가스 탐사 곧 시작”…그린란드 정부는 ‘반박’"
+   },
+   {
+    "url": "https://www.news1.kr/world/asia-australia/6320382",
+    "title": "日농림수산상, 잇단 비위 의혹에 결국 사임…개각 한 달만"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610150725001/",
+    "title": "우크라 \"정치적 이유로 스타링크 이동속도 제한\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610141428439438",
+    "title": "국방위, 한화-KAI 인수전 검증 일단 제쳐둔다...M&A '안보 심사' 강화는 변수"
+   },
+   {
+    "url": "https://www.mt.co.kr/politics/2026/10/14/2026101416163210792",
+    "title": "李대통령 \"지금이야말로 대한민국 인구정책 판 바꿀 전환기\""
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6319631",
+    "title": "정점식 \"정동영, 北에 굴종과 사대하는 가장 치욕적 인사\""
+   },
+   {
+    "url": "https://www.anthropic.com/news/singapore-office-opening",
+    "title": "앤트로픽, 싱가포르 사무소 개소 및 싱가포르 정부와 MOU 체결"
+   },
+   {
+    "url": "https://www.dailian.co.kr/news/view/1701383/%EC%82%BC%EC%84%B1SK-%EC%B0%A8%EC%84%B8%EB%8C%80-HBM4E-%EB%82%98%EB%9E%80%ED%9E%88-%EA%B3%B5-2026",
+    "title": "삼성·SK, 차세대 HBM4E 나란히 공개…역대 최대 반도체대전 개막 [SEDEX 2026]"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610141113011",
+    "title": "\"제미나이 다시 써볼까\"…구글 아르곤 공식 배포, 글쓰기 '호평'"
+   },
+   {
+    "url": "https://mbiz.heraldcorp.com/article/10895556",
+    "title": "문화예술로 뉴욕 물들인 제네시스·현대차"
+   },
+   {
+    "url": "https://www.news1.kr/industry/auto-industry/6317817",
+    "title": "렉서스 준대형 세단 'ES' 8세대 국내 출시…ES 첫 전기차 추가"
+   },
+   {
+    "url": "https://linkareer.com/activity/349844",
+    "title": "제20회 월간<아이러브캐릭터> 캐릭터 공모전"
    }
   ]
  }
