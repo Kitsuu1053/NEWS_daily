@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-09": [
-   {
-    "url": "https://fnnews.com/news/202610081821082413",
-    "title": "외국인·기관 3조 매도 폭탄… 코스피 6600선으로 '후퇴'"
-   },
-   {
-    "url": "https://www.mt.co.kr/amp/economy/2026/10/08/2026100810295135889",
-    "title": "대미 투자 다음은 301조 관세…부처 합동 통상현안 대응"
-   },
-   {
-    "url": "https://mt.co.kr/world/2026/10/09/2026100907322715962",
-    "title": "중동발 공급 불안에 美 생산 중단까지…국제유가 또 급등"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610090759001/",
-    "title": "트럼프 “중간선거 전 이란 공격 안 해···현재 생산적 논의 중”"
-   },
-   {
-    "url": "https://newspim.com/news/view/20261008000427",
-    "title": "다카이치, '핵공유' 가능성 부인...원잠 도입도 결정된 것 없어"
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261008519506",
-    "title": "러시아, 연이틀 우크라에 융단폭격…민간인 최소 33명 사망"
-   },
-   {
-    "url": "https://newspim.com/news/view/20261008001384",
-    "title": "[2026 국감] 진영승 합참의장 \"스마트글라스·커넥티드카 군부대 반입 보안지침 신속 마련\""
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261008001000",
-    "title": "장동혁 \"靑, 제청권 헌법 해석까지 나서…결국 김민기 제청하라는 이야기\""
-   },
-   {
-    "url": "https://www.dailian.co.kr/news/view/1699691/%EC%A0%95%EC%B2%AD%EB%9E%98-%EA%B5%AD%EA%B0%90-%EC%B6%9C%EA%B5%AD-%EC%95%9E%EB%91%90%EA%B3%A0-%EB%AF%B8%EA%B5%AD-%EB%B9%84%EC%9E%90%EB%B0%9C-2026",
-    "title": "정청래, 국감 출국 앞두고 미국 비자발급 보류…\"유감스럽다\""
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "title": "앤트로픽, 모델 학대·선거 개입 금지하도록 이용 정책 변경"
-   },
-   {
-    "url": "https://etnews.com/20261008000087",
-    "title": "신한·KB 노린 해킹범 정체는 '광둥성 거주 26세 중국인'?…AI 흔적서 개인정보 포착"
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "title": "구글, 제미나이에 에이전트형 AI 도입…기업부터 시작"
-   },
-   {
-    "url": "https://sports.khan.co.kr/article/202610080707013/",
-    "title": "‘맨유 만세!’ 0경기 출전 ‘1400억의 사나이’ 손흥민 친정 토트넘전 데뷔전 유력 “지난주 비공식전 출전 완료”"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/life/exhibition/2026/10/07/20261007016003",
-    "title": "오동나무 뚜껑에 새긴 편지… 간송이 후대에 전하는 마음"
-   },
-   {
-    "url": "https://mediahub.seoul.go.kr/archives/2019559",
-    "title": "디자인 따라 서울 한 바퀴! '서울디자인위크'가 온다"
-   }
-  ],
   "2026-10-10": [
    {
     "url": "https://www.etoday.co.kr/news/view/2634193",
@@ -433,6 +371,68 @@
    {
     "url": "https://linkareer.com/activity/349844",
     "title": "제20회 월간<아이러브캐릭터> 캐릭터 공모전"
+   }
+  ],
+  "2026-10-16": [
+   {
+    "url": "https://fnnews.com/news/202610151818169515",
+    "title": "‘검은 목요일’… 코스피 7% 이상 빠졌다 [바닥 없는 코스피]"
+   },
+   {
+    "url": "https://www.hankookilbo.com/news/article/A2026101516110000918",
+    "title": "코스피 폭락에… 금융당국, 긴급 증시 점검회의 개최"
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2636460",
+    "title": "9월 취업자 11.3만명 증가, 증가 폭은 축소…청년층 46개월째 감소 [상보]"
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/international/2026/10/16/20261016500008",
+    "title": "“총살 장면 생중계”하겠다더니…트럼프 ‘초유의 계획’ 접은 진짜 속내"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026101518330196608",
+    "title": "다카이치 \"일본 정부의 대러 스파이 활동 사실 없어\"…체포 기자 면회 추진"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261015001314",
+    "title": "美, 이란 재공습에 '모든 폭탄의 어머니' 투입 검토…중동 긴장 고조"
+   },
+   {
+    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6321042",
+    "title": "국방부 대변인 \"골대 계속 옮기면 전작권 전환 영원히 못 해\""
+   },
+   {
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261015010005093",
+    "title": "李 \"연임 목적 개헌·정계개편 음모론 벗어나도 된다\""
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261015510181",
+    "title": "국힘 \"임광현 인선, 대장동 패밀리 보은인사 민낯…철회해야\""
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "title": "앤트로픽, METR 연구원들에게 직원 수준 접근권 주고 내부 들여다보게 한다"
+   },
+   {
+    "url": "https://www.econovill.com/news/articleView.html?idxno=753762",
+    "title": "TSMC, 3Q 순이익 69% 급증… 웨이저자 회장 \"남의 식탁에 음식 남기지 않겠다\""
+   },
+   {
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707587",
+    "title": "美 빅테크들도 오픈웨이트 정조준...엔비디아 이어 메타도 대공세"
+   },
+   {
+    "url": "https://www.mydaily.co.kr/page/view/2026101511115985278",
+    "title": "아틀레티코전 완패 후 공개 저격, 맨체스터 유나이티드 '왼발 CB' 내부 징계 위기! 입장문 통해 해명...\"분노와 좌절감으로 발언\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610160611046376",
+    "title": "오려낸 신문, 나무에 그린 어머니…아르코 소장품에 남은 시대 [fn 아트스냅]"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261015000976",
+    "title": "현대百, 더현대 서울서 달 탐사 로버 전시…20일까지 운영"
    }
   ]
  }
