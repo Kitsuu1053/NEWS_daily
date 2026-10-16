@@ -167,7 +167,7 @@ def render(d, meta_line, prev_href, next_href):
             cards += (f'<article class="card"><div class="thumb">{img}</div><div class="body"><div class="meta"><span class="tag{" fill" if a["fixed"] else ""}">{e(a["tag1"])}</span>'
                       f'<span class="tag">{e(a["tag2"])}</span><span>{e(a["source"])}</span><span class="tm">{e(a["time"])}</span>{extra}</div>'
                       f'{orig}<a href="{e(a["url"])}" target="_blank" rel="noopener">{e(a["title"])}</a>'
-                      f'<p class="sum">{e(a["summary"])}</p></div></article>')
+                      f'</div><p class="sum">{e(a["summary"])}</p></article>')
         secs += f'<section class="sector" id="{s["id"]}"><h2>{names[s["id"]]}</h2><div class="list">{cards}</div></section>'
     navbar = "".join(f'<a href="#{i}">{n}</a>' for i, n in SECTORS)
     body = f'''<div class="wrap">
