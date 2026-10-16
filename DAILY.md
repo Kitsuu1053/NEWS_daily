@@ -12,7 +12,7 @@
 - `RULES.md`를 읽고 따른다. `TZ=Asia/Seoul date`로 날짜·요일·시각 확인, 시작 시각 기록.
 
 ## 3. 수집 → 빌드 → 올리기
-- RULES.md대로 5개 섹터(요일별 문화 포함)·서울 날씨·시장 지표를 하위 에이전트로 병렬 수집. 각 에이전트에 "WebSearch 결과에 나온 주소만 WebFetch로 열 것(직접 입력·목록 페이지 금지)"을 반드시 전달. 제외 목록은 `data/dedup.json`의 제목들을 요약해 각 에이전트에 전달.
+- RULES.md대로 5개 섹터(요일별 문화 포함)·서울 날씨·시장 지표를 하위 에이전트로 병렬 수집. 각 에이전트에 "WebSearch 결과에 나온 주소만 WebFetch로 열 것(직접 입력·목록 페이지 금지)"을 반드시 전달. 또 각 기사의 대표 이미지 주소(og:image → twitter:image → 본문 첫 사진, 확인된 값만)를 출력 JSON의 `thumb`에 넣도록 지시(못 구하면 null). 제외 목록은 `data/dedup.json`의 제목들을 요약해 각 에이전트에 전달.
 - `data/today.json` 작성 → `python3 build.py data/today.json` (오류 시 원인 수정 후 재실행)
 - `git add index.html prev.html data` → 커밋 `Briefing YYYY-MM-DD (N회차)` (작성자 Claude <noreply@anthropic.com>) → `git push origin HEAD:main`
 - 반영 확인은 하지 않는다: 브리핑 페이지는 검색에 나오지 않아 아무도 없는 시간에는 열 수 없다. `git push` 성공을 완료 기준으로 삼는다.
