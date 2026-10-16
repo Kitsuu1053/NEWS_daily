@@ -162,10 +162,12 @@ def render(d, meta_line, prev_href, next_href):
             if a.get("age"):
                 extra += f'<span class="old">{e(a["age"])}</span>'
             orig = f'<p class="orig">{e(a["orig"])}</p>' if a.get("orig") else ""
-            cards += (f'<article class="card"><div class="meta"><span class="tag{" fill" if a["fixed"] else ""}">{e(a["tag1"])}</span>'
+            th = a.get("thumb")
+            img = (f'<img src="{e(th)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">' if th else "")
+            cards += (f'<article class="card"><div class="thumb">{img}</div><div class="body"><div class="meta"><span class="tag{" fill" if a["fixed"] else ""}">{e(a["tag1"])}</span>'
                       f'<span class="tag">{e(a["tag2"])}</span><span>{e(a["source"])}</span><span class="tm">{e(a["time"])}</span>{extra}</div>'
                       f'{orig}<a href="{e(a["url"])}" target="_blank" rel="noopener">{e(a["title"])}</a>'
-                      f'<p class="sum">{e(a["summary"])}</p></article>')
+                      f'<p class="sum">{e(a["summary"])}</p></div></article>')
         secs += f'<section class="sector" id="{s["id"]}"><h2>{names[s["id"]]}</h2><div class="list">{cards}</div></section>'
     navbar = "".join(f'<a href="#{i}">{n}</a>' for i, n in SECTORS)
     body = f'''<div class="wrap">
