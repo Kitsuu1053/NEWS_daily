@@ -1,0 +1,254 @@
+{
+ "date": "2026-10-18",
+ "weather": {
+  "min": 17,
+  "max": 21,
+  "am_text": "오전부터 비",
+  "am_icon": "rain",
+  "pm_text": "강한 비(12~18시 시간당 20~30mm), 밤에 그침",
+  "pm_icon": "heavy_rain",
+  "humidity": null,
+  "rain": "30~80mm",
+  "pm10": "좋음",
+  "pm25": null
+ },
+ "markets": null,
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "주간전망",
+     "source": "데일리안",
+     "time": "10.18 07:06",
+     "title": "반등 vs 추가 하락 '탐색전'…코스피 5100~6100 [주간 증시 전망]",
+     "url": "https://www.dailian.co.kr/news/view/1702649/%EB%B0%98%EB%93%B1-vs-%EC%B6%94%EA%B0%80-%ED%95%98%EB%9D%BD-%E2%80%98%ED%83%90%EC%83%89%EC%A0%84%E2%80%99%EC%BD%94%EC%8A%A4%ED%94%BC-2026",
+     "summary": "국내 증권사들이 이번 주 코스피 예상 범위로 5100~6100선을 제시했다. 15일 급락으로 서킷브레이커가 발동된 뒤 16일 5668.05로 반등했으며, 미국발 물가 충격과 AI 수익성 우려, 외국인 매도 진정 여부가 주요 변수로 꼽힌다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnimage.dailian.co.kr/news/202610/news_1792156989477_1702649_m_1.png"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "가상자산 과세",
+     "source": "이데일리",
+     "time": "10.18 06:00",
+     "title": "정부, 가상자산 과세 앞두고 현장 점검[재경부·기획처 주간예보]",
+     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01125046645614232",
+     "summary": "정부가 내년 1월 시행되는 가상자산 과세를 앞두고 20일 재정경제부 1차관 주재로 비공개 현장간담회를 연다. 연 250만원을 넘는 차익에 지방세 포함 22%를 분리과세하며, 2020년 도입 이후 세 차례 유예됐다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26101800032.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "경제",
+     "tag2": "잠재성장률",
+     "source": "공감신문",
+     "time": "10.18 07:51",
+     "title": "반도체와 AI로 활짝 핀 한국 경제, 40년 만에 잠재성장률 상승세",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=881798",
+     "summary": "IMF가 한국 잠재성장률이 지난해 1.94%에서 올해 2.14%, 내년 2.20%로 2년 연속 오를 것으로 전망했다. 1986~1987년 이후 처음이며, AI·반도체 투자 확대에 따른 생산성 개선이 주요 원인으로 꼽힌다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.gokorea.kr/news/thumbnail/202610/881798_159219_5114_v150.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "대러 제재",
+     "source": "글로벌이코노믹",
+     "time": "10.18 07:44",
+     "title": "트럼프 '러시아 제재 전격 해제' 파문… 젤렌스키 '핵심 지원' 끊기나",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101807403337872bd56fbc3c_1",
+     "summary": "백악관이 17일 행정명령으로 다음 주 발효 예정이던 그레이엄법에 따른 대러시아 제재와 관세를 유예했다. 연료 가격 급등 속 러시아산 디젤 수입 합의에 따른 조치로, 우크라이나 대통령은 러시아의 공격을 부추길 것이라고 반발했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261018074305051142bd56fbc3c21121419978.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "야스쿠니",
+     "source": "머니투데이",
+     "time": "10.17 11:11",
+     "title": "日 다카이치 총리, 야스쿠니신사에 공물 봉납…참배 보류",
+     "url": "https://www.mt.co.kr/world/2026/10/17/2026101711005428732",
+     "summary": "일본 총리가 17일 야스쿠니신사 추계 예대제에 맞춰 총리 명의로 공물 '마사카키'를 봉납했다. 19일까지인 예대제 기간에 직접 참배는 하지 않을 전망이며, 현직 총리의 참배는 2013년 12월 이후 없다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026101711005428732_1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "프랑스",
+     "tag2": "긴축 반대 시위",
+     "source": "글로벌이코노믹",
+     "time": "10.18 08:09",
+     "title": "프랑스 55만 명 거리로…400명 체포, 긴축 반발 격화",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101808022021912bd56fbc3c_1",
+     "summary": "17일 프랑스 전국 110개 행진에 내무부 추산 약 55만 명이 참가했고 약 400명이 체포됐다. 9월 학생들의 교육 여건 개선 요구로 시작된 시위는 2027년 예산안의 430억 유로 규모 재정 개선 조치 등 긴축에 대한 반발로 번졌다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261018080726043042bd56fbc3c21121419978.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "북한",
+     "source": "뉴스핌",
+     "time": "10.17 13:32",
+     "title": "北, 초고속 신형 어뢰 '잠-2.0' 시험발사…\"AI 탐색·유도 기술 적용\"",
+     "url": "https://www.newspim.com/news/view/20261017000061",
+     "summary": "북한이 AI 기술로 목표를 탐색·유도한다는 신형 초고속 정밀유도 어뢰 '잠-2.0'을 시험발사했다고 17일 밝혔다. 조선중앙통신은 15일 수중 시험에서 추진 성능이 입증됐다고 주장했으나 구체적 제원은 공개하지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2023/09/08/2309080704069480_t1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "대통령실",
+     "tag2": "SNS",
+     "source": "데일리안",
+     "time": "10.18 08:00",
+     "title": "\"정책 글 많다\"는 靑…李대통령 SNS 한 달 들여다보니",
+     "url": "https://dailian.co.kr/news/view/1702716/%EC%A0%95%EC%B1%85-%EA%B8%80-%EB%A7%8E%EB%8B%A4-%E9%9D%91%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-SNS-%ED%95%9C-2026",
+     "summary": "청와대는 대통령의 SNS 게시물이 주로 정책과 성과를 알리는 내용이라고 설명했다. 그러나 한 달간 X 게시물을 분류한 결과 정치 현안이 31건으로 민생·경제 42건에 근접했고, 인사 논란 등 비판에 직접 반박한 글도 잇따랐다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnimage.dailian.co.kr/news/202610/news_1792230982420_1702716_m_1.png"
+    },
+    {
+     "fixed": false,
+     "tag1": "정당",
+     "tag2": "여야",
+     "source": "경향신문",
+     "time": "10.17 18:02",
+     "title": "여·야, 부천 순직 소방관 조문 행렬···추미애 사과에 야당 “끝까지 오만”",
+     "url": "https://www.khan.co.kr/article/202610171802001",
+     "summary": "부천 공장 화재로 순직한 소방관의 빈소에 여야 지도부의 조문이 이어졌다. 경기도지사가 빈소에서 '소방 재정 빨대' 발언을 사과했고 민주당도 당 차원에서 사과했지만, 국민의힘은 \"장황한 자기변명\"이라며 비판을 이어갔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.khan.co.kr/news/2026/10/17/rcv.YNA.20261017.PYH2026101705410001300_P1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "10.17 10:47",
+     "title": "앤트로픽, 신용등급 '투자적격'까지 한 단계…돈 빌리기 쉬워지나",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216353",
+     "summary": "신용평가사 KBRA가 앤트로픽에 투자적격보다 한 단계 낮은 BB+ 등급을 부여한 사실이 알려졌다. 재무자료가 부족해 위험 점수 방식으로 평가했으며, 상장과 추가 자금 조달을 앞두고 차입 비용에 영향을 줄 변수로 꼽힌다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216353_220401_4653.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "디스플레이",
+     "source": "지디넷코리아",
+     "time": "10.17 09:44",
+     "title": "삼성디스플레이, 'NPE' 네오레이어 특허 반격 확대",
+     "url": "https://zdnet.co.kr/view/?no=20261017093117",
+     "summary": "삼성디스플레이가 9~10월 특허관리전문회사 네오레이어의 미국 특허 3건에 재심사를 청구했다. 네오레이어가 삼성전자 소송에 쓴 특허 6건 중 5건이 재심사 대상이 됐으며, 같은 특허로 에이수스와 BOE도 피소된 상태다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.zdnet.co.kr/2026/08/30/990bc1cc46a66118021fcbe25dec5c9c.png"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "생성형 AI",
+     "source": "AI타임스",
+     "time": "10.17 19:47",
+     "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+     "summary": "블랙포레스트랩스가 4K 생성과 참조 이미지 10장을 지원하는 56억 매개변수 이미지 모델 '플럭스 3 이미지 클라인'의 가중치를 공개했다. 스텝펀·앤트그룹의 대형 언어모델과 크레아·바이트플러스의 이미지·영상 생성 모델도 함께 나왔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216368_220423_4721.png"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "게임",
+     "tag2": "업데이트",
+     "source": "AUTOMATON",
+     "time": "10.17 09:27",
+     "title": "흡혈귀 중세 오픈월드 'The Blood of Dawnwalker', 다음 주 배포 업데이트로 일본어판 표현 규제 철폐. 드디어 제대로 피를 볼 수 있을 듯",
+     "url": "https://automaton-media.com/articles/newsjp/the-blood-of-dawnwalker-20261017-474048/",
+     "summary": "리벨 울브스가 만들고 반다이남코가 유통하는 'The Blood of Dawnwalker'가 다음 주 1.1 업데이트로 일본어판의 유혈·고어 표현 규제를 없앤다. 스킬 재습득, 동물 쓰다듬기, 전투 보조 난이도도 추가된다. PC·PS5·Xbox Series X|S 대상이며 정확한 배포일은 미정.",
+     "age": null,
+     "orig": "吸血鬼中世オープンワールド『The Blood of Dawnwalker』、来週配信アプデで日本語版の表現規制撤廃へ。ついにちゃんと血を見られそう",
+     "deadline": null,
+     "thumb": "https://automaton-media.com/wp-content/uploads/2026/10/the-blood-of-dawnwalker-20261017-474048-header.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "블루아카이브",
+     "tag2": "이벤트",
+     "source": "루리웹",
+     "time": "10.17 12:02",
+     "title": "[Multi] 블루 아카이브(日) 이벤트 상설화 예고 - 월화몽소",
+     "url": "https://bbs.ruliweb.com/news/board/320108/read/2295667",
+     "summary": "블루 아카이브 일본판이 공식 X를 통해 기간 한정 이벤트 '월화몽소'를 상설 이벤트로 바꾼다고 예고했다. 상설판은 10월 21일(수) 오전 11시부터 열리며, 처음 하는 선생도 언제든 즐길 수 있게 된다. 상설화와 함께 추가되는 내용은 미정.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i2.ruliweb.com/ori/26/10/17/1a147cf883c137dbd.webp"
+    },
+    {
+     "fixed": true,
+     "tag1": "블루아카이브",
+     "tag2": "굿즈",
+     "source": "파이낸셜뉴스",
+     "time": "10.14 09:49",
+     "title": "'블루 아카이브' 도시락·굿즈, GS25 매장 출시",
+     "url": "https://www.fnnews.com/news/202610140943587531",
+     "summary": "넥슨과 GS25가 세 번째 블루 아카이브 콜라보 '시즌3 방과후 디저트부의 달콤한 특별파견'을 시작했다. 도시락과 햄버거에 학생증·포토카드를 동봉하고, 10월 30일~11월 22일 특화 매장 5곳에서 키캡·아크릴 스탠드 등 한정 굿즈를 판다. 초코볼은 11월 6일 출시, 가격 미공개.",
+     "age": "4일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/10/14/202610140945212291_e.png"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "42주차 · 18회차 브리핑"
+}
