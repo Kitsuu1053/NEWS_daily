@@ -1,0 +1,306 @@
+{
+ "date": "2026-10-19",
+ "weather": {
+  "min": 12,
+  "max": 19,
+  "am_text": "대체로 흐림, 아침까지 약한 빗방울",
+  "am_icon": "cloud",
+  "pm_text": "구름 많음",
+  "pm_icon": "sun_cloud",
+  "humidity": null,
+  "rain": "없음",
+  "pm10": "좋음",
+  "pm25": null
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,668.05",
+   "pct": 2.05,
+   "closes": [
+    6971.35,
+    7003.74,
+    6941.39,
+    6803.9,
+    6625.93,
+    6384.24,
+    6035.35,
+    6008.81,
+    5554.22,
+    5668.05
+   ]
+  },
+  {
+   "name": "나스닥100 선물",
+   "value": "29,391.50",
+   "pct": -2.5,
+   "closes": [
+    31317.75,
+    31483.25,
+    31402.25,
+    30969.5,
+    31108.75,
+    30898.25,
+    30791.5,
+    30182.75,
+    30143.75,
+    29391.5
+   ]
+  },
+  {
+   "name": "원/달러",
+   "value": "1,331.4",
+   "pct": -0.98,
+   "closes": [
+    1358.4,
+    1350.6,
+    1343.6,
+    1340.4,
+    1338.5,
+    1335.1,
+    1345.1,
+    1338.3,
+    1344.6,
+    1331.4
+   ]
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "미국 실적시즌",
+     "source": "이투데이",
+     "time": "10.19 07:48",
+     "title": "뉴욕증시, 테슬라ㆍ메타 등 실적 발표 주목 [뉴욕인사이트]",
+     "url": "https://etoday.co.kr/news/view/2637102",
+     "summary": "이번 주(19~23일) 뉴욕증시는 넷플릭스(20일), 메타·테슬라(21일) 등의 3분기 실적 발표가 관심사다. 지난주 나스닥은 4% 넘게 떨어져 6월 이후 가장 나쁜 한 주를 보냈다. 팩트셋 집계로 S&P500 기업의 3분기 이익 증가율 예상치는 29.6%다. 시장은 AI 관련 차입이 지나치다는 우려를 실적이 덜어줄지 보고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261016063424_2402254_1200_800.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "임금체계",
+     "source": "뉴스핌",
+     "time": "10.18 12:05",
+     "title": "'같은 가치 노동엔 같은 임금'…정부, 연내 로드맵 마련",
+     "url": "https://www.newspim.com/news/view/20261018000036",
+     "summary": "고용노동부가 고용 형태나 성별과 관계없이 같은 가치의 노동에 같은 임금을 주는 원칙을 제도로 만들기 위한 로드맵을 12월 발표를 목표로 준비하고 있다. 원칙을 법에 담고, 임금정보 공개를 늘리고, 직무급을 도입하는 방안을 검토한다. 정규직과 비정규직, 대기업과 중소기업 사이 임금 격차를 줄이려는 것이다. 노사 모두 반발하고 있어 실제 시행 시점은 미정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/13/261013113217854_t1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "금리",
+     "tag2": "한국은행",
+     "source": "파이낸셜뉴스",
+     "time": "10.18 18:34",
+     "title": "금리 고민 커진 한은…'10월 동결, 11월 인상' 힘실린다",
+     "url": "https://fnnews.com/news/202610181834184677",
+     "summary": "한국은행 금융통화위원회가 22일 기준금리를 결정한다. 한은은 7·8월에 금리를 잇달아 0.25%p씩 올렸고, 시장은 이번 달 동결 뒤 11월 인상 쪽에 무게를 두고 있다. 3%대 고물가와 고유가, 1200조원에 가까운 은행권 가계대출 잔액은 인상 요인이다. 반면 취약계층에 몰리는 이자 부담은 추가 인상을 어렵게 하는 요인이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/10/18/202610181834204503_e.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "여론조사",
+     "source": "경향신문",
+     "time": "10.19 06:50",
+     "title": "트럼프 지지율 33% ‘최저’…경제 신뢰도, 12년 만에 민주당에 역전",
+     "url": "https://www.khan.co.kr/article/202610190650001/",
+     "summary": "18일 공개된 WP·ABC 여론조사에서 트럼프 대통령의 국정 지지율은 33%로 집권 2기 들어 가장 낮았다. NBC 조사에서도 34%로 최저였다. 경제를 맡길 정당으로는 2014년 이후 처음 민주당(40%)이 공화당(33%)을 앞섰다. 경제 정책 반대는 70%에 이르렀다. 중간선거를 앞두고 생활비와 유가 부담이 표심을 흔들고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.khan.co.kr/news/2026/10/19/rcv.YNA.20261018.PRU20261018154701009_P1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "방위비·증세",
+     "source": "파이낸셜뉴스",
+     "time": "10.18 14:48",
+     "title": "日, 방위비 증액 위해 AI·반도체기업 법인세 올리나",
+     "url": "https://www.fnnews.com/news/202610181412253720",
+     "summary": "일본 정부가 연내 안보 문서를 개정하면서 2027년부터 5년간 쓸 방위비를 정한다. 이 규모가 직전 계획의 43조엔에서 최대 80조엔까지 늘 수 있다는 관측이 나온다. 재원으로는 실적이 좋은 AI·반도체 대기업의 법인세를 올리는 방안이 떠올랐다. 경제계는 경쟁력이 떨어질 수 있다며 반발할 가능성이 있고, 구체안은 예산 편성 과정에서 나올 예정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/09/14/202609141438088654_e.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "인도",
+     "tag2": "압사사고",
+     "source": "SBS",
+     "time": "10.18 14:10",
+     "title": "인도 콜카타서 힌두교 축제 중 압사사고…19명 사망·25명 부상",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802899",
+     "summary": "현지시간 17일 밤 인도 콜카타의 힌두교 축제 '두르가 푸자' 행사장에서 압사 사고가 나 7살 여아를 포함해 19명이 숨지고 25명이 다쳤다. 비가 내리자 좁은 통로로 인파가 한꺼번에 몰린 것으로 조사됐다. 경찰은 주최 측 관계자 등 10명을 연행했다. 인도에서는 종교 행사장 압사 사고가 자주 일어난다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.sbs.co.kr/newimg/news/20261018/202232419_1280.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "북한",
+     "source": "파이낸셜뉴스",
+     "time": "10.18 23:16",
+     "title": "\"수영장만 50m·워터슬라이드까지\"…北 원산 앞바다 포착된 김정은 호화 선박",
+     "url": "https://www.fnnews.com/news/202610182314081355",
+     "summary": "BBC가 7월부터 10월 중순까지 원산 앞바다 위성사진을 분석한 결과, 김정은 위원장 별장 인근에서 50~80m급 대형 선박 4척이 반복 포착됐다. 80m급 선박에는 약 50m 수영장과 워터슬라이드가 있는 것으로 전해졌으며, 공식 소유주는 확인되지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/10/18/202610182251322645_e.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "국정감사",
+     "source": "뉴스1",
+     "time": "10.18 11:28",
+     "title": "'국감 반환점' 정쟁 책임 공방…野 \"민생국감 막아\" 與 \"정쟁 멈춰라\"",
+     "url": "https://www.news1.kr/politics/assembly/6323544",
+     "summary": "국정감사가 반환점을 돈 18일 여야가 파행 책임을 놓고 공방을 벌였다. 국민의힘은 민주당이 요구 증인 39명 중 1명도 수용하지 않았다고 비판했고, 민주당은 국민의힘의 장외투쟁과 팻말 시위로 회의가 지연됐다고 반박했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/18/8164717/high.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "민주당",
+     "source": "뉴스핌",
+     "time": "10.18 10:31",
+     "title": "가수 공연 끊고 무대 오른 김민석…국민의힘 \"갑질 난입\" 맹비난",
+     "url": "https://www.newspim.com/news/view/20261018000023",
+     "summary": "더불어민주당 대표가 15일 전북 순창장류축제 개막 공연 도중 가수가 노래하던 무대에 올라 인사말을 한 영상이 확산됐다. 국민의힘은 축제를 유세장으로 악용한 '정당 대표의 갑질 난입'이라며 공개 사과를 요구했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/16/261016214728049_852_tc.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "10.18 19:10",
+     "title": "앤트로픽 클로드, 25년 된 암호 표준 미스터리 풀어…\"30분도 안 걸렸다\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216380",
+     "summary": "앤트로픽은 내부 연구용 클로드가 NSA 제공 시드로 만든 NIST 타원곡선 5종의 시드 생성 방식을 30분 안에 밝혀냈다고 공개했다. 1990년대 난수 생성기와 유닉스 타임스탬프로 시드를 재현했으며, 기존 암호가 깨진 것은 아니어서 이용자 조치는 필요 없다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216380_220444_01.jpeg"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "보안뉴스",
+     "time": "10.18 19:05",
+     "title": "커피전문점 '할리스' 해킹으로 고객 개인정보 유출... 비밀번호까지 포함",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=146479",
+     "summary": "커피전문점 할리스의 멤버십 시스템이 해킹돼 9월 3일부터 10월 7일까지 무단 접근이 이어졌다. 2020년 2월 11일 이전 가입자의 ID·비밀번호·주소·DI 등이 유출됐고, 전체 피해 규모는 공개되지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.boannews.com/news/photo/202610/146479_128972_5137.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "마이크로소프트",
+     "source": "AI타임스",
+     "time": "10.16 18:08",
+     "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…'독자 역량' 부각",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+     "summary": "마이크로소프트가 약 2조8000억 매개변수의 자체 모델 MAI-Base-2 사전학습을 마쳤다. 토큰당 약 800억 개만 활성화되는 MoE 구조로, 자사 제품에 먼저 적용한 뒤 기업 고객으로 확대할 계획이며 현재 사후 학습 단계다.",
+     "age": "2일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216337_220381_2448.jpg"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "제네시스",
+     "tag2": "스포츠 후원",
+     "source": "머니투데이",
+     "time": "10.19 07:49",
+     "title": "'제네시스 챔피언십' 개막 D-4... KPGA 투어 선수 36명 결정, 랭킹 1위 신상훈 \"DP월드투어 선수들과 경쟁서 좋은 활약 펼칠 것\"",
+     "url": "https://www.mt.co.kr/culture/2026/10/19/2026101900481511430",
+     "summary": "KPGA·DP월드투어가 함께 주관하는 제네시스 챔피언십이 나흘 뒤 천안 우정힐스CC에서 열린다. 제네시스 포인트 상위 36명이 확정됐고, DP월드투어 선수 90명도 출전한다. 총상금은 400만 달러이며, 우승자는 GV80 하이브리드와 두 투어 2년 시드를 받는다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101900481511430_1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "자동차",
+     "tag2": "전기차",
+     "source": "이투데이",
+     "time": "10.18 16:46",
+     "title": "대중차 넘어 초럭셔리까지…수억원대 전기차 시장 ‘격전’",
+     "url": "https://www.etoday.co.kr/news/view/2636877",
+     "summary": "벤틀리는 첫 순수 전기차 토르칼을 서울에서 아시아 최초로 공개했고, 가격은 3억3000만원부터다. 포르쉐는 카이엔 쿠페 일렉트릭을 국내에 내놨으며, 8억원대 페라리 루체도 대기 중이다. 9월 수입 전기차 등록은 1만8181대로 1년 전보다 41% 늘어 수입 승용차의 절반을 넘었다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261018173117_2403118_1200_441.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "공모전",
+     "tag2": "디자인·일러스트",
+     "source": "링커리어",
+     "time": "미정",
+     "title": "2026 국제사이버디자인 트렌드공모전",
+     "url": "https://linkareer.com/activity/348164",
+     "summary": "(사)한국디자인트렌드학회가 주최하는 공모전으로, 그래픽·일러스트·디지털·패션·산업디자인 작품을 받는다. 대학생이 참가할 수 있고 같은 학교 2인까지 공동 출품이 가능하며, 출품 수 제한은 없다. 마감은 12월 4일이고, 총상금은 410만원(대상 100만원)이다.",
+     "age": null,
+     "orig": null,
+     "deadline": "12.04",
+     "thumb": "https://api.linkareer.com/attachments/931347"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "43주차 · 19회차 브리핑"
+}

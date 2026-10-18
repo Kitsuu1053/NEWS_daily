@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-12": [
-   {
-    "url": "https://www.fnnews.com/news/202610111808262101",
-    "title": "6600까지 밀린 코스피… 반도체 실적 주목 [주간 증시 전망]"
-   },
-   {
-    "url": "https://www.mt.co.kr/estate/2026/10/11/2026101112371634656",
-    "title": "LH, 서울서 3년간 매입임대주택 2만가구 공급"
-   },
-   {
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01410406645611936",
-    "title": "반도체 호황의 그늘…중소기업 생산·수출 비중 '뚝'"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610120747001/",
-    "title": "트럼프, \"러·우 에너지 휴전합의\" 했다지만, 러는 공습 계속···젤렌스키는 \"처음 들어\""
-   },
-   {
-    "url": "https://www.hankyung.com/article/202610114568i",
-    "title": "日 외무성, 기밀정보 유출 막는다…美·英 수준 보안체계 도입"
-   },
-   {
-    "url": "https://fnnews.com/news/202610111859019035",
-    "title": "벼랑 끝 네타냐후… 이스라엘 총선 최대 화두는 안보 [글로벌 리포트]"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261011000033",
-    "title": "北, 당 창건 81주년 '조용한 기념'… 열병식·김정은 연설 없이 공연만"
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6315953",
-    "title": "주진우 \"李대통령, 대구 붕괴 사고 당일 골프장\"…靑, 회견 직전 일정 공개(종합)"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610120722001/",
-    "title": "국정감사 2주차 돌입···문재인 정부 표적 감사·중수청 출범 공방 예고"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216136",
-    "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 전면 재검토"
-   },
-   {
-    "url": "https://www.thelec.kr/news/articleView.html?idxno=63515",
-    "title": "ASML, 유지보수용 노광장비 부품값 10% 일괄 인상"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216124",
-    "title": "앤트로픽, 자체 음성 모델 개발하나…클로드 웹에 '보이스' 메뉴 포착"
-   },
-   {
-    "url": "https://www.mt.co.kr/industry/2026/10/08/2026100810362685456",
-    "title": "제네시스 수지서 GV90 만난다..11월 8일까지 특별전시"
-   },
-   {
-    "url": "https://hankyung.com/article/202610113913g",
-    "title": "현대차, 30년 만에 대기록 썼다…인도서 누적 판매 1000만대"
-   },
-   {
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01541606645481720",
-    "title": "과기정통부, '생활 속 전자파 바로알기' 공모전 개최…총상금 750만원"
-   }
-  ],
   "2026-10-13": [
    {
     "url": "https://www.newspim.com/news/view/20261012001236",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.fnnews.com/news/202610140943587531",
     "title": "'블루 아카이브' 도시락·굿즈, GS25 매장 출시"
+   }
+  ],
+  "2026-10-19": [
+   {
+    "url": "https://etoday.co.kr/news/view/2637102",
+    "title": "뉴욕증시, 테슬라ㆍ메타 등 실적 발표 주목 [뉴욕인사이트]"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261018000036",
+    "title": "'같은 가치 노동엔 같은 임금'…정부, 연내 로드맵 마련"
+   },
+   {
+    "url": "https://fnnews.com/news/202610181834184677",
+    "title": "금리 고민 커진 한은…'10월 동결, 11월 인상' 힘실린다"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610190650001/",
+    "title": "트럼프 지지율 33% ‘최저’…경제 신뢰도, 12년 만에 민주당에 역전"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610181412253720",
+    "title": "日, 방위비 증액 위해 AI·반도체기업 법인세 올리나"
+   },
+   {
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802899",
+    "title": "인도 콜카타서 힌두교 축제 중 압사사고…19명 사망·25명 부상"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610182314081355",
+    "title": "\"수영장만 50m·워터슬라이드까지\"…北 원산 앞바다 포착된 김정은 호화 선박"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6323544",
+    "title": "'국감 반환점' 정쟁 책임 공방…野 \"민생국감 막아\" 與 \"정쟁 멈춰라\""
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261018000023",
+    "title": "가수 공연 끊고 무대 오른 김민석…국민의힘 \"갑질 난입\" 맹비난"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216380",
+    "title": "앤트로픽 클로드, 25년 된 암호 표준 미스터리 풀어…\"30분도 안 걸렸다\""
+   },
+   {
+    "url": "https://www.boannews.com/news/articleView.html?idxno=146479",
+    "title": "커피전문점 '할리스' 해킹으로 고객 개인정보 유출... 비밀번호까지 포함"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+    "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…'독자 역량' 부각"
+   },
+   {
+    "url": "https://www.mt.co.kr/culture/2026/10/19/2026101900481511430",
+    "title": "'제네시스 챔피언십' 개막 D-4... KPGA 투어 선수 36명 결정, 랭킹 1위 신상훈 \"DP월드투어 선수들과 경쟁서 좋은 활약 펼칠 것\""
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2636877",
+    "title": "대중차 넘어 초럭셔리까지…수억원대 전기차 시장 ‘격전’"
+   },
+   {
+    "url": "https://linkareer.com/activity/348164",
+    "title": "2026 국제사이버디자인 트렌드공모전"
    }
   ]
  }
