@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-14": [
-   {
-    "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/13/20261013500225",
-    "title": "[마감시황]코스피 6,035.35 마감…외국인 대거 매도에 5.46% 급락"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261013000296",
-    "title": "산업부, 반도체 메가프로젝트 전담 국장급 조직 신설…20일 출범"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261013001116",
-    "title": "금융위 세종 이전에 금융 공공기관 이전 논란…금감원은 '별도 검토'"
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6319048",
-    "title": "\"억대 빚 갚아줘\" 의혹…트럼프 장남 前약혼자 대사직 사임(종합)"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026101321043089830",
-    "title": "NHK \"日 다카이치 내각 지지율 51%\"…개각에도 하락"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261014000011",
-    "title": "英, 6조8000억 비트코인 '횡재' 눈앞… 중국 사기범에게서 압수, 국고 귀속 가능성"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610131205315431",
-    "title": "방사청 \"美 마스가 함정 1·2번함 국내 건조\"…안보는 '사이버 해킹' 비상"
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6318035",
-    "title": "\"헌정사 초유의 폭거\"…野, 與주도 이진숙 과방위 '제척' 반발"
-   },
-   {
-    "url": "https://weekly.khan.co.kr/article/202610140740001/",
-    "title": "\"임은정 어떻게?\" 김지용 중수청장 후보 오늘 청문회"
-   },
-   {
-    "url": "https://www.mt.co.kr/tech/2026/10/13/2026101317543288087",
-    "title": "'국내 최초' 앤트로픽 프리퍼드 획득…LG CNS, 글로벌 50곳 벽 뚫었다"
-   },
-   {
-    "url": "https://mt.co.kr/tech/2026/10/13/2026101314541312264",
-    "title": "\"보안은 국정원·과기부\"…개인정보위 \"사전 예방 투자 땐 처분 감경\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216195",
-    "title": "\"요금 왜 올랐어?\"...통신사 앱 속 AI가 답변에서 납부까지 원스톱 지원"
-   },
-   {
-    "url": "https://news.mynavi.jp/article/20261013-5122249/",
-    "title": "'누에의 음양사' 2027년 여름 TV애니화 결정! 캐스트 코멘트 도착, 제작은 스튜디오 히바리"
-   },
-   {
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245191",
-    "title": "박훈정 신작 슬픈 열대, 11월 25일 개봉 확정"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1164799",
-    "title": "글로벌 1위 찍더니… 이번에도 역대급 '신드롬' 기대되는 한국 드라마"
-   }
-  ],
   "2026-10-15": [
    {
     "url": "https://www.newspim.com/news/view/20261014001192",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.seoul.co.kr/news/life/exhibition/2026/10/15/20261015500061",
     "title": "제페토 할아버지의 공방으로 초대합니다… ‘피노키오전 : PLAY ＆ CREATE’ 11월 6일 개막"
+   }
+  ],
+  "2026-10-21": [
+   {
+    "url": "https://www.mt.co.kr/stock/2026/10/20/2026102015384373141",
+    "title": "코스피, 외국인·기관 매도에 3.73% 하락…5552.74 마감"
+   },
+   {
+    "url": "https://www.mt.co.kr/politics/2026/10/20/2026102010515586442",
+    "title": "李대통령, 23일 규제합리화위원회 2차 전체회의 주재"
+   },
+   {
+    "url": "https://www.mt.co.kr/economy/2026/10/20/2026102016093017153",
+    "title": "원/달러 환율 1328.1원…3거래일 연속 연저점 경신"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6326549",
+    "title": "美 전·현직 안보 당국자들, 10개 주에 트럼프 중간선거 개입 대비 조언"
+   },
+   {
+    "url": "https://www.news1.kr/world/northeast-asia/6324548",
+    "title": "日다카이치 \"식료품 소비세 감세 재원, 국채 발행 배제 안 해\""
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/international/2026/10/20/20261020500185",
+    "title": "“작년 8월 태어난 아기 유모차서 즉사, 엄마도 숨져” 절규한 젤렌스키…러 드론 습격에 21명 사상 [배틀라인]"
+   },
+   {
+    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6326436",
+    "title": "강신철 국방, 주한 중국대사 접견…\"한반도 평화 위한 역할 요청\""
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261020000770",
+    "title": "국민의힘 복지위원들 \"李정부와 민주당 앞에서 응급의료 공정 원칙 무너져\""
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261020000927",
+    "title": "[종합] 李대통령 \"관행 깨고 주택공급 전격전\"…국민 안전 시스템도 '전면 재점검'"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216446",
+    "title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박"
+   },
+   {
+    "url": "https://ddaily.co.kr/page/view/2026102015201379456",
+    "title": "정보보호 공시, 내년 상장사 전체로 확대…금융사·공공기관 예외 폐지 (종합)"
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+    "title": "구글, 더 개인화된 제미나이 AI 비서를 자동차에 도입"
+   },
+   {
+    "url": "https://animatetimes.com/news/details.php?id=1791938058",
+    "title": "『유메네코 넥트』 TV 애니메이션화｜성우에 코바야시 유스케, 시노하라 유"
+   },
+   {
+    "url": "https://isplus.com/article/view/isp202610210019",
+    "title": "김윤석·구교환 ‘폭설’, 11월 18일 개봉 확정…메인 예고편 공개"
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1167632",
+    "title": "‘옆자리, 프란체스카’ 뱀파이어가 교실로 왔다…11월 6일 웨이브서 첫 공개"
    }
   ]
  }

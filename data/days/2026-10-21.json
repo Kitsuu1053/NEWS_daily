@@ -1,0 +1,357 @@
+{
+ "date": "2026-10-21",
+ "weather": {
+  "min": 13,
+  "max": 16,
+  "am_text": "새벽~오전 비, 강풍",
+  "am_icon": "rain",
+  "pm_text": "차차 맑음, 강풍",
+  "pm_icon": "sun",
+  "humidity": 82,
+  "rain": "5mm 미만",
+  "pm10": "좋음",
+  "pm25": null,
+  "ext": {
+   "pop_am": 60,
+   "pop_pm": 0,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": "낮 기온 전날보다 떨어짐"
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,552.74",
+   "pct": -3.73,
+   "closes": [
+    6941.39,
+    6803.9,
+    6625.93,
+    6384.24,
+    6035.35,
+    6008.81,
+    5554.22,
+    5668.05,
+    5768.01,
+    5552.74
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.19",
+    "10.20"
+   ],
+   "ext": {
+    "low": "5,493.24"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "26,424.82",
+   "pct": -0.02,
+   "closes": [
+    27538.69,
+    27193.34,
+    27366.17,
+    27245.9,
+    27204.38,
+    26692.87,
+    26713.03,
+    26140.03,
+    26430.89,
+    26424.82
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.19",
+    "10.20"
+   ],
+   "ext": {}
+  },
+  {
+   "name": "원/달러",
+   "value": "1,328.1",
+   "pct": -0.17,
+   "closes": [
+    1343.6,
+    1340.4,
+    1338.5,
+    1335.1,
+    1345.1,
+    1338.3,
+    1344.6,
+    1331.4,
+    1330.3,
+    1328.1
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.19",
+    "10.20"
+   ],
+   "ext": {
+    "low": "1,325.4"
+   }
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "코스피",
+     "source": "머니투데이",
+     "time": "10.20 15:40",
+     "title": "코스피, 외국인·기관 매도에 3.73% 하락…5552.74 마감",
+     "url": "https://www.mt.co.kr/stock/2026/10/20/2026102015384373141",
+     "summary": "코스피가 20일 외국인·기관 동반 매도에 215.27포인트(3.73%) 급락한 5552.74에 마감했다. 기관이 1조48억원, 외국인이 5300억원을 순매도했고 코스닥도 3.33% 내린 781.97로 장을 마쳤다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102015384373141_1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "규제",
+     "source": "머니투데이",
+     "time": "10.20 10:53",
+     "title": "李대통령, 23일 규제합리화위원회 2차 전체회의 주재",
+     "url": "https://www.mt.co.kr/politics/2026/10/20/2026102010515586442",
+     "summary": "이재명 대통령이 23일 청와대에서 규제합리화위원회 2차 전체회의를 주재한다. 로봇·반도체·AI데이터센터·자율주행·바이오 분야 규제 애로 해소와 창업기업 규제 합리화 방안을 논의하며, 4월 1차 회의에 이은 후속 회의다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102010515586442_1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "환율",
+     "tag2": "원화강세",
+     "source": "머니투데이",
+     "time": "10.20 16:39",
+     "title": "원/달러 환율 1328.1원…3거래일 연속 연저점 경신",
+     "url": "https://www.mt.co.kr/economy/2026/10/20/2026102016093017153",
+     "summary": "원·달러 환율이 20일 2.2원 내린 1328.1원에 마감해 3거래일 연속 연저점을 경신했다. 2024년 10월 이후 최저 종가로, 반도체 수출업체의 달러 매도가 원화 강세를 이끌었다. 원·엔 환율은 장중 약 18년 만에 최저로 내려갔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102016093017153_1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "중간선거",
+     "source": "뉴스1",
+     "time": "10.21 02:42",
+     "title": "美 전·현직 안보 당국자들, 10개 주에 트럼프 중간선거 개입 대비 조언",
+     "url": "https://www.news1.kr/world/usa-canada/6326549",
+     "summary": "미국 전·현직 국가안보 당국자들이 11월 중간선거를 앞두고 10개 주의 주지사·선거관리 관료·의원들에게 수개월간 비밀리에 자문해 온 것으로 전해졌다. 트럼프 행정부의 선거 개입 가능성에 대비한 움직임이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/15/8160898/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "소비세",
+     "source": "뉴스1",
+     "time": "10.19 14:31",
+     "title": "日다카이치 \"식료품 소비세 감세 재원, 국채 발행 배제 안 해\"",
+     "url": "https://www.news1.kr/world/northeast-asia/6324548",
+     "summary": "다카이치 총리가 19일 참의원 예산위원회에서 식료품 소비세 감세 재원으로 국채 발행을 배제하지 않겠다고 밝혔다. 일본은 식료품 소비세율을 2년간 8%에서 1%로 낮추는 방안을 추진 중이며, 관방장관이 기존 방침에 변함없다며 진화했다.",
+     "age": "1일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/9/8/8093404/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "우크라이나",
+     "tag2": "드론공격",
+     "source": "서울신문",
+     "time": "10.20 14:48",
+     "title": "“작년 8월 태어난 아기 유모차서 즉사, 엄마도 숨져” 절규한 젤렌스키…러 드론 습격에 21명 사상 [배틀라인]",
+     "url": "https://www.seoul.co.kr/news/international/2026/10/20/20261020500185",
+     "summary": "러시아군 샤헤드 드론이 19일 우크라이나 하르키우주 노보 보호돌라하의 공원을 공격해 생후 14개월 아기와 엄마 등 6명이 숨지고 어린이 7명을 포함한 15명이 다쳤다. 젤렌스키 대통령은 방공 지원과 대러 제재 지속을 촉구했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.seoul.co.kr//img/upload/2026/10/20/SSC_20261020144807_O2.jpg.webp"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "국방외교",
+     "source": "뉴스1",
+     "time": "10.20 18:47",
+     "title": "강신철 국방, 주한 중국대사 접견…\"한반도 평화 위한 역할 요청\"",
+     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6326436",
+     "summary": "강신철 국방부 장관이 20일 국방부에서 다이빙 주한중국대사를 만나 한반도 평화를 위한 중국의 적극적인 역할을 요청했다. 양측은 한중 국방 교류·협력과 한반도 정세를 논의했고, 우리 측은 중국의 방공식별구역 진입과 서해 활동에 대한 입장도 전달했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/20/8169848/high.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "국정감사",
+     "source": "뉴스핌",
+     "time": "10.20 14:41",
+     "title": "국민의힘 복지위원들 \"李정부와 민주당 앞에서 응급의료 공정 원칙 무너져\"",
+     "url": "https://www.newspim.com/news/view/20261020000770",
+     "summary": "국민의힘 보건복지위원들이 김민석 민주당 대표 측의 응급환자 전용주차구역 이용과 경찰의 아주대병원 소아응급센터 압수수색, 2024년 이재명 대통령의 소방헬기 이송 건에 대한 권익위 판단 번복을 문제 삼았다. 이번 국정감사에서 세 사안의 책임을 따지겠다고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/14/261014130422453_353_tc.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "대통령실",
+     "source": "뉴스핌",
+     "time": "10.20 15:31",
+     "title": "[종합] 李대통령 \"관행 깨고 주택공급 전격전\"…국민 안전 시스템도 '전면 재점검'",
+     "url": "https://www.newspim.com/news/view/20261020000927",
+     "summary": "이재명 대통령이 20일 국무회의에서 관행과 절차에 얽매이지 말고 주택공급을 서두르라고 지시했다. 소방·재난 등 국민 안전 체계를 전면 재점검하고 예산과 인력을 늘리라고 주문했으며, 군중 밀집 시설과 교량의 대대적 안전 점검도 지시했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/06/2610061431207542_t1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "10.20 14:41",
+     "title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216446",
+     "summary": "영국 AI 클라우드 기업 엔스케일이 앤트로픽과 450억달러 규모의 추가 컴퓨팅 공급 계약을 협상 중이라는 외신 보도가 나왔다. 8월 계약까지 합하면 약 896억달러에 이른다. 미국 웨스트버지니아 모나크 캠퍼스의 두 번째 시설이 대상이며, 체결 여부와 조건은 미정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216446_220517_394.png"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안규제",
+     "source": "디지털데일리",
+     "time": "10.20 15:26",
+     "title": "정보보호 공시, 내년 상장사 전체로 확대…금융사·공공기관 예외 폐지 (종합)",
+     "url": "https://ddaily.co.kr/page/view/2026102015201379456",
+     "summary": "과기정통부가 정보보호산업법 시행령 개정안이 국무회의를 통과했다고 밝혔다. 정보보호 공시 대상에서 매출 3000억원 기준을 없애 코스피·코스닥 상장사 전체로 넓히고, ISMS 인증 대상을 새로 넣었다. 공공기관·금융사·전자금융업자 예외도 폐지했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/04/17/2026041712270169583_l.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "구글",
+     "source": "TechCrunch",
+     "time": "10.21 05:00",
+     "title": "구글, 더 개인화된 제미나이 AI 비서를 자동차에 도입",
+     "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+     "summary": "구글이 지메일·캘린더·지도 등 연동 서비스 정보를 활용하는 '개인 지능' 기능을 차량용 제미나이에 도입한다. 안드로이드 오토에는 바로 적용되고, 구글 빌트인 차량에는 수개월 안에 적용될 예정이다. 사용자가 직접 켜야 작동하며 연결할 앱도 고를 수 있다.",
+     "age": null,
+     "orig": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+     "deadline": null,
+     "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "애니",
+     "tag2": "신작 발표",
+     "source": "애니메이트타임스",
+     "time": "10.14 12:00",
+     "title": "『유메네코 넥트』 TV 애니메이션화｜성우에 코바야시 유스케, 시노하라 유",
+     "url": "https://animatetimes.com/news/details.php?id=1791938058",
+     "summary": "주간 소년 매거진에 연재 중인 사와다 코우의 만화 '유메네코 넥트'가 TV 애니메이션으로 만들어진다. 티저 비주얼과 티저 PV도 함께 공개됐다. 제작은 STUDIO MASSKET, 감독은 요코테 소타가 맡는다. 코바야시 유스케와 시노하라 유가 주연을 맡았고, 방송 시기는 미정이다.",
+     "age": "7일 전",
+     "orig": "『ゆめねこねくと』TVアニメ化｜声優に小林裕介、篠原侑",
+     "deadline": null,
+     "thumb": "https://img2.animatetimes.com/2026/10/88ee36bab8af864ad86371ae94b9335b6acecfa7d9d1a5_76874786_1f1dbfd444bd9cc2b5f990f58825811e6f6b9f03.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "영화",
+     "tag2": "개봉 확정·예고편",
+     "source": "일간스포츠",
+     "time": "10.21 08:17",
+     "title": "김윤석·구교환 ‘폭설’, 11월 18일 개봉 확정…메인 예고편 공개",
+     "url": "https://isplus.com/article/view/isp202610210019",
+     "summary": "김윤석·구교환 주연의 미스터리 영화 '폭설'이 11월 18일 개봉을 확정하고 메인 예고편을 공개했다. 눈에 갇힌 시골 간이역에서 퇴직을 앞둔 역장과 후임 앞에 수상한 시신이 나타나는 이야기다. 박수영·노윤서가 함께 출연하고 배급은 쇼박스가 맡는다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://isplus.com/data/isp/image/2026/10/21/isp20261021000026.800x.0.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "드라마",
+     "tag2": "공개 확정",
+     "source": "위키트리",
+     "time": "10.20 12:32",
+     "title": "‘옆자리, 프란체스카’ 뱀파이어가 교실로 왔다…11월 6일 웨이브서 첫 공개",
+     "url": "https://www.wikitree.co.kr/articles/1167632",
+     "summary": "시트콤 '안녕, 프란체스카'의 스핀오프인 웨이브 오리지널 '옆자리, 프란체스카'가 11월 6일 첫 공개된다. 매주 금요일 2회씩, 모두 4부작이다. 뱀파이어 전학생과 모범생의 로맨스를 다루며 한수아·김현진·이승규가 출연한다. 심혜진·박슬기·박희진은 특별출연하고, 제작은 MBC와 CAC코퍼레이션이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/20/202610201242312511_ent_ig.jpeg"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "43주차 · 21회차 브리핑"
+}
