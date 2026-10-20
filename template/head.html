@@ -143,6 +143,10 @@ footer{margin-top:24px;font-size:12px;color:var(--muted);text-align:center}
 .datebar .nav.off{color:var(--muted);opacity:.5;pointer-events:none}
 .empty{font-size:13px;color:var(--muted);padding-block:14px}
 
+/* 상세 지표: 모바일에서는 숨김 */
+.dxs,.dl,.wxmore,.pop,.vs{display:none}
+.numrow{display:flex;align-items:baseline;justify-content:space-between;gap:8px;min-width:0}
+
 /* PC(1024px 이상): 상단 대시보드 한 줄 + 섹터별 3열 카드, 16:9 썸네일, 섹터 탭 숨김 */
 @media (min-width:1024px){
   body{padding-inline:32px}
@@ -161,6 +165,24 @@ footer{margin-top:24px;font-size:12px;color:var(--muted);text-align:center}
   .thumb{width:100%;height:auto;aspect-ratio:16/9;margin-top:0}
   .card a{font-size:17px}
   .card p.sum{font-size:14px}
+  .box svg.spark{height:44px}
+  .dl{display:inline;font-family:var(--font-mono);font-size:13px;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .dxs{display:grid;gap:3px;border-top:1px solid var(--line);padding-top:8px}
+  .dx{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 6px;font-size:12px;line-height:1.5}
+  .dx .k{color:var(--muted)}
+  .dx b{font-family:var(--font-mono);font-weight:500;font-variant-numeric:tabular-nums;margin-right:6px}
+  .wxhead .hlw{display:flex;align-items:baseline;gap:10px}
+  .vs{display:inline;font-size:12px;color:var(--muted)}
+  .wxline{grid-template-columns:40px 34px minmax(0,1fr) auto}
+  .pop{display:inline;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .wxgrid{gap:4px 16px}
+  .wxmore{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 14px;font-size:13px}
+  .wxmore div{display:flex;justify-content:space-between;gap:6px;min-width:0}
+  .wxmore .k{color:var(--muted)}
+  .wxmore b{font-weight:600;font-variant-numeric:tabular-nums}
+  .wxmore b.na{font-weight:400;color:var(--muted)}
+  .wxmore .calc{grid-column:3;justify-content:flex-end;font-size:11px;color:var(--muted)}
+  .wxbox{gap:8px}
 }
 </style>
 </head>

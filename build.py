@@ -95,16 +95,48 @@ def validate(d):
     return urls
 
 
-def spark(vals, cls):
+def spark(vals, cls, dates=None, nd=2):
     lo, hi = min(vals), max(vals)
     r = (hi - lo) or 1
     n = len(vals)
     pts = [(i * 100 / (n - 1), 3 + 24 * (1 - (v - lo) / r)) for i, v in enumerate(vals)]
     d = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
     ex, ey = pts[-1]
+    hit = ""
+    w = 100 / n
+    for i, (x, y) in enumerate(pts):
+        dd = (dates[i] if dates and i < len(dates) and dates[i] else None)
+        label = (f"{dd} " if dd else "") + fmt_num(vals[i], nd)
+        hit += f'<rect x="{max(0, x - w / 2):.1f}" y="0" width="{w:.1f}" height="30" fill="transparent"><title>{e(label)}</title></rect>'
     return (f'<svg class="spark {cls}" viewBox="0 0 100 30" preserveAspectRatio="none" aria-hidden="true">'
             f'<polyline points="{d}" fill="none" stroke="currentColor" stroke-width="1.6" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>'
-            f'<circle cx="{ex:.1f}" cy="{ey:.1f}" r="2.2" fill="currentColor"/></svg>')
+            f'<circle cx="{ex:.1f}" cy="{ey:.1f}" r="2.2" fill="currentColor"/>' + hit + '</svg>')
+
+
+def sun_times(day, lat=37.5665, lon=126.9780, tz=9):
+    """서울 일출·일몰(NOAA 천문 계산식, 대기굴절 포함). 반환 'HH:MM'."""
+    import math
+    n = day.timetuple().tm_yday
+    g = 2 * math.pi / 365 * (n - 1)
+    eqt = 229.18 * (0.000075 + 0.001868 * math.cos(g) - 0.032077 * math.sin(g) - 0.014615 * math.cos(2 * g) - 0.040849 * math.sin(2 * g))
+    dec = (0.006918 - 0.399912 * math.cos(g) + 0.070257 * math.sin(g) - 0.006758 * math.cos(2 * g) + 0.000907 * math.sin(2 * g)
+           - 0.002697 * math.cos(3 * g) + 0.00148 * math.sin(3 * g))
+    la = math.radians(lat)
+    ha = math.degrees(math.acos(math.cos(math.radians(90.833)) / (math.cos(la) * math.cos(dec)) - math.tan(la) * math.tan(dec)))
+    def fmt(m):
+        m = round(m)
+        return f"{m // 60:02d}:{m % 60:02d}"
+    rise = 720 - 4 * (lon + ha) - eqt + tz * 60
+    sets = 720 - 4 * (lon - ha) - eqt + tz * 60
+    return fmt(rise), fmt(sets)
+
+
+def num(x):
+    return float(str(x).replace(",", ""))
+
+
+def fmt_num(v, nd):
+    return f"{v:,.{nd}f}"
 
 
 def pct_cls(p):
@@ -129,11 +161,25 @@ def render(d, meta_line, prev_href, next_href):
             return f'<a class="nav" href="{href}" aria-label="{label}">{sym}</a>'
         return f'<span class="nav off" aria-hidden="true">{sym}</span>'
 
+    x = w.get("ext") or {}
+    sr, ss = sun_times(day)
+    def pop(k):
+        return f'<span class="pop">강수 {e(str(x[k]))}%</span>' if x.get(k) is not None else ""
+    def xv(k):
+        return f'<b>{e(str(x[k]))}</b>' if x.get(k) else '<b class="na">—</b>'
+    vs = f'<span class="vs">{e(x["vs_yday"])}</span>' if x.get("vs_yday") else ""
+    more = (f'<div class="wxmore">'
+            f'<div><span class="k">체감</span>{xv("feels")}</div>'
+            f'<div><span class="k">바람</span>{xv("wind")}</div>'
+            f'<div><span class="k">자외선</span>{xv("uv")}</div>'
+            f'<div><span class="k">일출</span><b>{sr}</b></div>'
+            f'<div><span class="k">일몰</span><b>{ss}</b></div>'
+            f'<div class="calc">일출·일몰은 계산값</div></div>')
     wx = f'''<div class="wxbox" aria-label="서울 날씨">
-      <div class="wxhead"><span class="city">서울</span><span class="hl">{e(str(w["min"]))}℃~{e(str(w["max"]))}℃</span></div>
+      <div class="wxhead"><span class="city">서울</span><span class="hlw">{vs}<span class="hl">{e(str(w["min"]))}℃~{e(str(w["max"]))}℃</span></span></div>
       <div class="wxlines">
-        <div class="wxline">{ICONS[w["am_icon"]]}<span class="when">오전</span><span>{e(w["am_text"])}</span></div>
-        <div class="wxline">{ICONS[w["pm_icon"]]}<span class="when">오후</span><span>{e(w["pm_text"])}</span></div>
+        <div class="wxline">{ICONS[w["am_icon"]]}<span class="when">오전</span><span>{e(w["am_text"])}</span>{pop("pop_am")}</div>
+        <div class="wxline">{ICONS[w["pm_icon"]]}<span class="when">오후</span><span>{e(w["pm_text"])}</span>{pop("pop_pm")}</div>
       </div>
       <div class="wxgrid">
         <div><span class="k">습도</span><b>{(e(str(w["humidity"])) + "%") if w.get("humidity") is not None else "—"}</b></div>
@@ -141,14 +187,33 @@ def render(d, meta_line, prev_href, next_href):
         <div><span class="k">강수량</span><b>{e(str(w["rain"]))}</b></div>
         <div><span class="k">초미세먼지</span>{('<span class="aq ' + AQ[w["pm25"]] + '">' + e(w["pm25"]) + '</span>') if w.get("pm25") else "<b>—</b>"}</div>
       </div>
+      {more}
     </div>'''
     mk = ""
     if d.get("markets"):
         boxes = ""
         for m in d["markets"]:
             c = pct_cls(m["pct"])
+            cl = m["closes"]
+            won = m["name"].startswith("원/")
+            nd = 1 if won else 2
+            unit = "원" if won else "p"
+            dlt = cl[-1] - cl[-2]
+            dtxt = ("+" if dlt > 0 else ("−" if dlt < 0 else "")) + fmt_num(abs(dlt), nd) + unit
+            hi, lo = max(cl), min(cl)
+            cum = (cl[-1] / cl[0] - 1) * 100
+            x = m.get("ext") or {}
+            rows = f'<div class="dx"><span class="k">{len(cl)}일 최고</span><b>{fmt_num(hi, nd)}</b><span class="k">최저</span><b>{fmt_num(lo, nd)}</b></div>'
+            rows += f'<div class="dx"><span class="k">{len(cl)}일 누적</span><b class="{pct_cls(cum)}">{pct_fmt(cum)}</b></div>'
+            if x.get("high") and x.get("low"):
+                rows += f'<div class="dx"><span class="k">장중 고가</span><b>{e(str(x["high"]))}</b><span class="k">저가</span><b>{e(str(x["low"]))}</b></div>'
+            fl = x.get("flow") or {}
+            if fl:
+                parts = "".join(f'<span class="k">{e(k)}</span><b class="{pct_cls(v)}">{"+" if v > 0 else ("−" if v < 0 else "")}{abs(v):,}억</b>' for k, v in fl.items() if v is not None)
+                rows += f'<div class="dx">{parts}</div>'
             boxes += (f'<div class="box"><div class="lbl"><span>{e(m["name"])}</span><span class="val {c}">{pct_fmt(m["pct"])}</span></div>'
-                      f'<div class="num">{e(str(m["value"]))}</div>{spark(m["closes"], c)}</div>')
+                      f'<div class="numrow"><div class="num">{e(str(m["value"]))}</div><span class="dl {c}">{dtxt}</span></div>'
+                      f'<div class="dxs">{rows}</div>{spark(cl, c, m.get("dates"), nd)}</div>')
         mk = f'<div class="strip" aria-label="시장 지표">{boxes}</div>'
 
     secs = ""
