@@ -210,7 +210,7 @@ def render(d, meta_line, prev_href, next_href):
                          + (f'<span class="k">{"저가" if x.get("high") else "장중 저가"}</span><b>{e(str(x["low"]))}</b>' if x.get("low") else "") + '</div>')
             fl = x.get("flow") or {}
             if fl:
-                parts = "".join(f'<span class="k">{e({"외국인":"외인"}.get(k,k))}</span><b class="{pct_cls(v)}">{"+" if v > 0 else ("−" if v < 0 else "")}{abs(v):,}억</b>' for k, v in fl.items() if v is not None)
+                parts = "".join(f'<span class="k">{e({"외국인":"외인"}.get(k,k))}</span><b class="{pct_cls(v)}">{"+" if v > 0 else ("−" if v < 0 else "")}{(f"{abs(v)/10000:.2f}조" if abs(v) >= 10000 else f"{abs(v):,}억")}</b>' for k, v in fl.items() if v is not None)
                 rows += f'<div class="dx fl">{parts}</div>'
             boxes += (f'<div class="box"><div class="lbl"><span>{e(m["name"])}</span><span class="val {c}">{pct_fmt(m["pct"])}</span></div>'
                       f'<div class="numrow"><div class="num">{e(str(m["value"]))}</div><span class="dl {c}">{dtxt}</span></div>'
