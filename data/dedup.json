@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-15": [
-   {
-    "url": "https://www.newspim.com/news/view/20261014001192",
-    "title": "[마감시황] 코스피, 장 초반 2%대 상승분 반납…6000선 턱걸이"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261014000159",
-    "title": "지방공항 5대 관광권에 4100억 투입"
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6320462",
-    "title": "트럼프 \"한국의 알래스카 500억달러 투자, 나와의 무역·투자 합의\""
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261015500742",
-    "title": "트럼프 “그린란드서 대규모 석유·가스 탐사 곧 시작”…그린란드 정부는 ‘반박’"
-   },
-   {
-    "url": "https://www.news1.kr/world/asia-australia/6320382",
-    "title": "日농림수산상, 잇단 비위 의혹에 결국 사임…개각 한 달만"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610150725001/",
-    "title": "우크라 \"정치적 이유로 스타링크 이동속도 제한\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610141428439438",
-    "title": "국방위, 한화-KAI 인수전 검증 일단 제쳐둔다...M&A '안보 심사' 강화는 변수"
-   },
-   {
-    "url": "https://www.mt.co.kr/politics/2026/10/14/2026101416163210792",
-    "title": "李대통령 \"지금이야말로 대한민국 인구정책 판 바꿀 전환기\""
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6319631",
-    "title": "정점식 \"정동영, 北에 굴종과 사대하는 가장 치욕적 인사\""
-   },
-   {
-    "url": "https://www.anthropic.com/news/singapore-office-opening",
-    "title": "앤트로픽, 싱가포르 사무소 개소 및 싱가포르 정부와 MOU 체결"
-   },
-   {
-    "url": "https://www.dailian.co.kr/news/view/1701383/%EC%82%BC%EC%84%B1SK-%EC%B0%A8%EC%84%B8%EB%8C%80-HBM4E-%EB%82%98%EB%9E%80%ED%9E%88-%EA%B3%B5-2026",
-    "title": "삼성·SK, 차세대 HBM4E 나란히 공개…역대 최대 반도체대전 개막 [SEDEX 2026]"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610141113011",
-    "title": "\"제미나이 다시 써볼까\"…구글 아르곤 공식 배포, 글쓰기 '호평'"
-   },
-   {
-    "url": "https://mbiz.heraldcorp.com/article/10895556",
-    "title": "문화예술로 뉴욕 물들인 제네시스·현대차"
-   },
-   {
-    "url": "https://www.news1.kr/industry/auto-industry/6317817",
-    "title": "렉서스 준대형 세단 'ES' 8세대 국내 출시…ES 첫 전기차 추가"
-   },
-   {
-    "url": "https://linkareer.com/activity/349844",
-    "title": "제20회 월간<아이러브캐릭터> 캐릭터 공모전"
-   }
-  ],
   "2026-10-16": [
    {
     "url": "https://fnnews.com/news/202610151818169515",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.wikitree.co.kr/articles/1167632",
     "title": "‘옆자리, 프란체스카’ 뱀파이어가 교실로 왔다…11월 6일 웨이브서 첫 공개"
+   }
+  ],
+  "2026-10-22": [
+   {
+    "url": "https://www.fnnews.com/news/202610211605537952",
+    "title": "외인 귀환·반도체 훈풍…코스피, 급락 딛고 5700선 회복"
+   },
+   {
+    "url": "https://news.mtn.co.kr/article/2026102116505789737",
+    "title": "김정관 \"車반도체 상용화 장벽 낮춘다…정부 지원 확대\""
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2638235",
+    "title": "10월 중순 수출 616억불 105%↑⋯반도체 222% 급증 [종합]"
+   },
+   {
+    "url": "https://fnnews.com/news/202610211154285256",
+    "title": "美중간선거 참패 우려에…트럼프 백악관 내부 분열 격화"
+   },
+   {
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807769",
+    "title": "일본 여당, 다음 달 '안보 3문서 개정' 협의 착수"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261022000002",
+    "title": "미·러·우크라 3자 협상 재개하나…푸틴 \"참여 용의\""
+   },
+   {
+    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6327299",
+    "title": "전차·장갑차 등 1300여대 대이동…육군 11기동사단, 호국훈련 돌입"
+   },
+   {
+    "url": "https://hankookilbo.com/news/article/A2026102109250001432",
+    "title": "이 대통령 \"국정 생중계도 언론 접촉도 현장 방문도 SNS도 늘릴 것\""
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6327037",
+    "title": "운영위, 靑 국감 증인 채택…강훈식·김용범·김현지·정진상 등은 제외"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
+    "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입"
+   },
+   {
+    "url": "https://www.etnews.com/20261021000240",
+    "title": "SK하이닉스, 발열 잡는 'iHBM' 공급망 협의 착수…HBM 선두 수성 승부수"
+   },
+   {
+    "url": "https://m.inews24.com/v/2017390",
+    "title": "크래프톤, 독자 개발 LLM '라온-1 미니' 프리뷰 공개"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261021001170",
+    "title": "[KPGA] 22일 개막 제네시스 챔피언십 10주년, 특별한 순간들"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Industry/2026/10/202610211854486569112616b072_1",
+    "title": "CATL, 실적 부진에 주가 12% 급락…中 배터리업계 우려 확산"
+   },
+   {
+    "url": "https://linkareer.com/activity/347683",
+    "title": "2026년 제41회 디자인 & 일러스트레이션 국제공모전"
    }
   ]
  }
