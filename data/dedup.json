@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-16": [
-   {
-    "url": "https://fnnews.com/news/202610151818169515",
-    "title": "‘검은 목요일’… 코스피 7% 이상 빠졌다 [바닥 없는 코스피]"
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026101516110000918",
-    "title": "코스피 폭락에… 금융당국, 긴급 증시 점검회의 개최"
-   },
-   {
-    "url": "https://www.etoday.co.kr/news/view/2636460",
-    "title": "9월 취업자 11.3만명 증가, 증가 폭은 축소…청년층 46개월째 감소 [상보]"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/international/2026/10/16/20261016500008",
-    "title": "“총살 장면 생중계”하겠다더니…트럼프 ‘초유의 계획’ 접은 진짜 속내"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026101518330196608",
-    "title": "다카이치 \"일본 정부의 대러 스파이 활동 사실 없어\"…체포 기자 면회 추진"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261015001314",
-    "title": "美, 이란 재공습에 '모든 폭탄의 어머니' 투입 검토…중동 긴장 고조"
-   },
-   {
-    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6321042",
-    "title": "국방부 대변인 \"골대 계속 옮기면 전작권 전환 영원히 못 해\""
-   },
-   {
-    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261015010005093",
-    "title": "李 \"연임 목적 개헌·정계개편 음모론 벗어나도 된다\""
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261015510181",
-    "title": "국힘 \"임광현 인선, 대장동 패밀리 보은인사 민낯…철회해야\""
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "title": "앤트로픽, METR 연구원들에게 직원 수준 접근권 주고 내부 들여다보게 한다"
-   },
-   {
-    "url": "https://www.econovill.com/news/articleView.html?idxno=753762",
-    "title": "TSMC, 3Q 순이익 69% 급증… 웨이저자 회장 \"남의 식탁에 음식 남기지 않겠다\""
-   },
-   {
-    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707587",
-    "title": "美 빅테크들도 오픈웨이트 정조준...엔비디아 이어 메타도 대공세"
-   },
-   {
-    "url": "https://www.mydaily.co.kr/page/view/2026101511115985278",
-    "title": "아틀레티코전 완패 후 공개 저격, 맨체스터 유나이티드 '왼발 CB' 내부 징계 위기! 입장문 통해 해명...\"분노와 좌절감으로 발언\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610160611046376",
-    "title": "오려낸 신문, 나무에 그린 어머니…아르코 소장품에 남은 시대 [fn 아트스냅]"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261015000976",
-    "title": "현대百, 더현대 서울서 달 탐사 로버 전시…20일까지 운영"
-   }
-  ],
   "2026-10-17": [
    {
     "url": "https://news1.kr/finance/general-stock/6322712",
@@ -433,6 +371,68 @@
    {
     "url": "https://linkareer.com/activity/347683",
     "title": "2026년 제41회 디자인 & 일러스트레이션 국제공모전"
+   }
+  ],
+  "2026-10-23": [
+   {
+    "url": "https://www.newspim.com/news/view/20261022001100",
+    "title": "[마감시황] 코스피·코스닥 3%대 동반 하락…외국인 매도에 약세"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261022000337",
+    "title": "국민성장펀드 지원대상에 '우주항공·양자' 추가...산은법 시행령 입법예고"
+   },
+   {
+    "url": "https://www.sedaily.com/article/20104717",
+    "title": "금통위원 전원 '동결' 의견...“두 차례 인상 파급영향 점검 필요”"
+   },
+   {
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811291",
+    "title": "트럼프, 중간선거앞 물가 표심에 '주거비 인하' 행정명령"
+   },
+   {
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03749046645615544",
+    "title": "일본 내 '면세품 되팔이' 막힌다…다음달부터 '출국 때 환급'"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610221517001/",
+    "title": "예멘 내전에 발 담근 이집트·UAE···미 개입 압박 커지나"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261022001064",
+    "title": "[2026 국감] 사상 첫 사관학교 국감… 3군 교장 \"통합, 의견 더 들어야\""
+   },
+   {
+    "url": "https://www.hankookilbo.com/news/article/A2026102215270000420",
+    "title": "법사위, 최길수 특별감찰관 후보자 청문보고서 채택… 10년 공백 해소 수순"
+   },
+   {
+    "url": "https://www.ytn.co.kr/_ln/0101_202610220927246503",
+    "title": "장동혁, 과거 '사석 욕설 녹취' 논란...대표실 \"법적조치\""
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216510",
+    "title": "앤트로픽, 메타 '뮤즈' 대항마 AI 에이전트 '클로드 듀엣' 공개"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026102211290630917",
+    "title": "정부, PHP 보안 취약점에 긴급 대응…기업 CISO 대응 돌입"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261022000396",
+    "title": "오픈AI, 구글 클라우드에 AI 모델·코덱스 공급…협력 확대"
+   },
+   {
+    "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014745",
+    "title": "'맨유 내부 분열 조짐?' 주장 브루노, 캐릭 전술 공개 저격…\"코칭스태프 결정이었다\"→캐릭 감독도 분노 폭발"
+   },
+   {
+    "url": "https://www.pap-magazine.com/article/gae-aulenti-exhibition-seoul-10-corso-como",
+    "title": "파리 오르세 미술관 만든 그 디자이너, 지금 서울에"
+   },
+   {
+    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16254703",
+    "title": "에반 캐릭터 글라이디, 성수서 첫 팝업 연다"
    }
   ]
  }
