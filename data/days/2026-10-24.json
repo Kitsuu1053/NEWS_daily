@@ -1,0 +1,355 @@
+{
+ "date": "2026-10-24",
+ "weather": {
+  "min": 13,
+  "max": 20,
+  "am_text": "구름많음",
+  "am_icon": "sun_cloud",
+  "pm_text": "구름많음",
+  "pm_icon": "sun_cloud",
+  "humidity": null,
+  "rain": "없음",
+  "pm10": "좋음",
+  "pm25": "좋음",
+  "ext": {
+   "pop_am": 30,
+   "pop_pm": 20,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,550.30",
+   "pct": 0.3,
+   "closes": [
+    6384.24,
+    6035.35,
+    6008.81,
+    5554.22,
+    5668.05,
+    5768.01,
+    5552.74,
+    5735.66,
+    5533.77,
+    5550.3
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23"
+   ],
+   "ext": {
+    "low": "5,305.98"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "25,955.34",
+   "pct": -0.21,
+   "closes": [
+    27245.9,
+    27204.38,
+    26692.87,
+    26713.03,
+    26140.03,
+    26430.89,
+    26424.82,
+    26702.86,
+    26008.86,
+    25955.34
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23"
+   ],
+   "ext": {}
+  },
+  {
+   "name": "원/엔",
+   "value": "843.79",
+   "pct": 0.19,
+   "closes": [
+    859.64,
+    861.97,
+    860.99,
+    855.26,
+    846.45,
+    846.35,
+    851.6,
+    844.09,
+    842.21,
+    843.79
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.16",
+    "10.22",
+    "10.23"
+   ],
+   "ext": {}
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "코스피",
+     "source": "뉴스핌",
+     "time": "10.23 16:02",
+     "title": "[마감시황] 코스피, 장중 4% 급락 딛고 반등…SK하이닉스 4.42% 상승",
+     "url": "https://www.newspim.com/news/view/20261023001023",
+     "summary": "23일 코스피는 AI 투자 지속성 우려로 장중 4%대까지 밀렸다가 0.30% 오른 5,550.30에 마감했다. 외국인은 1조938억원을 순매도했다. SK하이닉스는 솔리다임 미국 상장 추진 중단으로 중복상장 우려가 줄며 4.42% 올랐고, 코스닥은 1.62% 내린 751.69였다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/23/261023103058913_653_tc.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "규제",
+     "source": "파이낸셜뉴스",
+     "time": "10.23 14:39",
+     "title": "李대통령 \"메가프로젝트·초광역 특구 인허가 애로 직접 챙길 것\"",
+     "url": "https://fnnews.com/news/202610231427325375",
+     "summary": "대통령이 23일 청와대 영빈관에서 규제합리화위원회 2차 회의를 주재했다. 3대 메가프로젝트와 초광역 특구의 인허가 애로를 직접 챙기겠다고 밝혔고, 규제특례 약 300건이 담긴 특구법이 통과되기 전이라도 개선을 추진하라고 주문했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/10/23/202610231418200014_e.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "한은",
+     "tag2": "잠재성장률",
+     "source": "뉴스핌",
+     "time": "10.23 14:48",
+     "title": "[2026 국감] 한은, 잠재성장률 재추정 착수…\"원화, 실효환율로는 여전히 약세\"",
+     "url": "https://www.newspim.com/news/view/20261023000778",
+     "summary": "한국은행이 반도체 투자 확대와 생산성 변화를 반영해 잠재성장률 재추정에 착수했다. 총재는 23일 국정감사에서 올해 경상수지 흑자가 8월 전망을 웃돌 것으로 내다봤고, 최근 강세에도 원화는 실질실효환율 기준으로 여전히 약세라고 말했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/23/261023112050153_110_tc.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "이란",
+     "source": "뉴스1",
+     "time": "10.24 05:14",
+     "title": "트럼프 \"이란 상대로 작은 '장대한 분노' 작전 할 수도\"(상보)",
+     "url": "https://www.news1.kr/world/usa-canada/6330545",
+     "summary": "트럼프 대통령이 23일 플로리다 유세에서 이란을 상대로 한 소규모 추가 군사작전 가능성을 내비쳤다. '장대한 분노'는 2월 28일 대이란 작전의 이름이다. 미국 유엔대사는 전쟁이 1년 더 이어질 수 있다고 했고, 브렌트유는 4월 이후 처음으로 배럴당 117달러를 넘었다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/24/8176562/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "물가",
+     "source": "세계일보",
+     "time": "10.23 13:31",
+     "title": "9월 일본 소비자물가 2.1%↑…\"9개월 만에 2% 웃돌아\"",
+     "url": "https://www.segye.com/newsView/20261023508305",
+     "summary": "일본의 9월 소비자물가가 전년 동월보다 2.1% 올라 9개월 만에 일본은행 목표치 2%를 넘었다. 중동 정세로 비용이 오르고 가격 전가가 퍼지면서 식료품은 2.9% 올랐고, 쌀은 20.6% 내렸다. 정부 보조금 등 정책이 상승률을 약 0.82%p 낮췄다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.segye.com/content/image/2026/10/23/20261023508307.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "이스라엘",
+     "tag2": "서안지구",
+     "source": "뉴스1",
+     "time": "10.23 23:04",
+     "title": "이스라엘 총선 나흘 전 서안지구서 총격전…네타냐후, 군사작전 예고(종합2보)",
+     "url": "https://www.news1.kr/world/middleeast-africa/6330528",
+     "summary": "이스라엘 총선을 나흘 앞둔 23일, 요르단강 서안지구 헤브론 인근에서 팔레스타인 무장세력으로 추정되는 이들과 이스라엘군이 총격전을 벌여 민간인 5명을 포함해 8명이 다쳤다. 네타냐후 총리는 모든 테러 기반 시설을 파괴하겠다며 서안지구에서 광범위한 작전을 예고했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/23/8176346/high.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "남북 군사회담",
+     "source": "서울신문",
+     "time": "10.23 14:15",
+     "title": "국방부, 北에 군사회담 공식 제안…“MDL 위치 확인·우발충돌 방지 협의”",
+     "url": "https://www.seoul.co.kr/news/politics/2026/10/23/20261023500150",
+     "summary": "국방부가 군사분계선(MDL) 위치 확인, 군 통신선 복원, 접경지 우발충돌 방지를 논의할 남북 군사회담을 북한에 공식 제안했다. 필요하면 유엔사가 참여하는 3자 회의도 가능하다고 밝혔다. 지난해 11월 비슷한 제안에는 북한이 답하지 않았고, 이번 제안에 대한 북측 반응도 아직 없다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.seoul.co.kr//img/upload/2026/10/23/SSC_20261023141509_O2.jpg.webp"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "국민의힘",
+     "source": "서울신문",
+     "time": "10.23 17:21",
+     "title": "野, 오세훈 무죄에 김민석·서영교·특검 책임론…“사법부 압박 대가 치러야”",
+     "url": "https://www.seoul.co.kr/news/politics/2026/10/23/20261023500264",
+     "summary": "오세훈 서울시장이 여론조사비 대납 사건 항소심에서 무죄를 선고받았다. 국민의힘은 민주당 대표와 법사위원장이 재판부를 압박했다며 책임을 물었고, 특검에는 대법원 상고를 포기하라고 요구했다. 재판부는 검찰 측 입증이 부족하다고 판단했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.seoul.co.kr//img/upload/2026/10/23/SSC_20261023172129_O2.png.webp"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "대통령실",
+     "source": "뉴스핌",
+     "time": "10.23 15:52",
+     "title": "李대통령, 초안전사회 대응 회의…법무부 '가석방 없는 무기형' 도입",
+     "url": "https://www.newspim.com/news/view/20261023000857",
+     "summary": "이재명 대통령이 청와대에서 흉악범죄 대응 범정부 회의를 주재했다. 경찰은 안심 순찰대를 새로 만들고, 법무부는 가석방 없는 무기형 도입과 전자감독 대상자 흉기 소지 금지를 추진한다. 친밀관계 폭력 사망 사건 검토제와 정신질환자 응급 대응팀 신설도 보고됐다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/23/2610231010390910_t1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "TechCrunch",
+     "time": "10.24 01:02",
+     "title": "상장 앞둔 앤트로픽, 주요 투자자들의 지분 가치는",
+     "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+     "summary": "블룸버그를 인용한 보도에 따르면, 올해 상장이 예상되는 앤트로픽은 기업가치가 최대 2조 달러로 거론된다. 최근 비상장 가치는 9650억 달러다. 에릭 슈미트의 지분 약 1%는 100억 달러에 가깝고, 스파크캐피털의 투자금은 90배 넘게 불어나는 등 초기 투자자들이 큰 평가 이익을 거두고 있다.",
+     "age": null,
+     "orig": "What some of Anthropic's backers are reportedly worth before its IPO",
+     "deadline": null,
+     "thumb": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "디지털데일리",
+     "time": "10.23 18:10",
+     "title": "LGU+ '해킹 서버 폐기' 해명 도마…KISA “동기화돼도 침입 흔적은 별개” [2026국감]",
+     "url": "https://ddaily.co.kr/page/view/2026102317504973083",
+     "summary": "과방위 국정감사에서 LG유플러스가 해킹이 의심되는 APPM 서버를 이미지로 떠두지 않고 OS를 다시 설치해 증거를 훼손했을 수 있다는 지적이 나왔다. 회사는 두 서버가 동기화돼 있다고 해명했지만, KISA는 데이터가 같아도 침입 흔적은 다를 수 있다고 밝혔다. 과기정통부는 제도 개선을 약속했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/10/23/2026102317490106859_l.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "오픈웨이트",
+     "source": "AI타임스",
+     "time": "10.24 08:22",
+     "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216603",
+     "summary": "중국 문샷AI가 공개한 '키미 K3.1 프로'가 아티피셜 애널리시스 지능 지수에서 55점으로 전체 4위, 오픈웨이트 모델 중 1위에 올랐다. 전작보다 11점 높다. API 가격은 33% 내렸고, 전체 가중치는 11월 4일까지 공개할 예정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216603_220710_1051.jpeg"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "애니",
+     "tag2": "신작 제작 결정",
+     "source": "아니메!아니메!",
+     "time": "10.23 20:00",
+     "title": "『공각기동대』 신작 애니메이션 제작 결정! 애니메이션 제작은 사이언스SARU가 이어서 담당",
+     "url": "https://animeanime.jp/article/2026/10/23/104138.html",
+     "summary": "마사무네 시로 원작 『공각기동대』의 신작 애니메이션 제작이 발표됐다. 2026년 7월 방영한 TV판에 이어 사이언스SARU가 다시 제작을 맡는다. 가제는 '공각기동대(가)'이고 제작 결정을 알리는 키 비주얼이 공개됐다. 방송 시기와 플랫폼은 미정이다.",
+     "age": null,
+     "orig": "「攻殻機動隊」新作アニメ制作決定！ アニメーション制作はサイエンスSARUが引き続き担当",
+     "deadline": null,
+     "thumb": "https://animeanime.jp/imgs/ogp_f/947045.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "영화",
+     "tag2": "개봉 확정",
+     "source": "이투데이",
+     "time": "10.23 13:19",
+     "title": "'더 버스' 공정환·태항호·동방우 뭉쳤다⋯11월 11일 개봉",
+     "url": "https://www.etoday.co.kr/news/view/2639394",
+     "summary": "김태곤 감독('알 포인트')의 블랙코미디 '더 버스'가 11월 11일 극장 개봉을 확정하고 메인 포스터를 공개했다. 누명을 쓰고 10년을 복역한 남자가 버스 안 이기적인 승객들과 얽히는 이야기로 공정환·태항호·동방우가 출연한다. 배급은 제이씨엔터웍스다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261023131934_2406037_999_1424.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "드라마",
+     "tag2": "티저 공개",
+     "source": "위키트리",
+     "time": "10.23 11:30",
+     "title": "'푸른길' 손석구·나가야마 에이타, 신주쿠와 서울 잇는 살인…티저 속 단서 심상찮다",
+     "url": "https://www.wikitree.co.kr/articles/1168554",
+     "summary": "넷플릭스 시리즈 '푸른길'이 티저 포스터와 티저 예고편을 공개했다. 신주쿠와 서울을 잇는 연쇄살인을 쫓는 두 형사 이야기로 손석구·나가야마 에이타·김신록이 출연한다. 'D.P.'의 한준희 감독이 연출한 한일 공동제작 8부작이며 11월 20일 공개된다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/23/202610231117219362_ent_ytframe.jpeg"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "43주차 · 24회차 브리핑"
+}

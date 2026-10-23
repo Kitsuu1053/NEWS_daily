@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-17": [
-   {
-    "url": "https://news1.kr/finance/general-stock/6322712",
-    "title": "'외인 매수 전환' 코스피 2%대 반등…코스닥 매수 사이드카[시황종합]"
-   },
-   {
-    "url": "https://www.mt.co.kr/estate/2026/10/16/2026101612432667427",
-    "title": "올해 수도권 주택 착공, 9.9만가구뿐…정부 \"연말까지 두배로 늘린다\""
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261016000452",
-    "title": "수출·재정은 '웃고' 내수는 '울고'…엇갈린 경기회복"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610170817001/",
-    "title": "첫 브리핑이 마지막 브리핑…백악관 대변인 나흘 만에 경질"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261016001028",
-    "title": "'지지율 하락' 다카이치, 야스쿠니 참배?...정부 \"총리 적절히 판단할 것\""
-   },
-   {
-    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261016010005213",
-    "title": "후티, 예멘 대통령궁 공격해 경호원 등 5명 사망…\"총리·각료는 안전\""
-   },
-   {
-    "url": "https://www.mt.co.kr/politics/2026/10/16/2026101610531156773",
-    "title": "북한 \"한국, 극초음속 미사일 실패\" vs 국방부 \"신소재\""
-   },
-   {
-    "url": "https://seoul.co.kr/news/politics/2026/10/16/20261016500062",
-    "title": "與, 조희대 탄핵 논의 공식화…김민석 “모든 방법 논의 시작”"
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6322929",
-    "title": "野 \"李 재판 중단은 직무유기\" 與 \"헌법상 정당\"…국감 종일 격돌(종합)"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20261016150017",
-    "title": "AI로 빨라지는 사이버 공격…오픈AI, 국내 기업에 대응 전략 제시"
-   },
-   {
-    "url": "https://www.news1.kr/it-science/mobile/6322000",
-    "title": "'접는 아이폰' 오늘부터 통신 3사 사전판매…할인·보상 혜택 경쟁"
-   },
-   {
-    "url": "https://www.etnews.com/20261016000344",
-    "title": "센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단"
-   },
-   {
-    "url": "https://www.animatetimes.com/news/details.php?id=1792039057",
-    "title": "TOHO animation의 신작 TV 애니메이션을 10월 16일에 발표!"
-   },
-   {
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16248450",
-    "title": "\"전원 출동\"…'극장판 명탐정 코난: 30호 살인 사건', 메인 포스터 공개"
-   },
-   {
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16248662",
-    "title": "이재욱 넷플릭스 '꿀알바', 시급 50배 뒤에 숨은 생존 공포"
-   }
-  ],
   "2026-10-18": [
    {
     "url": "https://www.dailian.co.kr/news/view/1702649/%EB%B0%98%EB%93%B1-vs-%EC%B6%94%EA%B0%80-%ED%95%98%EB%9D%BD-%E2%80%98%ED%83%90%EC%83%89%EC%A0%84%E2%80%99%EC%BD%94%EC%8A%A4%ED%94%BC-2026",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16254703",
     "title": "에반 캐릭터 글라이디, 성수서 첫 팝업 연다"
+   }
+  ],
+  "2026-10-24": [
+   {
+    "url": "https://www.newspim.com/news/view/20261023001023",
+    "title": "[마감시황] 코스피, 장중 4% 급락 딛고 반등…SK하이닉스 4.42% 상승"
+   },
+   {
+    "url": "https://fnnews.com/news/202610231427325375",
+    "title": "李대통령 \"메가프로젝트·초광역 특구 인허가 애로 직접 챙길 것\""
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261023000778",
+    "title": "[2026 국감] 한은, 잠재성장률 재추정 착수…\"원화, 실효환율로는 여전히 약세\""
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6330545",
+    "title": "트럼프 \"이란 상대로 작은 '장대한 분노' 작전 할 수도\"(상보)"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261023508305",
+    "title": "9월 일본 소비자물가 2.1%↑…\"9개월 만에 2% 웃돌아\""
+   },
+   {
+    "url": "https://www.news1.kr/world/middleeast-africa/6330528",
+    "title": "이스라엘 총선 나흘 전 서안지구서 총격전…네타냐후, 군사작전 예고(종합2보)"
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/politics/2026/10/23/20261023500150",
+    "title": "국방부, 北에 군사회담 공식 제안…“MDL 위치 확인·우발충돌 방지 협의”"
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/politics/2026/10/23/20261023500264",
+    "title": "野, 오세훈 무죄에 김민석·서영교·특검 책임론…“사법부 압박 대가 치러야”"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261023000857",
+    "title": "李대통령, 초안전사회 대응 회의…법무부 '가석방 없는 무기형' 도입"
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+    "title": "상장 앞둔 앤트로픽, 주요 투자자들의 지분 가치는"
+   },
+   {
+    "url": "https://ddaily.co.kr/page/view/2026102317504973083",
+    "title": "LGU+ '해킹 서버 폐기' 해명 도마…KISA “동기화돼도 침입 흔적은 별개” [2026국감]"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216603",
+    "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극"
+   },
+   {
+    "url": "https://animeanime.jp/article/2026/10/23/104138.html",
+    "title": "『공각기동대』 신작 애니메이션 제작 결정! 애니메이션 제작은 사이언스SARU가 이어서 담당"
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2639394",
+    "title": "'더 버스' 공정환·태항호·동방우 뭉쳤다⋯11월 11일 개봉"
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1168554",
+    "title": "'푸른길' 손석구·나가야마 에이타, 신주쿠와 서울 잇는 살인…티저 속 단서 심상찮다"
    }
   ]
  }
