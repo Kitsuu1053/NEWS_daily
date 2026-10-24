@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-18": [
-   {
-    "url": "https://www.dailian.co.kr/news/view/1702649/%EB%B0%98%EB%93%B1-vs-%EC%B6%94%EA%B0%80-%ED%95%98%EB%9D%BD-%E2%80%98%ED%83%90%EC%83%89%EC%A0%84%E2%80%99%EC%BD%94%EC%8A%A4%ED%94%BC-2026",
-    "title": "반등 vs 추가 하락 '탐색전'…코스피 5100~6100 [주간 증시 전망]"
-   },
-   {
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01125046645614232",
-    "title": "정부, 가상자산 과세 앞두고 현장 점검[재경부·기획처 주간예보]"
-   },
-   {
-    "url": "https://www.gokorea.kr/news/articleView.html?idxno=881798",
-    "title": "반도체와 AI로 활짝 핀 한국 경제, 40년 만에 잠재성장률 상승세"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101807403337872bd56fbc3c_1",
-    "title": "트럼프 '러시아 제재 전격 해제' 파문… 젤렌스키 '핵심 지원' 끊기나"
-   },
-   {
-    "url": "https://www.mt.co.kr/world/2026/10/17/2026101711005428732",
-    "title": "日 다카이치 총리, 야스쿠니신사에 공물 봉납…참배 보류"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101808022021912bd56fbc3c_1",
-    "title": "프랑스 55만 명 거리로…400명 체포, 긴축 반발 격화"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261017000061",
-    "title": "北, 초고속 신형 어뢰 '잠-2.0' 시험발사…\"AI 탐색·유도 기술 적용\""
-   },
-   {
-    "url": "https://dailian.co.kr/news/view/1702716/%EC%A0%95%EC%B1%85-%EA%B8%80-%EB%A7%8E%EB%8B%A4-%E9%9D%91%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-SNS-%ED%95%9C-2026",
-    "title": "\"정책 글 많다\"는 靑…李대통령 SNS 한 달 들여다보니"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610171802001",
-    "title": "여·야, 부천 순직 소방관 조문 행렬···추미애 사과에 야당 “끝까지 오만”"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216353",
-    "title": "앤트로픽, 신용등급 '투자적격'까지 한 단계…돈 빌리기 쉬워지나"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20261017093117",
-    "title": "삼성디스플레이, 'NPE' 네오레이어 특허 반격 확대"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216368",
-    "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종"
-   },
-   {
-    "url": "https://automaton-media.com/articles/newsjp/the-blood-of-dawnwalker-20261017-474048/",
-    "title": "흡혈귀 중세 오픈월드 'The Blood of Dawnwalker', 다음 주 배포 업데이트로 일본어판 표현 규제 철폐. 드디어 제대로 피를 볼 수 있을 듯"
-   },
-   {
-    "url": "https://bbs.ruliweb.com/news/board/320108/read/2295667",
-    "title": "[Multi] 블루 아카이브(日) 이벤트 상설화 예고 - 월화몽소"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610140943587531",
-    "title": "'블루 아카이브' 도시락·굿즈, GS25 매장 출시"
-   }
-  ],
   "2026-10-19": [
    {
     "url": "https://etoday.co.kr/news/view/2637102",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.wikitree.co.kr/articles/1168554",
     "title": "'푸른길' 손석구·나가야마 에이타, 신주쿠와 서울 잇는 살인…티저 속 단서 심상찮다"
+   }
+  ],
+  "2026-10-25": [
+   {
+    "url": "https://www.hankyung.com/article/2026102308326",
+    "title": "코스피, 바닥 다지기 나설까…美 FOMC·삼전닉스 실적 주목 [주간전망]"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261023001217",
+    "title": "이번주 국내 주요 금융일정(10.26~10.30)"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610250816106368",
+    "title": "韓 경상수지 흑자, 독일·일본 합계 첫 추월…반도체 수출이 견인"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261024000041",
+    "title": "美, 중동 4개 대사관 인력 감축…\"이란, 미국인 공격 위협\""
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026102214282180991",
+    "title": "일본도 부동산 투기와의 전쟁…'단기 매매 52% 양도세 중과' 검토"
+   },
+   {
+    "url": "https://www.news1.kr/world/middleeast-africa/6329573",
+    "title": "D-2 이스라엘 총선…'합산 19년' 네타냐후 집권연장 흔들"
+   },
+   {
+    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6330263",
+    "title": "수백만원 자폭드론 막으려 수천만원 발사?…K2전차도 '3중 방어망' 필요"
+   },
+   {
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261024010008251",
+    "title": "국힘 \"與, 신천지 조사 결과 공개해야…전형적 내로남불\""
+   },
+   {
+    "url": "https://www.kmib.co.kr/article/20261024500038",
+    "title": "‘혁명가 박정희’ 국회포럼⋯ 與 “국힘, 독재미화 판깔아”"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+    "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시"
+   },
+   {
+    "url": "https://fnnews.com/news/202610250001031334",
+    "title": "\"HBM 잘 팔려도 안심 못 한다\"…삼성전자가 TSMC에 내줄 수 없는 핵심 시장"
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261019143733",
+    "title": "센드버드·업스테이지, 국산 AI로 기업용 에이전트 상용화 추진"
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1168819",
+    "title": "루마섬, 스팀 80만 장 흥행 뒤 12월 2일 PS5·Xbox 출시…크로스플레이 첫 도입"
+   },
+   {
+    "url": "https://www.gamer.ne.jp/news/202610190023/",
+    "title": "'블루아카' 공식 생방송 '블루아카 라이브! 가을밤 어떻게 보내고 계신가요? SP' 10월 25일 19시 방송! 모모세 사나, 사쿠라 카오루, 이누이 카네 등 출연"
+   },
+   {
+    "url": "https://www.gamemeca.com/view.php?gid=1782298",
+    "title": "1만 2,000명 초청, 블루아카 5주년 페스티벌 11월 개최"
    }
   ]
  }
