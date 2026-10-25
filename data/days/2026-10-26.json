@@ -1,0 +1,360 @@
+{
+ "date": "2026-10-26",
+ "weather": {
+  "min": 15,
+  "max": 20,
+  "am_text": "흐리고 오전까지 비",
+  "am_icon": "rain",
+  "pm_text": "구름 많음",
+  "pm_icon": "sun_cloud",
+  "humidity": 75,
+  "rain": "5mm 미만",
+  "pm10": "좋음",
+  "pm25": "좋음",
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,550.30",
+   "pct": 0.3,
+   "closes": [
+    6384.24,
+    6035.35,
+    6008.81,
+    5554.22,
+    5668.05,
+    5768.01,
+    5552.74,
+    5735.66,
+    5533.77,
+    5550.3
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23"
+   ],
+   "ext": {
+    "low": "5,305.98"
+   }
+  },
+  {
+   "name": "나스닥100 선물",
+   "value": "29,117.75",
+   "pct": -0.08,
+   "closes": [
+    30898.25,
+    30791.5,
+    30182.75,
+    30143.75,
+    29391.5,
+    29722.5,
+    29675.25,
+    30007.0,
+    29142.0,
+    29117.75
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    "10.16",
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23"
+   ],
+   "ext": {
+    "high": "29,326.00",
+    "low": "28,987.00"
+   }
+  },
+  {
+   "name": "원/달러",
+   "value": "1,324.6",
+   "pct": 0.03,
+   "closes": [
+    1335.1,
+    1345.1,
+    1338.3,
+    1344.6,
+    1331.4,
+    1330.3,
+    1328.1,
+    1325.2,
+    1324.2,
+    1324.6
+   ],
+   "dates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23"
+   ],
+   "ext": {
+    "low": "1,321.5"
+   }
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "미국",
+     "source": "머니투데이",
+     "time": "10.26 05:35",
+     "title": "AI주 줄줄이 실적, 반등 기회 잡을까…FOMC, 금리 동결 예상되지만[이번주 美 증시는]",
+     "url": "https://www.mt.co.kr/world/2026/10/26/2026102418384484983",
+     "summary": "이번 주 S&P500 기업 163곳이 실적을 발표한다. 마이크로소프트·알파벳은 28일, 아마존은 29일 장 마감 후 발표한다. 27~28일 FOMC에서는 동결 확률이 90%로 반영됐고, 29일 PCE·3분기 GDP가 나온다. 필라델피아 반도체지수가 10월 들어 14.6% 내린 가운데 AI 투자 지속성이 관건이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102418384484983_1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "주간일정",
+     "source": "이투데이",
+     "time": "10.25 09:13",
+     "title": "[정부 주요 일정] 경제·사회부처 주간 일정 (10월 26일~10월 39일)",
+     "url": "https://www.etoday.co.kr/news/view/2639700",
+     "summary": "이번 주 정부 경제정책 발표가 이어진다. 기획예산처가 27일 재정집행 관리체계 개편 방안을, 재정경제부가 29일 퇴직연금 기능강화 방안과 11월 국고채 발행계획을 발표한다. 28일에는 경제관계장관회의·과학기술관계장관회의 연석회의가, 30일에는 장기요양보험료율을 정하는 장기요양위원회가 열린다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261018085406_2402976_574_316.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "성장률",
+     "tag2": "GDP",
+     "source": "머니투데이",
+     "time": "10.25 15:29",
+     "title": "커지는 3%대 성장 기대감…\"반도체 뺀 경제 상황 확인해야\"",
+     "url": "https://www.mt.co.kr/economy/2026/10/25/2026102511001714923",
+     "summary": "한국은행이 27일 3분기 GDP 속보치를 발표하는 가운데 올해 3%대 성장 기대가 커지고 있다. 한은은 연간 전망을 3.3%로 올렸고 OECD는 3.7%를 제시했다. 9월 반도체 수출은 603억달러로 262.8% 늘었다. 다만 반도체를 뺀 소비 지표와 금리 인상에 따른 부채 부담을 함께 봐야 한다는 지적이 나온다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102511001714923_1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "관세",
+     "source": "데일리안",
+     "time": "10.26 06:47",
+     "title": "트럼프, 美 진출 기업에 경고…“우리 이용하면 50% 관세 폭탄”",
+     "url": "https://www.dailian.co.kr/news/view/1705868/%ED%8A%B8%EB%9F%BC%ED%94%84-%E7%BE%8E-%EC%A7%84%EC%B6%9C-%EA%B8%B0%EC%97%85-%EA%B2%BD%EA%B3%A0%E2%80%9C%EC%9A%B0%EB%A6%AC-%EC%9D%B4%EC%9A%A9-2026",
+     "summary": "트럼프 대통령이 25일(현지시간) 폭스뉴스 인터뷰에서 미국을 이용하려는 외국 기업에 관세를 최대 50%까지 올릴 수 있다고 경고했다. 자동차 산업이 한국·일본·중국에 잠식됐다고도 주장했다. '이용'의 의미와 적용 대상, 시행 시점은 미정이며 11월 3일 중간선거를 앞둔 발언이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnimage.dailian.co.kr/news/202610/news_1792964818697_1705868_m_1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "통상",
+     "source": "뉴스1",
+     "time": "10.25 17:33",
+     "title": "다카이치, 獨 메르츠에 '일본산 EV 우대 제외' 수정 요구 방침",
+     "url": "https://www.news1.kr/world/northeast-asia/6331168",
+     "summary": "일본 총리가 28일 독일 총리와의 정상회담에서 EU 전기차 우대 정책의 일본산 제외 방침을 수정해 달라고 요구할 계획이다. 독일과 프랑스가 일본산 EV를 우대 대상에서 빼기로 했다고 전해지며, EU 차원의 확정은 아직 미정이다. 회담에서는 AI·사이버·방위 협력도 논의할 예정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/22/8174417/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "브라질",
+     "tag2": "대선",
+     "source": "이투데이",
+     "time": "10.26 07:01",
+     "title": "브라질 대선 막판까지 진통⋯교통난·폭우에 투표 2시간 연장",
+     "url": "https://www.etoday.co.kr/news/view/2639800",
+     "summary": "25일(현지시간) 치러진 브라질 대선 결선에서 대법관 결정으로 투표 마감이 오후 7시로 2시간 늦춰졌다. 상파울루 등 9개 주의 대중교통 차질과 남부 폭우가 이유다. 현직 대통령과 전 대통령 아들 플라비우 보우소나루 상원의원이 맞붙었고, 개표가 일시 중단돼 결과는 미정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261026065700_2406649_1200_800.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "북한군",
+     "source": "뉴스핌",
+     "time": "10.24 07:52",
+     "title": "김정은, 지뢰도발 국면 속 전군 중대장 소집...\"임전태세 완비\" 강조",
+     "url": "https://www.newspim.com/news/view/20261024000013",
+     "summary": "김정은 국무위원장이 22~23일 평양에서 제3차 중대장대회를 열고 중대의 전투력 강화와 임전태세 완비를 주문했다. 사망설이 돌던 가운데 북한 매체는 나흘 만의 공개활동 사진 28장을 실었다. 보고는 북한 국방상이 맡았다.",
+     "age": "2일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/24/2610240748489020_t1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "국민의힘",
+     "source": "뉴스1",
+     "time": "10.25 09:52",
+     "title": "野 \"김정은 방중에 정부는 주시만…선의에 기댄 안보 도박\"",
+     "url": "https://news1.kr/politics/assembly/6330915",
+     "summary": "국민의힘은 김정은 총비서가 중국 단둥을 방문한 데 대해 북한은 외교 활로를 넓히는데 정부는 지켜보기만 한다고 비판했다. 북·러 군사협력과 북·중 경제협력이 커지는 점을 지적하며 한미동맹과 한미일 안보협력 강화를 촉구했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/25/8177103/high.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "조국혁신당",
+     "source": "YTN",
+     "time": "10.25 12:29",
+     "title": "조국 \"무기력한 민주, 위기 자초...조희대 탄핵해야\"",
+     "url": "https://www.ytn.co.kr/_ln/0101_202610251229414587",
+     "summary": "조국 혁신정책연구원장은 SNS에서 더불어민주당이 역풍을 걱정하다 사법개혁의 적기를 놓쳐 진보 진영의 위기를 불렀다고 비판했다. 민주당 대표에게 사과를 요구하고 조희대 대법원장 탄핵과 내란 청산 입법 마무리를 재차 촉구했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "10.24 17:01",
+     "title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216612",
+     "summary": "앤트로픽이 정리증명 도구 시어럼과 클로드로 오픈소스 라이브러리 123개의 테스트 진입점 239곳을 형식 검증했다. 이 과정에서 버그 수백 건을 찾았고, 10년 넘게 숨어 있던 논리 오류도 포함됐다. 다만 증명은 64MB 미만 입력 등 일부 조건에서만 성립한다.",
+     "age": "1일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216612_220721_424.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "지디넷코리아",
+     "time": "10.25 16:54",
+     "title": "일본 GMO, FX 자동매매 서버 해킹…모든 이용자에 5000엔 위로금",
+     "url": "https://zdnet.co.kr/view/?no=20261025163442",
+     "summary": "일본 GMO인터넷그룹의 FX 자동매매용 가상사설서버 서비스가 해킹돼 이용자 인증정보가 유출됐다. 증권사·FX업체 70여 곳 계좌에서 부정 거래가 이뤄졌을 가능성이 있다. 회사는 손실을 보상하고 피해 여부와 상관없이 전 이용자에게 5000엔을 지급하기로 했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.zdnet.co.kr/2026/10/25/3f57c58996e89b9ca4a45acaeb99d79b.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "피지컬AI",
+     "source": "디지털데일리",
+     "time": "10.25 19:35",
+     "title": "피지컬AI 시대, 네트워크 중요성 부각…28일 산업계 협력 방안 논의",
+     "url": "https://www.ddaily.co.kr/page/view/2026102519271966830",
+     "summary": "AI 네트워크 얼라이언스와 피지컬AI얼라이언스가 28일 서울에서 피지컬 AI와 AI 네트워크 연합토론회를 연다. 과기정통부가 주최하고 SK텔레콤 등이 발표하며, 조선·국방·보험·헬스케어 분야의 도입 과제와 네트워크 요구사항을 논의한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/10/25/2026102519203416377_l.png"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "제네시스",
+     "tag2": "골프",
+     "source": "아주경제",
+     "time": "10.25 18:43",
+     "title": "김시우·신상훈, 제네시스 챔피언십 공동 4위…우승은 日 가쓰라가와",
+     "url": "https://www.ajunews.com/view/20261025184043438",
+     "summary": "25일 천안 우정힐스CC에서 끝난 제네시스 챔피언십에서 일본의 가쓰라가와 유토가 13언더파로 우승해 상금 68만 달러를 받았다. 이 대회 첫 외국인 우승자다. 김시우와 신상훈은 공동 4위였고, 신상훈은 2027 제네시스 스코티시 오픈 출전권을 얻었다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.ajunews.com/content/image/2026/10/25/20261025184118682072.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "자동차",
+     "tag2": "실적",
+     "source": "데일리안",
+     "time": "10.26 06:00",
+     "title": "현대차 파업에 발목 잡힌 사이 기아 '바짝'…3분기 영업익 격차 1000억원대",
+     "url": "https://dailian.co.kr/news/view/1705399/%ED%98%84%EB%8C%80%EC%B0%A8-%ED%8C%8C%EC%97%85-%EB%B0%9C%EB%AA%A9-%EC%9E%A1%ED%9E%8C-%EC%82%AC%EC%9D%B4-%EA%B8%B0%EC%95%84-%EB%B0%94-2026",
+     "summary": "에프앤가이드 컨센서스에 따르면 현대차의 3분기 영업이익 전망은 2조5583억원, 기아는 2조4417억원으로 차이가 1166억원에 그친다. 현대차는 파업 탓에 도매판매가 11.5% 줄었다. 실적 발표는 현대차 29일, 기아 30일이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnimage.dailian.co.kr/news/202610/news_1792732796321_1705399_m_1.jpeg"
+    },
+    {
+     "fixed": true,
+     "tag1": "공모전",
+     "tag2": "디자인",
+     "source": "광주in",
+     "time": "09.08 14:56",
+     "title": "'2026 대한민국 디자인문화대전' 작품 공모 개시",
+     "url": "https://www.gwangjuin.com/news/articleView.html?idxno=268064",
+     "summary": "광주전남디자인총연합회가 주최하는 디자인문화대전으로, 접수는 10월 26일부터 11월 27일까지다. 시각·제품·영상콘텐츠 등 5개 분야이며, 대학생을 포함한 일반부와 고등부로 전국 누구나 참가할 수 있다. 대상 1명은 산업부장관상과 상금 300만원, 금상 4명은 각 100만원을 받는다.",
+     "age": "48일 전",
+     "orig": null,
+     "deadline": "11.27",
+     "thumb": "https://cdn.gwangjuin.com/news/thumbnail/202609/268064_135490_3923_v150.jpg"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "44주차 · 26회차 브리핑"
+}
