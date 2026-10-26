@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-20": [
-   {
-    "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/19/20261019500233",
-    "title": "기관 5747억 순매수에 장중 급락 되돌린 코스피"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261019001141",
-    "title": "청년 일자리·창업에 5.1조…내년 예산 41.6% 늘린다"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261019001384",
-    "title": "외국인, 10월 코스피서 17조원 팔았다…'삼전닉스' 80% 집중"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610190837400139",
-    "title": "트럼프 측근들 \"중간선거 패배시 계엄령\"…투표용지 압수도 거론"
-   },
-   {
-    "url": "https://www.etoday.co.kr/news/view/2637460",
-    "title": "日 첫 여성 총리 1년…‘다카이치 돌풍’에서 지지율 50% 붕괴까지"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610191523001/",
-    "title": "이스라엘 경찰, 정착민 10명 체포…외교관·언론인 공격 혐의"
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261019523494",
-    "title": "김여정, 軍 MDL 경고사격 비난… \"확성기 재개·병력 증강 배치 검토\""
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6324868",
-    "title": "국토위 서울시 국감 '한강버스 리베이트 의혹' 두고 여야 정면 충돌"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610191705011/",
-    "title": "이 대통령, 김지용 중수청장 임명장 수여…\"네편 내편 가리지 말아야\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216390",
-    "title": "\"페이블 5.5, 파트너에 전달\"...개발 도구서 새 모델명 잇따라 포착"
-   },
-   {
-    "url": "https://etnews.com/20261019000392",
-    "title": "韓 반도체 저격수 된 머스크…中 메모리 띄우고 삼전닉스 흔드는 속셈?"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261019000280",
-    "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 급락 여파에 동반 하락"
-   },
-   {
-    "url": "https://sports.khan.co.kr/article/202610190832003/",
-    "title": "‘또 못 이겼다’ 캐릭의 맨유, 리즈 원정서 1-1 무…공식전 6경기 무승 늪, 경질 여론도 거세져"
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026101916130005261",
-    "title": "옛집에 쌓인 부친의 기억, 오늘 되살린 아들… 성북을 잇는 '지붕 없는 미술관'"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/life/exhibition/2026/10/15/20261015500061",
-    "title": "제페토 할아버지의 공방으로 초대합니다… ‘피노키오전 : PLAY ＆ CREATE’ 11월 6일 개막"
-   }
-  ],
   "2026-10-21": [
    {
     "url": "https://www.mt.co.kr/stock/2026/10/20/2026102015384373141",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.gwangjuin.com/news/articleView.html?idxno=268064",
     "title": "'2026 대한민국 디자인문화대전' 작품 공모 개시"
+   }
+  ],
+  "2026-10-27": [
+   {
+    "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/26/20261026500215",
+    "title": "코스피, 외국인 6955억 순매도에 1.46% 하락… 5469선 마감"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610261401248928",
+    "title": "내년 예산안에 88개 과제·44.2조원 효율화 방안 반영"
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2640332",
+    "title": "3분기 GDP 1.0% '깜짝 성장'⋯반도체 호조에도 민간소비는 뒷걸음"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6332591",
+    "title": "트럼프 \"부정선거 제보자에 100만 달러 포상금\""
+   },
+   {
+    "url": "https://www.dailysecu.com/news/articleView.html?idxno=209083",
+    "title": "일본 사이버공격 급증에 정부 긴급대책 착수…기업들 고객 피해보상 확대"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610262200005/",
+    "title": "룰라, 브라질 첫 4선 성공…대선 결선 역전승"
+   },
+   {
+    "url": "https://newspim.com/news/view/20261026000463",
+    "title": "한미 공군 16개 기종 군산 집결… 전작권 전환 대비 '한국 주도' 공중훈련"
+   },
+   {
+    "url": "https://www.hankookilbo.com/news/article/A2026102614570004791",
+    "title": "여야 지지율 '역전' 뒤에는 중도·수도권·청년 있었다... ETF·부동산 공세 통했나"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261026000865",
+    "title": "李대통령, 우원식 전 국회의장과 90분 오찬…'통합' 중요성 강조"
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "title": "앤트로픽, 상장 공식 신청"
+   },
+   {
+    "url": "https://www.dailian.co.kr/news/view/1706260/%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80-%E2%80%98%ED%95%B4%ED%82%B9-%EC%82%AC%EA%B3%A0%E2%80%99-%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8-2026",
+    "title": "과기정통부, '해킹 사고' 더존비즈온 민관합동조사단 긴급 투입"
+   },
+   {
+    "url": "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/",
+    "title": "오픈AI, 새 GPT-6.1 테라 모델로 챗GPT·코덱스 업그레이드"
+   },
+   {
+    "url": "https://www.mydaily.co.kr/page/view/2026102621312937482",
+    "title": "[속보] 맨체스터 유나이티드 '충격' 소식! 캐릭 감독 '경질' 임박...'긴급 회의' 개최 예정, \"대응 방안 논의→후임 후보 검토 중\""
+   },
+   {
+    "url": "https://fnnews.com/news/202610270532338216",
+    "title": "몸의 기억부터 화면 없는 영화까지…아트선재센터 4개 전시 동시 개막 [fn 아트스냅]"
+   },
+   {
+    "url": "https://www.etnews.com/20261021000009",
+    "title": "아일릿의 특별 선물…'BREAK EVEN' 팝업 스토어"
    }
   ]
  }
