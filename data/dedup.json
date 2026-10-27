@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-21": [
-   {
-    "url": "https://www.mt.co.kr/stock/2026/10/20/2026102015384373141",
-    "title": "코스피, 외국인·기관 매도에 3.73% 하락…5552.74 마감"
-   },
-   {
-    "url": "https://www.mt.co.kr/politics/2026/10/20/2026102010515586442",
-    "title": "李대통령, 23일 규제합리화위원회 2차 전체회의 주재"
-   },
-   {
-    "url": "https://www.mt.co.kr/economy/2026/10/20/2026102016093017153",
-    "title": "원/달러 환율 1328.1원…3거래일 연속 연저점 경신"
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6326549",
-    "title": "美 전·현직 안보 당국자들, 10개 주에 트럼프 중간선거 개입 대비 조언"
-   },
-   {
-    "url": "https://www.news1.kr/world/northeast-asia/6324548",
-    "title": "日다카이치 \"식료품 소비세 감세 재원, 국채 발행 배제 안 해\""
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/international/2026/10/20/20261020500185",
-    "title": "“작년 8월 태어난 아기 유모차서 즉사, 엄마도 숨져” 절규한 젤렌스키…러 드론 습격에 21명 사상 [배틀라인]"
-   },
-   {
-    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6326436",
-    "title": "강신철 국방, 주한 중국대사 접견…\"한반도 평화 위한 역할 요청\""
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261020000770",
-    "title": "국민의힘 복지위원들 \"李정부와 민주당 앞에서 응급의료 공정 원칙 무너져\""
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261020000927",
-    "title": "[종합] 李대통령 \"관행 깨고 주택공급 전격전\"…국민 안전 시스템도 '전면 재점검'"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216446",
-    "title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박"
-   },
-   {
-    "url": "https://ddaily.co.kr/page/view/2026102015201379456",
-    "title": "정보보호 공시, 내년 상장사 전체로 확대…금융사·공공기관 예외 폐지 (종합)"
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-    "title": "구글, 더 개인화된 제미나이 AI 비서를 자동차에 도입"
-   },
-   {
-    "url": "https://animatetimes.com/news/details.php?id=1791938058",
-    "title": "『유메네코 넥트』 TV 애니메이션화｜성우에 코바야시 유스케, 시노하라 유"
-   },
-   {
-    "url": "https://isplus.com/article/view/isp202610210019",
-    "title": "김윤석·구교환 ‘폭설’, 11월 18일 개봉 확정…메인 예고편 공개"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1167632",
-    "title": "‘옆자리, 프란체스카’ 뱀파이어가 교실로 왔다…11월 6일 웨이브서 첫 공개"
-   }
-  ],
   "2026-10-22": [
    {
     "url": "https://www.fnnews.com/news/202610211605537952",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.etnews.com/20261021000009",
     "title": "아일릿의 특별 선물…'BREAK EVEN' 팝업 스토어"
+   }
+  ],
+  "2026-10-28": [
+   {
+    "url": "https://www.newspim.com/news/view/20261027001221",
+    "title": "코스피, 3.09% 오른 5638.35 마감"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202610271426495595",
+    "title": "정부, 재정집행 기준 바꾼다…실제 지급까지 관리"
+   },
+   {
+    "url": "https://www.mt.co.kr/economy/2026/10/27/2026102709034544373",
+    "title": "산업연구원 \"석유 최고가격제 효과…미국보다 휘발유 값 12.3%p 낮췄다\""
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261028000022",
+    "title": "미 법무부, 워싱턴주 비시민권 의심 투표 개표 보류 요청"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026102722385342000c8c1c064d_1",
+    "title": "\"태양광 주도권 中서 되찾는다\"… 日, 페로브스카이트 양산에 1,000억 엔 투입"
+   },
+   {
+    "url": "https://www.hankookilbo.com/news/article/A2026102804440002546",
+    "title": "이스라엘 총선 출구조사서 '반네타냐후 진영' 근소 우세…아랍계 정당 약진"
+   },
+   {
+    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6333145",
+    "title": "합참, 北 접경지 자주포 노출에 \"구형으로 파악…의도 면밀 추적\""
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610271512001/",
+    "title": "[속보]민주당, 의총서 ‘조희대 국정조사 추진’ 결론"
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/politics/2026/10/27/20261027500133",
+    "title": "李대통령, 민주당 5·6선 의원들과 청와대 만찬…통합 강조할 듯"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+    "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개"
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261027140517",
+    "title": "공정위, 4년 만에 'GOS 광고' 제재…삼성 \"과도해\" 법적 대응 시사"
+   },
+   {
+    "url": "https://www.etnews.com/20261027000311",
+    "title": "KT, 500개 AI모델이 최적의 답 제시하는 '토큰 팩토리' 공개…독자 AI 생태계 시동"
+   },
+   {
+    "url": "https://animeanime.jp/article/2026/10/27/104237.html",
+    "title": "불온한 '프리큐어'!? 스핀오프 최신작 '듀얼 섀도우' 2027년 방송! 초티저 PV 공개"
+   },
+   {
+    "url": "https://www.starnewskorea.com/en/movie/2026/10/27/2026102713443047199",
+    "title": "라이징 스타 총집결 '최종면접', 박스오피스 다크호스 될까…한국영화 예매율 1위"
+   },
+   {
+    "url": "https://www.news1.kr/entertain/broadcast-tv/6332646",
+    "title": "'문무' 이현욱·장혁·김강우·박성웅, 전쟁 앞에 선 4명의 호걸…포스터 공개"
    }
   ]
  }
