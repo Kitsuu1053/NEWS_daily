@@ -1,0 +1,355 @@
+{
+ "date": "2026-10-29",
+ "weather": {
+  "min": 5,
+  "max": 13,
+  "am_text": "대체로 맑다가 오전부터 흐려짐",
+  "am_icon": "sun_cloud",
+  "pm_text": "흐림, 저녁부터 비",
+  "pm_icon": "rain",
+  "humidity": null,
+  "rain": "5~10mm",
+  "pm10": null,
+  "pm25": null,
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "6,012.44",
+   "pct": 6.63,
+   "closes": [
+    5554.22,
+    5668.05,
+    5768.01,
+    5552.74,
+    5735.66,
+    5533.77,
+    5550.3,
+    5469.47,
+    5638.34,
+    6012.44
+   ],
+   "dates": [
+    null,
+    null,
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28"
+   ],
+   "ext": {
+    "high": "6,032.28"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "26,549.85",
+   "pct": 0.27,
+   "closes": [
+    26713.03,
+    26140.03,
+    26430.89,
+    26424.82,
+    26702.86,
+    26008.86,
+    25955.34,
+    26169.38,
+    26477.81,
+    26549.85
+   ],
+   "dates": [
+    null,
+    null,
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28"
+   ],
+   "ext": {}
+  },
+  {
+   "name": "원/달러",
+   "value": "1,337.7",
+   "pct": 1.06,
+   "closes": [
+    1344.6,
+    1331.4,
+    1330.3,
+    1328.1,
+    1325.2,
+    1324.2,
+    1324.6,
+    1323.1,
+    1323.7,
+    1337.7
+   ],
+   "dates": [
+    null,
+    null,
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28"
+   ],
+   "ext": {}
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "코스피",
+     "source": "뉴스핌",
+     "time": "10.28 16:04",
+     "title": "6.63% 상승, 6012.44 마감한 코스피",
+     "url": "https://www.newspim.com/news/view/20261028001405",
+     "summary": "코스피가 28일 전 거래일보다 374.10포인트(6.63%) 오른 6012.44에 장을 마치며 6000선 위로 올라섰다. 코스닥도 27.45포인트(3.69%) 오른 771.28에 마감했고, 원·달러 환율은 14.0원 오른 1337.7원에 거래를 마쳤다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/28/261028160343830_t1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "퇴직연금",
+     "source": "뉴스핌",
+     "time": "10.28 10:15",
+     "title": "정부, 주거·일자리·서민금융 '3대 사회정책' 선정…퇴직금 사외적립 의무화",
+     "url": "https://www.newspim.com/news/view/20261028000335",
+     "summary": "정부가 28일 경제관계장관회의와 과학기술관계장관회의의 첫 연석회의를 열고 주거·일자리·서민금융을 양극화 완화를 위한 3대 사회정책으로 정했다. 퇴직급여 사외적립은 2028년부터 100인 이상 사업장부터 단계적으로 의무화해 체불 위험을 줄인다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/28/261028082846058_t1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "경제",
+     "tag2": "FOMC",
+     "source": "아시아경제",
+     "time": "10.29 06:27",
+     "title": "Fed, 금리 결정 8회→6회로 축소…강한 경기·고물가에도 금리 동결(종합)",
+     "url": "https://view.asiae.co.kr/article/2026102906274049609",
+     "summary": "미 연준이 28일(현지시간) 기준금리를 연 3.75~4.00%로 동결했다. 9월에 0.25%p 올린 뒤 처음 열린 회의로, 이사와 지역 연은 총재 2명이 인상을 주장하며 반대했다. 연준 의장은 2028년부터 금리를 결정하는 회의를 연 6회로 줄이겠다고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026071504434646114_1784058227.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "대북제재",
+     "source": "뉴스핌",
+     "time": "10.29 04:15",
+     "title": "美재무부 \"北 WMD·탄도미사일 자금 조달 개인 10명·단체 1곳 제재\"",
+     "url": "https://www.newspim.com/news/view/20261029000029",
+     "summary": "미국 재무부 해외자산통제실이 28일(현지시간) 북한 대량살상무기와 탄도미사일 개발 자금을 댄 혐의로 개인 10명과 단체 1곳을 제재했다. 이들은 북한 IT 노동자를 내세워 미국 기업을 속이고 암호화폐로 자금을 세탁해 2025년 이후 75만 달러 넘게 벌어들인 것으로 파악됐다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2024/12/13/2412130606336080_t1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "일독정상회담",
+     "source": "nippon.com(지지통신)",
+     "time": "10.28 22:43",
+     "title": "(업데이트) 일·독 정상, 경제안보 선언 채택",
+     "url": "https://www.nippon.com/en/articles/-/56502",
+     "summary": "일본 총리와 독일 총리가 28일 도쿄 총리관저에서 회담하고 경제안보 선언과 AI 등 첨단기술 협력 선언을 함께 채택했다. 두 정상은 경제·방위 협력도 넓히기로 했다. 독일 총리가 취임 후 일본을 찾은 것은 이번이 처음이며, 중국의 패권적 행동과 우크라이나 전쟁도 논의했다.",
+     "age": null,
+     "orig": "(Update) Japanese, German Leaders Adopt Economic Security Declaration",
+     "deadline": null,
+     "thumb": "https://nippon.ismcdn.jp/mwimgs/f/8/1200wm/img_f81bb15be0f1109d15476d57ebe8429270765.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "우크라이나",
+     "tag2": "종전협상",
+     "source": "뉴시스",
+     "time": "10.28 23:16",
+     "title": "젤렌스키 \"트럼프와 러우 종전 목표 같지만, 방법 달라\"",
+     "url": "https://newsis.com/view/NISX20261028_0003845496",
+     "summary": "우크라이나 대통령이 28일 텔레그램에 글을 올려 전쟁을 끝내야 한다는 목표는 미국 대통령과 같지만 방법은 다르다고 밝혔다. 미·러 경제협력 확대와 미·중·러 정상회동 가능성에는 우려를 나타냈다. 겨울을 앞두고 패트리엇 요격미사일 특별 지원도 요청했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img1.newsis.com/2026/10/16/NISI20261016_0001669295_web.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "한미동맹",
+     "source": "경향신문",
+     "time": "10.28 18:12",
+     "title": "전작권 논의할 SCM 내년으로…‘조건 충족’ 강조하는 미국, 전환 일정 늦춰지나",
+     "url": "https://www.khan.co.kr/article/202610281812001/",
+     "summary": "11월에 열려던 제58차 한미안보협의회(SCM)가 내년 초로 미뤄졌다. 양국 국방장관은 28일 회담에서 2027년 초 개최에 합의했다. 미국이 전환 조건 충족을 강조하는 가운데, 전시작전권 전환의 목표연도 설정 등 후속 절차도 늦어질 수 있다는 관측이 나온다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.khan.co.kr/news/2026/10/28/news-p.v1.20261028.2adc72123e70429ebf5107595ff47f6e_P1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "대통령실",
+     "tag2": "검찰개혁",
+     "source": "서울신문",
+     "time": "10.28 22:09",
+     "title": "李 “개혁하는 동지 공격 무책임… 농지조사는 제안한 장관 칭찬”",
+     "url": "https://www.seoul.co.kr/news/politics/president/2026/10/29/20261029012008",
+     "summary": "이재명 대통령이 X에 글을 올려 검찰개혁 과정에서 개혁하려는 동지를 공격하는 범여권 강경파를 무책임한 극단주의라고 비판했다. 농지 전수조사 책임 논란에는 장관의 제안을 칭찬하려던 것이라고 반박했고, 다문화가족 우대 폐지는 시행령 개정까지 검토하겠다고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.seoul.co.kr//img/upload/2026/10/28/SSC_20261028212345_O2.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "국회",
+     "tag2": "특검",
+     "source": "세계일보",
+     "time": "10.29 06:00",
+     "title": "與, 조작기소 특검법 재시동… 남은 의혹 규명",
+     "url": "https://www.segye.com/newsView/20261028521115",
+     "summary": "민주당이 이 대통령 사건 등 12개 사건에서 옛 검찰 수사의 불법성을 가리겠다며 조작기소 특검법을 다시 추진한다. 4월 발의 뒤 공소취소 권한 논란으로 처리가 미뤄졌던 법안으로, 서영교 법사위원장은 다음 주 법사위 상정을 추진하겠다고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.segye.com/content/image/2026/10/28/20261028521392.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "10.28 15:50",
+     "title": "오픈AI 이어 앤트로픽도 '난제' 반박…AI 성능 경쟁, 과학적 발견으로 확대",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216756",
+     "summary": "앤트로픽이 내부 연구용 클로드 모델로 컴퓨터과학 난제인 지수 시간 가설(ETH)을 반박하는 알고리즘을 찾았다고 발표했다. 약 6시간 앞서 오픈AI도 같은 내용을 공개했다. 3-SAT를 준지수 시간에 풀 수 있다는 주장이며, 학계 최종 검증은 아직 이뤄지지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202610/216756_220907_4249.png"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "반도체",
+     "source": "지디넷코리아",
+     "time": "10.28 09:04",
+     "title": "SK하이닉스, 분기 매출 100조 첫 돌파…영업익 83조 '어닝 서프라이즈'",
+     "url": "https://zdnet.co.kr/view/?no=20261028085225",
+     "summary": "SK하이닉스의 3분기 매출은 104조6154억원, 영업이익은 83조3338억원으로 처음으로 분기 매출 100조원을 넘었다. 영업이익은 1년 전보다 632% 늘어 시장 전망치를 웃돌았다. 연간 주주환원 규모는 현금배당 30조원 이상을 포함해 100조원으로 정했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.zdnet.co.kr/2026/08/20/dfe7667102045a4b4e44d1f93467f5ae.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "디지털데일리",
+     "time": "10.28 09:40",
+     "title": "연이은 해킹에 칼 빼든 정부…핵심시설 170여곳 긴급 점검",
+     "url": "https://www.ddaily.co.kr/page/view/2026102809135373450",
+     "summary": "금융·공공기관의 개인정보 유출이 잇따르자 과기정통부가 민간 주요정보통신기반시설 111개 기관, 170여 곳의 보안 취약점을 긴급 점검한다. 외부에 노출된 서버와 웹페이지의 자산 관리 실태를 중점적으로 보고, 연내 점검을 마칠 계획이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "제네시스",
+     "tag2": "신차",
+     "source": "제네시스 뉴스룸",
+     "time": "10.06 08:30",
+     "title": "제네시스, GV80 하이브리드 출시",
+     "url": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%252C-GV80-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%B6%9C%EC%8B%9C/",
+     "summary": "제네시스가 GV80 하이브리드를 출시했다. 시스템 최고출력은 352마력으로 2.5 터보보다 약 16% 높고, 복합연비는 12.0km/ℓ로 약 29% 좋아졌다. 가격은 개소세 5% 기준 7680만원이며, 2027 GV80과 GV80 쿠페도 함께 나왔다.",
+     "age": "23일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://content.presspage.com/uploads/2934/37427b1b-f704-44aa-a63c-3426c6ab2faf/1920_261006_genesislaunchesthegv80hybrid_powerfulperformancefuelefficiencyandev-likedrivingexperience_1.jpg?10000"
+    },
+    {
+     "fixed": false,
+     "tag1": "자동차",
+     "tag2": "GM",
+     "source": "이데일리",
+     "time": "10.28 04:54",
+     "title": "GM, 전기차 올인→하이브리드 선회…나스닥 이전도 추진",
+     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01636726645617512",
+     "summary": "GM이 전기차 중심 전략에서 방향을 틀었다. 미시간 랜싱 공장에서 쉐보레 트래버스, 뷰익 엔클레이브, GMC 아카디아의 하이브리드 모델을 생산할 계획이다. 1~9월 미국 점유율이 16.6%로 떨어진 가운데, 11월 17일부터는 상장 시장도 나스닥으로 옮긴다.",
+     "age": "1일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102800051.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "공모전",
+     "tag2": "영상",
+     "source": "링커리어",
+     "time": "미정",
+     "title": "2026 대한민국 과일대전 숏폼 영상 공모전",
+     "url": "https://linkareer.com/activity/356768",
+     "summary": "농림축산식품부와 한국과수농협연합회가 우리 과일을 주제로 숏폼 영상을 공모한다. 참가 자격 제한은 없고 11월 13일까지 접수한다. 대상 1편에는 농식품부 장관상과 상금 80만원을 주며, 총상금은 160만원이다.",
+     "age": null,
+     "orig": null,
+     "deadline": "11.13",
+     "thumb": "https://api.linkareer.com/attachments/961321"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "44주차 · 29회차 브리핑"
+}

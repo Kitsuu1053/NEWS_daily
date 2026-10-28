@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-22": [
-   {
-    "url": "https://www.fnnews.com/news/202610211605537952",
-    "title": "외인 귀환·반도체 훈풍…코스피, 급락 딛고 5700선 회복"
-   },
-   {
-    "url": "https://news.mtn.co.kr/article/2026102116505789737",
-    "title": "김정관 \"車반도체 상용화 장벽 낮춘다…정부 지원 확대\""
-   },
-   {
-    "url": "https://www.etoday.co.kr/news/view/2638235",
-    "title": "10월 중순 수출 616억불 105%↑⋯반도체 222% 급증 [종합]"
-   },
-   {
-    "url": "https://fnnews.com/news/202610211154285256",
-    "title": "美중간선거 참패 우려에…트럼프 백악관 내부 분열 격화"
-   },
-   {
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807769",
-    "title": "일본 여당, 다음 달 '안보 3문서 개정' 협의 착수"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261022000002",
-    "title": "미·러·우크라 3자 협상 재개하나…푸틴 \"참여 용의\""
-   },
-   {
-    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6327299",
-    "title": "전차·장갑차 등 1300여대 대이동…육군 11기동사단, 호국훈련 돌입"
-   },
-   {
-    "url": "https://hankookilbo.com/news/article/A2026102109250001432",
-    "title": "이 대통령 \"국정 생중계도 언론 접촉도 현장 방문도 SNS도 늘릴 것\""
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6327037",
-    "title": "운영위, 靑 국감 증인 채택…강훈식·김용범·김현지·정진상 등은 제외"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
-    "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입"
-   },
-   {
-    "url": "https://www.etnews.com/20261021000240",
-    "title": "SK하이닉스, 발열 잡는 'iHBM' 공급망 협의 착수…HBM 선두 수성 승부수"
-   },
-   {
-    "url": "https://m.inews24.com/v/2017390",
-    "title": "크래프톤, 독자 개발 LLM '라온-1 미니' 프리뷰 공개"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261021001170",
-    "title": "[KPGA] 22일 개막 제네시스 챔피언십 10주년, 특별한 순간들"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Industry/2026/10/202610211854486569112616b072_1",
-    "title": "CATL, 실적 부진에 주가 12% 급락…中 배터리업계 우려 확산"
-   },
-   {
-    "url": "https://linkareer.com/activity/347683",
-    "title": "2026년 제41회 디자인 & 일러스트레이션 국제공모전"
-   }
-  ],
   "2026-10-23": [
    {
     "url": "https://www.newspim.com/news/view/20261022001100",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.news1.kr/entertain/broadcast-tv/6332646",
     "title": "'문무' 이현욱·장혁·김강우·박성웅, 전쟁 앞에 선 4명의 호걸…포스터 공개"
+   }
+  ],
+  "2026-10-29": [
+   {
+    "url": "https://www.newspim.com/news/view/20261028001405",
+    "title": "6.63% 상승, 6012.44 마감한 코스피"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261028000335",
+    "title": "정부, 주거·일자리·서민금융 '3대 사회정책' 선정…퇴직금 사외적립 의무화"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026102906274049609",
+    "title": "Fed, 금리 결정 8회→6회로 축소…강한 경기·고물가에도 금리 동결(종합)"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261029000029",
+    "title": "美재무부 \"北 WMD·탄도미사일 자금 조달 개인 10명·단체 1곳 제재\""
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/56502",
+    "title": "(업데이트) 일·독 정상, 경제안보 선언 채택"
+   },
+   {
+    "url": "https://newsis.com/view/NISX20261028_0003845496",
+    "title": "젤렌스키 \"트럼프와 러우 종전 목표 같지만, 방법 달라\""
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610281812001/",
+    "title": "전작권 논의할 SCM 내년으로…‘조건 충족’ 강조하는 미국, 전환 일정 늦춰지나"
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/politics/president/2026/10/29/20261029012008",
+    "title": "李 “개혁하는 동지 공격 무책임… 농지조사는 제안한 장관 칭찬”"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261028521115",
+    "title": "與, 조작기소 특검법 재시동… 남은 의혹 규명"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216756",
+    "title": "오픈AI 이어 앤트로픽도 '난제' 반박…AI 성능 경쟁, 과학적 발견으로 확대"
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261028085225",
+    "title": "SK하이닉스, 분기 매출 100조 첫 돌파…영업익 83조 '어닝 서프라이즈'"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026102809135373450",
+    "title": "연이은 해킹에 칼 빼든 정부…핵심시설 170여곳 긴급 점검"
+   },
+   {
+    "url": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%252C-GV80-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%B6%9C%EC%8B%9C/",
+    "title": "제네시스, GV80 하이브리드 출시"
+   },
+   {
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01636726645617512",
+    "title": "GM, 전기차 올인→하이브리드 선회…나스닥 이전도 추진"
+   },
+   {
+    "url": "https://linkareer.com/activity/356768",
+    "title": "2026 대한민국 과일대전 숏폼 영상 공모전"
    }
   ]
  }
