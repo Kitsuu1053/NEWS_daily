@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-23": [
-   {
-    "url": "https://www.newspim.com/news/view/20261022001100",
-    "title": "[마감시황] 코스피·코스닥 3%대 동반 하락…외국인 매도에 약세"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261022000337",
-    "title": "국민성장펀드 지원대상에 '우주항공·양자' 추가...산은법 시행령 입법예고"
-   },
-   {
-    "url": "https://www.sedaily.com/article/20104717",
-    "title": "금통위원 전원 '동결' 의견...“두 차례 인상 파급영향 점검 필요”"
-   },
-   {
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811291",
-    "title": "트럼프, 중간선거앞 물가 표심에 '주거비 인하' 행정명령"
-   },
-   {
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03749046645615544",
-    "title": "일본 내 '면세품 되팔이' 막힌다…다음달부터 '출국 때 환급'"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610221517001/",
-    "title": "예멘 내전에 발 담근 이집트·UAE···미 개입 압박 커지나"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261022001064",
-    "title": "[2026 국감] 사상 첫 사관학교 국감… 3군 교장 \"통합, 의견 더 들어야\""
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026102215270000420",
-    "title": "법사위, 최길수 특별감찰관 후보자 청문보고서 채택… 10년 공백 해소 수순"
-   },
-   {
-    "url": "https://www.ytn.co.kr/_ln/0101_202610220927246503",
-    "title": "장동혁, 과거 '사석 욕설 녹취' 논란...대표실 \"법적조치\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216510",
-    "title": "앤트로픽, 메타 '뮤즈' 대항마 AI 에이전트 '클로드 듀엣' 공개"
-   },
-   {
-    "url": "https://www.ddaily.co.kr/page/view/2026102211290630917",
-    "title": "정부, PHP 보안 취약점에 긴급 대응…기업 CISO 대응 돌입"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261022000396",
-    "title": "오픈AI, 구글 클라우드에 AI 모델·코덱스 공급…협력 확대"
-   },
-   {
-    "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014745",
-    "title": "'맨유 내부 분열 조짐?' 주장 브루노, 캐릭 전술 공개 저격…\"코칭스태프 결정이었다\"→캐릭 감독도 분노 폭발"
-   },
-   {
-    "url": "https://www.pap-magazine.com/article/gae-aulenti-exhibition-seoul-10-corso-como",
-    "title": "파리 오르세 미술관 만든 그 디자이너, 지금 서울에"
-   },
-   {
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16254703",
-    "title": "에반 캐릭터 글라이디, 성수서 첫 팝업 연다"
-   }
-  ],
   "2026-10-24": [
    {
     "url": "https://www.newspim.com/news/view/20261023001023",
@@ -433,6 +371,68 @@
    {
     "url": "https://linkareer.com/activity/356768",
     "title": "2026 대한민국 과일대전 숏폼 영상 공모전"
+   }
+  ],
+  "2026-10-30": [
+   {
+    "url": "https://www.fnnews.com/news/202610291557011125",
+    "title": "코스피, 하루 만에 6000선 내줘…1.24% 내린 5937.66 마감 [fn마감시황]"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261029001346",
+    "title": "11월 국고채 발행 당초보다 5조 축소...\"초과세수 활용과 별개\""
+   },
+   {
+    "url": "https://www.hankyung.com/article/202610293284Y",
+    "title": "[1보] 현대차 3분기 영업이익 2조6772억원…작년 동기 대비 5.5%↑"
+   },
+   {
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822322",
+    "title": "\"미 중부사령관, 트럼프에 이란 공격 옵션 보고\"…이란공격 임박했나"
+   },
+   {
+    "url": "https://www.news1.kr/world/northeast-asia/6336839",
+    "title": "美日, 공대공미사일 공동생산 합의…中 \"전후 국제질서 도전\" 반발"
+   },
+   {
+    "url": "https://www.kmib.co.kr/article/20261030500048",
+    "title": "폭우에 카파도키아 '요정 굴뚝' 붕괴… 3명 사망·5명 부상"
+   },
+   {
+    "url": "https://fnnews.com/news/202610300706343115",
+    "title": "北, 전날 미사일 '섞어 쏘기' 진행..방사포·순항미사일 등 발사"
+   },
+   {
+    "url": "https://nocutnews.co.kr/news/6599445",
+    "title": "국정원 \"김주애 후계 굳히기 단계\"…운영위는 고성 속 파행[CBS뉴스룸]"
+   },
+   {
+    "url": "https://www.news1.kr/politics/president/6336471",
+    "title": "[뉴스1 PICK] 李대통령, 이태원 참사 4주기 \"국가 부재·방임으로 억울한 희생 없도록\""
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216808",
+    "title": "앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216772",
+    "title": "삼성전자, 분기 영업익 100조 시대 열어...글로벌 테크기업 중 최초"
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261029100156",
+    "title": "카카오, '카나나' 임베딩 모델 공개…개인화 AI 에이전트 개발 활용 가능"
+   },
+   {
+    "url": "https://sports.khan.co.kr/article/202610300429003/",
+    "title": "‘공식 확인’ 맨유 캡틴 ‘선발 복귀’ 예정! 내부갈등 해결, 캐릭 감독 “그는 앞으로도 핵심 선수로서 팀을 이끌 것”"
+   },
+   {
+    "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2440154",
+    "title": "창작자들의 놀이터,‘2026 인천일러스트코리아’ 30일 송도컨벤시아 개막"
+   },
+   {
+    "url": "https://www.inven.co.kr/webzine/news/?news=322608",
+    "title": "니케·무신사 협업 팝업스토어, 11월 6일 성수서 개장"
    }
   ]
  }
