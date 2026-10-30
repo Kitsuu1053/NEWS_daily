@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-24": [
-   {
-    "url": "https://www.newspim.com/news/view/20261023001023",
-    "title": "[마감시황] 코스피, 장중 4% 급락 딛고 반등…SK하이닉스 4.42% 상승"
-   },
-   {
-    "url": "https://fnnews.com/news/202610231427325375",
-    "title": "李대통령 \"메가프로젝트·초광역 특구 인허가 애로 직접 챙길 것\""
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261023000778",
-    "title": "[2026 국감] 한은, 잠재성장률 재추정 착수…\"원화, 실효환율로는 여전히 약세\""
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6330545",
-    "title": "트럼프 \"이란 상대로 작은 '장대한 분노' 작전 할 수도\"(상보)"
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261023508305",
-    "title": "9월 일본 소비자물가 2.1%↑…\"9개월 만에 2% 웃돌아\""
-   },
-   {
-    "url": "https://www.news1.kr/world/middleeast-africa/6330528",
-    "title": "이스라엘 총선 나흘 전 서안지구서 총격전…네타냐후, 군사작전 예고(종합2보)"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/politics/2026/10/23/20261023500150",
-    "title": "국방부, 北에 군사회담 공식 제안…“MDL 위치 확인·우발충돌 방지 협의”"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/politics/2026/10/23/20261023500264",
-    "title": "野, 오세훈 무죄에 김민석·서영교·특검 책임론…“사법부 압박 대가 치러야”"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261023000857",
-    "title": "李대통령, 초안전사회 대응 회의…법무부 '가석방 없는 무기형' 도입"
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-    "title": "상장 앞둔 앤트로픽, 주요 투자자들의 지분 가치는"
-   },
-   {
-    "url": "https://ddaily.co.kr/page/view/2026102317504973083",
-    "title": "LGU+ '해킹 서버 폐기' 해명 도마…KISA “동기화돼도 침입 흔적은 별개” [2026국감]"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216603",
-    "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극"
-   },
-   {
-    "url": "https://animeanime.jp/article/2026/10/23/104138.html",
-    "title": "『공각기동대』 신작 애니메이션 제작 결정! 애니메이션 제작은 사이언스SARU가 이어서 담당"
-   },
-   {
-    "url": "https://www.etoday.co.kr/news/view/2639394",
-    "title": "'더 버스' 공정환·태항호·동방우 뭉쳤다⋯11월 11일 개봉"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1168554",
-    "title": "'푸른길' 손석구·나가야마 에이타, 신주쿠와 서울 잇는 살인…티저 속 단서 심상찮다"
-   }
-  ],
   "2026-10-25": [
    {
     "url": "https://www.hankyung.com/article/2026102308326",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.inven.co.kr/webzine/news/?news=322608",
     "title": "니케·무신사 협업 팝업스토어, 11월 6일 성수서 개장"
+   }
+  ],
+  "2026-10-31": [
+   {
+    "url": "https://view.asiae.co.kr/article/2026103016084854064",
+    "title": "코스피, 외국인 1.6조 순매도에 하락…5730선 마감"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026103009033138713",
+    "title": "9월까지 국세 95.4兆 더 걷혀...법인세 51.9兆↑"
+   },
+   {
+    "url": "https://www.dailian.co.kr/news/view/1708505/9%EC%9B%94-%EC%82%B0%EC%97%85%EC%83%9D%EC%82%B0-30-%EC%A6%9D%EA%B0%8015%EB%85%84-6%EA%B0%9C%EC%9B%94-2026",
+    "title": "9월 산업생산 3.0% 증가…15년 6개월만 최대폭"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6338481",
+    "title": "美, 우크라에 2.8조 규모 패트리엇 미사일 500기 판매 승인"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261030511913",
+    "title": "일본은행, 기준금리 1.25% 동결… “물가 2% 목표 도달” 첫 공식 인정"
+   },
+   {
+    "url": "https://www.sentv.co.kr/article/view/sentv202610310002",
+    "title": "EU·캐나다, 美 맞서 손 잡았다…'미래 동맹' 출범"
+   },
+   {
+    "url": "https://www.news1.kr/nk/politics-diplomacy/6337925",
+    "title": "北, 한미 공군연합훈련 '프리덤 플래그' 비난…\"철저히 힘으로 위협 억제\""
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261030505822",
+    "title": "[속보] 李대통령 지지율 39%…민주당 35%·국힘 30%[한국갤럽]"
+   },
+   {
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03765446645618168",
+    "title": "국힘, 820조 예산안 정조준…\"200조 포퓰리즘 자유이용권\""
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "title": "앤트로픽, IPO 이후 신용평가사로부터 높은 '정크' 등급 받을 전망, 보도"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026103017521249911",
+    "title": "\"광고는 회복했지만\"…SOOP, 영업익 1년 새 60% 감소"
+   },
+   {
+    "url": "https://www.etnews.com/20261030000009",
+    "title": "엔비디아, 네이버 지분 4.54% 확보…AI 팩토리 동맹 본격화"
+   },
+   {
+    "url": "https://www.animatetimes.com/news/details.php?id=1793323425",
+    "title": "『상처와 붕대』 제3탄 테마 비주얼&티저 PV '동료' 공개! 추가 캐스트에 이구치 유카, 히카사 요코 결정"
+   },
+   {
+    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264261",
+    "title": "'극장판 명탐정 코난: 30호 살인 사건', CGV 예매 오픈…11월 5일 단독 개봉"
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1170483",
+    "title": "시청률 27.6% 넘어설까...오늘(30일) 드디어 첫방송 출격하는 '한국 드라마'"
    }
   ]
  }
