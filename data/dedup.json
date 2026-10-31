@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-25": [
-   {
-    "url": "https://www.hankyung.com/article/2026102308326",
-    "title": "코스피, 바닥 다지기 나설까…美 FOMC·삼전닉스 실적 주목 [주간전망]"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261023001217",
-    "title": "이번주 국내 주요 금융일정(10.26~10.30)"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610250816106368",
-    "title": "韓 경상수지 흑자, 독일·일본 합계 첫 추월…반도체 수출이 견인"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261024000041",
-    "title": "美, 중동 4개 대사관 인력 감축…\"이란, 미국인 공격 위협\""
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026102214282180991",
-    "title": "일본도 부동산 투기와의 전쟁…'단기 매매 52% 양도세 중과' 검토"
-   },
-   {
-    "url": "https://www.news1.kr/world/middleeast-africa/6329573",
-    "title": "D-2 이스라엘 총선…'합산 19년' 네타냐후 집권연장 흔들"
-   },
-   {
-    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6330263",
-    "title": "수백만원 자폭드론 막으려 수천만원 발사?…K2전차도 '3중 방어망' 필요"
-   },
-   {
-    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261024010008251",
-    "title": "국힘 \"與, 신천지 조사 결과 공개해야…전형적 내로남불\""
-   },
-   {
-    "url": "https://www.kmib.co.kr/article/20261024500038",
-    "title": "‘혁명가 박정희’ 국회포럼⋯ 與 “국힘, 독재미화 판깔아”"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216613",
-    "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시"
-   },
-   {
-    "url": "https://fnnews.com/news/202610250001031334",
-    "title": "\"HBM 잘 팔려도 안심 못 한다\"…삼성전자가 TSMC에 내줄 수 없는 핵심 시장"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20261019143733",
-    "title": "센드버드·업스테이지, 국산 AI로 기업용 에이전트 상용화 추진"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1168819",
-    "title": "루마섬, 스팀 80만 장 흥행 뒤 12월 2일 PS5·Xbox 출시…크로스플레이 첫 도입"
-   },
-   {
-    "url": "https://www.gamer.ne.jp/news/202610190023/",
-    "title": "'블루아카' 공식 생방송 '블루아카 라이브! 가을밤 어떻게 보내고 계신가요? SP' 10월 25일 19시 방송! 모모세 사나, 사쿠라 카오루, 이누이 카네 등 출연"
-   },
-   {
-    "url": "https://www.gamemeca.com/view.php?gid=1782298",
-    "title": "1만 2,000명 초청, 블루아카 5주년 페스티벌 11월 개최"
-   }
-  ],
   "2026-10-26": [
    {
     "url": "https://www.mt.co.kr/world/2026/10/26/2026102418384484983",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.wikitree.co.kr/articles/1170483",
     "title": "시청률 27.6% 넘어설까...오늘(30일) 드디어 첫방송 출격하는 '한국 드라마'"
+   }
+  ],
+  "2026-11-01": [
+   {
+    "url": "https://www.etoday.co.kr/news/view/2642497",
+    "title": "[주간증시전망] 코스피 5700~6500선 전망⋯美선거·저PBR 명단에 '주목'"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261030001218",
+    "title": "이번주 국내 주요 금융일정(11.2~11.6)"
+   },
+   {
+    "url": "https://news1.kr/economy/trend/6338452",
+    "title": "중기·유통업에도 번진 반도체 온기…가계 지갑까진 아직 멀었다"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6338784",
+    "title": "美국무 \"트럼프, 김정은과 회담 준비 돼…일정 잡힌 것 없어\""
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026103122145457000c8c1c064d_1",
+    "title": "\"AI로 뚫는 해커, AI로 막는다\"… 日, 앤스로픽·오픈AI에 '첨단 보안 모델' 확대 요청"
+   },
+   {
+    "url": "https://www.spnews.co.kr/news/articleView.html?idxno=112141",
+    "title": "시진핑, 독일·스위스와 연쇄 회담…\"보호무역주의·무역전쟁 반대\""
+   },
+   {
+    "url": "https://www.news1.kr/local/daejeon-chungnam/6338672",
+    "title": "'사관학교 통합 반대'…3군 총동창회 등 대전서 궐기대회"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202610311532001/",
+    "title": "민주당 “장동혁 부정선거 선동, 정치생명 연장용” 국민의힘 “올공 투표지 전체 증거 보전해야”"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6338589",
+    "title": "정쟁 잠시 멈춘 여야 대표…\"서울 세계청년대회 최선 다해 돕겠다\""
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261031002306",
+    "title": "IPO 앞둔 앤트로픽, 기업 공략 고삐…성과·비용 관리까지 지원"
+   },
+   {
+    "url": "https://www.boannews.com/news/articleView.html?idxno=146907",
+    "title": "340만명 사용 복지포인트 쇼핑몰 ‘현대이지웰’, 해킹으로 개인정보 유출"
+   },
+   {
+    "url": "https://ddaily.co.kr/page/view/2026103105511189730",
+    "title": "바이낸스 63억달러 해킹, 단일 도난 사상 최대…북한 소행 추정 분석 나와"
+   },
+   {
+    "url": "https://automaton-media.com/articles/newsjp/20261030-476809/",
+    "title": "친구를 개조해 전장에 내보내는 게임 『힘내라 파트너(がんばれ相棒)』 Steam 공개… 비정함으로 화제 된 작품, 드디어 내년 정식판으로"
+   },
+   {
+    "url": "https://dengekionline.com/article/202610/92084",
+    "title": "『블루아카』 운영 변경으로 무료 100연차·주년 한정 ★3 셀렉트 티켓 등 특전 배포 결정. 향후 일정·FAQ도 공개"
+   },
+   {
+    "url": "https://hobby.watch.impress.co.jp/docs/news/2150975.html",
+    "title": "『블루아카』에서 상냥하게 미소 짓는 '노아(파자마)' 피규어, 10월 29일부터 예약 시작"
    }
   ]
  }
