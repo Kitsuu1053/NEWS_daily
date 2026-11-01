@@ -1,0 +1,357 @@
+{
+ "date": "2026-11-02",
+ "weather": {
+  "min": 9,
+  "max": 15,
+  "am_text": "구름많다가 차차 맑음",
+  "am_icon": "sun_cloud",
+  "pm_text": "맑음",
+  "pm_icon": "sun",
+  "humidity": null,
+  "rain": "없음",
+  "pm10": "보통",
+  "pm25": "보통",
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,730.74",
+   "pct": -3.48,
+   "closes": [
+    5768.01,
+    5552.74,
+    5735.66,
+    5533.77,
+    5550.3,
+    5469.47,
+    5638.34,
+    6012.44,
+    5937.66,
+    5730.74
+   ],
+   "dates": [
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30"
+   ],
+   "ext": {
+    "low": "5,599.42"
+   }
+  },
+  {
+   "name": "나스닥(30일)",
+   "value": "25,437.00",
+   "pct": -2.86,
+   "closes": [
+    26430.89,
+    26424.82,
+    26702.86,
+    26008.86,
+    25955.34,
+    26169.38,
+    26477.81,
+    26549.85,
+    26184.72,
+    25437.0
+   ],
+   "dates": [
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30"
+   ],
+   "ext": {}
+  },
+  {
+   "name": "원/달러",
+   "value": "1,334.3",
+   "pct": -0.19,
+   "closes": [
+    1330.3,
+    1328.1,
+    1325.2,
+    1324.2,
+    1324.6,
+    1323.1,
+    1323.7,
+    1337.7,
+    1336.8,
+    1334.3
+   ],
+   "dates": [
+    "10.19",
+    "10.20",
+    "10.21",
+    "10.22",
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30"
+   ],
+   "ext": {
+    "low": "1,333.6"
+   }
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "저PBR",
+     "source": "데일리안",
+     "time": "11.01 12:00",
+     "title": "거래소, 저PBR 기업 명단 공개…151곳 불명예 전당",
+     "url": "https://www.dailian.co.kr/news/view/1709000/%EA%B1%B0%EB%9E%98%EC%86%8C-%EC%A0%80PBR-%EA%B8%B0%EC%97%85-%EB%AA%85%EB%8B%A8-%EA%B3%B5%EA%B0%9C151-2026",
+     "summary": "한국거래소가 1일 PBR이 장기간 낮은 상장사 151곳(코스피 96곳·코스닥 55곳)을 처음 공표했다. 요건에 해당한 185곳 중 기업가치 제고계획을 공시한 34곳은 빠졌다. 명단은 내년 5월 4일까지 KIND에 게시되고 증권사 MTS·HTS에도 표시된다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnimage.dailian.co.kr/news/202610/news_1793370848951_1709000_m_1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "예산안",
+     "source": "이데일리",
+     "time": "11.01 06:00",
+     "title": "821조 예산안 심사 막 오른다…10월 물가·피치 연례협의 주목[재경부·기획처 주간예보]",
+     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01092246645641456",
+     "summary": "이번 주 국회에서 총지출 약 821조원 규모의 내년도 예산안 심사가 시작된다. 2일 시정연설, 4~5일 예결위 종합정책질의가 이어진다. 3일에는 10월 소비자물가가 발표되고, 3~5일 피치 연례협의단이 방한한다. 미래대응기금이 여야 쟁점으로 꼽힌다.",
+     "age": "1일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    },
+    {
+     "fixed": false,
+     "tag1": "수출",
+     "tag2": "반도체",
+     "source": "뉴스핌",
+     "time": "11.01 09:21",
+     "title": "10월 수출 1153억달러 '역대 2위'…반도체 564억달러 견인",
+     "url": "https://www.newspim.com/news/view/20261031000112",
+     "summary": "10월 수출이 1153억달러로 전년 대비 93.7% 늘어 역대 2위를 기록했다. 반도체가 564억달러(259.4% 증가)로 증가를 이끌었고 무역수지는 425억달러 흑자였다. 1~10월 누적 수출은 9300억달러로 연간 1조달러 돌파가 가시권에 들어왔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/01/2610010924334891_t1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "중간선거",
+     "source": "한국일보",
+     "time": "11.02 04:30",
+     "title": "트럼프 '텃밭'까지 흔들린다… 美의회 '양원 교체' 현실화하나",
+     "url": "https://www.hankookilbo.com/news/article/A2026110112110001055",
+     "summary": "3일 미국 중간선거를 앞두고 WSJ 조사에서 민주당 후보 지지가 공화당보다 7%p 높았다. 쿡 폴리티컬 리포트는 민주당이 하원 227~240석을 얻을 것으로 내다봤고, 상원은 경합주 7곳이 오차범위 안이다. 트럼프 국정 지지율은 40%다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://newsimg.hankookilbo.com/2026/11/01/b228899e-51c1-43f7-8b3a-7dbb191fd243.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "방재청",
+     "source": "아시아경제",
+     "time": "11.01 15:22",
+     "title": "\"정말 전쟁 나는 거냐\" 술렁…'3일치 식량' 견본까지 준비한 일본",
+     "url": "https://view.asiae.co.kr/article/2026110115205597487",
+     "summary": "일본 정부가 2일 재난 대응을 총괄할 방재청을 출범시킨다. 국민에게 최소 사흘~일주일분 물과 식량 비축을 요청할 계획이 알려지며 전쟁설이 퍼졌다. 방재상은 10월 30일 회견에서 전쟁이나 재난을 예견한 정보는 없다고 해명했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026110116155382004_1793517353.png"
+    },
+    {
+     "fixed": true,
+     "tag1": "우크라이나",
+     "tag2": "러시아",
+     "source": "SBS",
+     "time": "11.02 00:07",
+     "title": "국지 휴전 연장 없다…러·우크라, 서로 에너지시설 난타전",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825363",
+     "summary": "러시아와 우크라이나가 지난달 23일 합의한 올레시키 국지 휴전이 1일 연장 없이 끝났다. 러시아는 드니프로 등 4개 지역의 에너지시설을, 우크라이나는 러시아 정유공장 등을 타격했다. 미국이 중재하는 3자 종전협상은 이달 아부다비에서 열릴 예정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.sbs.co.kr/newimg/news/20261102/202236857_1280.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "북한",
+     "source": "뉴스핌",
+     "time": "11.01 10:00",
+     "title": "북한, 전술탄도미사일 '접속탄두' 시험…\"약 13헥타르 초토화\"",
+     "url": "https://www.newspim.com/news/view/20261101000026",
+     "summary": "북한이 10월 31일 전술탄도미사일용 집속탄두의 위력을 시험했다고 조선중앙통신이 보도했다. 북한은 탄두 하나로 약 12∼13㏊를 초토화할 수 있다고 주장하며 연내 부대 배치 계획을 밝혔다. 합참은 평북 정주 일대에서 서해상으로 발사된 미사일을 포착했다고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/10/30/2610300814440170_287_tc.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "민주당",
+     "source": "세계일보",
+     "time": "11.01 18:06",
+     "title": "‘신천지 보고’ 금주 의총… 민주 내홍 분수령",
+     "url": "https://www.segye.com/newsView/20261101509123",
+     "summary": "민주당이 이번 주 3~4일께 열릴 의원총회에서 당원정비 TF의 신천지 교인 집단 입당 의혹 조사 결과를 보고할 계획이다. 수석대변인은 비공개로 보고한다는 방침을 밝혔다. 일부 최고위원은 합의한 적이 없다며 결과와 근거의 전면 공개를 요구했다. 가입 규모와 시기는 공개되지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "외교",
+     "source": "서울경제",
+     "time": "11.01 18:13",
+     "title": "李대통령, 튀르키예·동티모르 정상 연쇄 회담…원전·방산부터 아세안 외교까지",
+     "url": "https://www.sedaily.com/article/20108815",
+     "summary": "튀르키예 대통령이 2~4일 국빈 방한해 3일 이 대통령과 정상회담을 열고 원전·방산 협력을 논의한다. 튀르키예 정상의 방한은 8년 만이다. 동티모르 대통령은 5~7일 방한하며 6일 회담을 연다. 2002년 수교 후 첫 양자 공식 방한이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://wimg.sedaily.com/news/cms/2026/11/01/news-p.v1.20261101.54ebcb15a7de4f949fbd958baf6466b9_Z1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "11.01 11:59",
+     "title": "앤트로픽, 클로드로 기존 게임 복제 금지…정상 작업까지 차단 논란",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216862",
+     "summary": "앤트로픽이 클로드 코드에서 기존 비디오 게임을 복제하는 작업을 제한하는 규칙을 프롬프트에 추가했다. 독창적인 게임 개발은 계속 허용된다. 그러나 게임 개발, 보안 점검, 리버스 엔지니어링 같은 정상 작업까지 거부됐다는 개발자 보고가 이어졌다. 회사 측은 규칙을 개선하겠다고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/216862_221029_5414.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "보안뉴스",
+     "time": "10.31 12:02",
+     "title": "머니투데이, 9월 해킹으로 개인정보 1367건 유출 확인",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=146908",
+     "summary": "머니투데이는 9월 25일 외부 해킹으로 개인정보 1367건이 유출됐다고 공지했다. 유출 항목은 뉴스레터 구독자의 이름, 연락처, 회사명, 직책 등이다. 계정·결제 정보는 포함되지 않았다고 밝혔다. 회사는 KISA에 신고하고 취약점 보완과 모니터링을 진행하고 있다.",
+     "age": "2일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.boannews.com/news/photo/202610/146908_129574_136.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "오픈AI",
+     "source": "파이낸셜뉴스",
+     "time": "11.01 18:35",
+     "title": "삼성 '챗GPT' 품고 전사 AX 속도낸다",
+     "url": "https://www.fnnews.com/news/202611011835547475",
+     "summary": "오픈AI CEO가 10월 31일 삼성인력개발원에서 계열사 사장단 50여 명과 간담회를 열었다. 주제는 AI가 바꿀 향후 10년의 경영 전략이었고, 기업용 챗GPT 도입 방안도 논의된 것으로 알려졌다. 삼성은 사장단의 AI 활용 역량을 전 계열사로 확산할 계획이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/01/202611011835535022_e.jpg"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "제네시스",
+     "tag2": "GV90",
+     "source": "한국경제",
+     "time": "10.29 08:30",
+     "title": "\"세계최초\" 힌지 개발에 6년…14t 힘 버티는 제네시스 GV90 비결 [현장+]",
+     "url": "https://www.hankyung.com/article/202610280411g",
+     "summary": "제네시스가 27일 영종도 GV90 테크데이에서 B필러 없는 코치도어용 듀얼모션힌지를 소개했다. 개발부터 양산까지 6년이 걸렸고 약 70kg 문을 안정적으로 움직인다. 자체 시험에서 지붕 하중 14톤포스 이상을 견뎠고, 세계 최초 루프 에어백도 달았다.",
+     "age": "4일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.hankyung.com/photo/202610/01.46224499.1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "자동차",
+     "tag2": "PHEV",
+     "source": "뉴스1",
+     "time": "11.01 08:30",
+     "title": "거세지는 테슬라·BYD 공세…중견 車 브랜드, 4천만원대 PHEV 반격",
+     "url": "https://www.news1.kr/industry/auto-industry/6338441",
+     "summary": "테슬라와 BYD의 가격 공세에 밀린 중견 완성차들이 PHEV로 반격에 나선다. 한국GM은 11월 뷰익 엘렉트라 E7을 4300만~5400만원대로 내놓고, KGM은 체리와 함께 만든 SE10을 내년 1월 4000만원대에 출시할 계획이다.",
+     "age": "1일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/9/30/8134009/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "공모전",
+     "tag2": "영상",
+     "source": "링커리어",
+     "time": "미정",
+     "title": "2026 제4회 강원랜드와 함께하는 스마트폰 환경영상 공모전",
+     "url": "https://linkareer.com/activity/358116",
+     "summary": "강원도민일보가 운영하는 스마트폰 환경영상 공모전이 11월 24일까지 작품을 받는다. 환경에 관심 있는 국민이면 누구나 낼 수 있다. 총상금은 800만원이며 기후에너지환경부장관상 200만원, 환경상 20명 각 20만원 등을 준다.",
+     "age": null,
+     "orig": null,
+     "deadline": "11.24",
+     "thumb": "https://api.linkareer.com/attachments/966174"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "45주차 · 33회차 브리핑"
+}
