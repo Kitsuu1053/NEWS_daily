@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-27": [
-   {
-    "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/26/20261026500215",
-    "title": "코스피, 외국인 6955억 순매도에 1.46% 하락… 5469선 마감"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202610261401248928",
-    "title": "내년 예산안에 88개 과제·44.2조원 효율화 방안 반영"
-   },
-   {
-    "url": "https://www.etoday.co.kr/news/view/2640332",
-    "title": "3분기 GDP 1.0% '깜짝 성장'⋯반도체 호조에도 민간소비는 뒷걸음"
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6332591",
-    "title": "트럼프 \"부정선거 제보자에 100만 달러 포상금\""
-   },
-   {
-    "url": "https://www.dailysecu.com/news/articleView.html?idxno=209083",
-    "title": "일본 사이버공격 급증에 정부 긴급대책 착수…기업들 고객 피해보상 확대"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202610262200005/",
-    "title": "룰라, 브라질 첫 4선 성공…대선 결선 역전승"
-   },
-   {
-    "url": "https://newspim.com/news/view/20261026000463",
-    "title": "한미 공군 16개 기종 군산 집결… 전작권 전환 대비 '한국 주도' 공중훈련"
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026102614570004791",
-    "title": "여야 지지율 '역전' 뒤에는 중도·수도권·청년 있었다... ETF·부동산 공세 통했나"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261026000865",
-    "title": "李대통령, 우원식 전 국회의장과 90분 오찬…'통합' 중요성 강조"
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "title": "앤트로픽, 상장 공식 신청"
-   },
-   {
-    "url": "https://www.dailian.co.kr/news/view/1706260/%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80-%E2%80%98%ED%95%B4%ED%82%B9-%EC%82%AC%EA%B3%A0%E2%80%99-%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8-2026",
-    "title": "과기정통부, '해킹 사고' 더존비즈온 민관합동조사단 긴급 투입"
-   },
-   {
-    "url": "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/",
-    "title": "오픈AI, 새 GPT-6.1 테라 모델로 챗GPT·코덱스 업그레이드"
-   },
-   {
-    "url": "https://www.mydaily.co.kr/page/view/2026102621312937482",
-    "title": "[속보] 맨체스터 유나이티드 '충격' 소식! 캐릭 감독 '경질' 임박...'긴급 회의' 개최 예정, \"대응 방안 논의→후임 후보 검토 중\""
-   },
-   {
-    "url": "https://fnnews.com/news/202610270532338216",
-    "title": "몸의 기억부터 화면 없는 영화까지…아트선재센터 4개 전시 동시 개막 [fn 아트스냅]"
-   },
-   {
-    "url": "https://www.etnews.com/20261021000009",
-    "title": "아일릿의 특별 선물…'BREAK EVEN' 팝업 스토어"
-   }
-  ],
   "2026-10-28": [
    {
     "url": "https://www.newspim.com/news/view/20261027001221",
@@ -433,6 +371,68 @@
    {
     "url": "https://linkareer.com/activity/358116",
     "title": "2026 제4회 강원랜드와 함께하는 스마트폰 환경영상 공모전"
+   }
+  ],
+  "2026-11-03": [
+   {
+    "url": "https://www.fnnews.com/news/202611021536225140",
+    "title": "외국인 팔아도 기관 1.2조 '사자'…코스피 2.24% 상승 마감 [마감시황]"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611021657409341",
+    "title": "현대차 남양연구소 찾은 이형일 부총리…업계 \"전기차도 생산세액공제\" 한목소리"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261102515970",
+    "title": "은행 가계대출 지난 10월 2.7조 증가세 전환"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611030520094260",
+    "title": "트럼프, 마지막 유세서 민주당 맹비난…5000달러 약속"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026110215075061119",
+    "title": "다카이치 日 총리 호감도 15%P 하락…정치자금·고물가 대응에 불만"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261102001641",
+    "title": "이란 \"美와 종전 협상 계속\"…합의 돌파구 없이 군사 충돌 우려 여전"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261102001094",
+    "title": "국방부 \"공군 3훈비 음주 간담회 엄중\"… 장관, 감사 지시"
+   },
+   {
+    "url": "https://fnnews.com/news/202611021428393866",
+    "title": "李대통령, 821조 예산안 시정연설…\"소수 아닌 모두의 성장 대전환\""
+   },
+   {
+    "url": "https://khan.co.kr/article/202611021736001",
+    "title": "“고장난 시계도 하루 두번 맞는다더니…” 보수 야권서 이 대통령 ‘다문화 가정’ 옹호 발언 이어진 이유"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216891",
+    "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261102001546",
+    "title": "하이브, 사내 시스템 해킹으로 개인정보 유출 \"전·현직 임직원·협력사 관계자 포함\""
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216888",
+    "title": "구글, '제미나이 4 카본' 공개 사흘 만에 개선판 포착…3D 성능 호평"
+   },
+   {
+    "url": "https://www.mydaily.co.kr/page/view/2026110113443557170",
+    "title": "맨체스터 유나이티드 캐릭 당장 경질 없다! A매치 휴식기까지 지켜본다…\"현 체제 유지하고 평가하기로 결정\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611030404069587",
+    "title": "독립출판·아트북 255팀 한자리에…북서울미술관서 6일 개막"
+   },
+   {
+    "url": "https://en.fnnews.com/news/202611021506299332",
+    "title": "김환기 미공개 점화부터 0원 판화까지…서울옥션 '옥션쇼' 11일 개막"
    }
   ]
  }
