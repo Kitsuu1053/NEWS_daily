@@ -1,0 +1,360 @@
+{
+ "date": "2026-11-06",
+ "weather": {
+  "min": 3,
+  "max": 9,
+  "am_text": "새벽 한때 빗방울 가능, 아침부터 맑아짐",
+  "am_icon": "sun_cloud",
+  "pm_text": "맑음, 강한 바람",
+  "pm_icon": "sun",
+  "humidity": null,
+  "rain": "없음",
+  "pm10": null,
+  "pm25": null,
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,383.80",
+   "pct": -5.28,
+   "closes": [
+    5550.3,
+    5469.47,
+    5638.34,
+    6012.44,
+    5937.66,
+    5730.74,
+    5859.08,
+    5648.79,
+    5683.8,
+    5383.8
+   ],
+   "dates": [
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05"
+   ],
+   "ext": {
+    "low": "5,336.88",
+    "flow": {
+     "외국인": -33928,
+     "기관": 8457,
+     "개인": 22722
+    }
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "24,314.99",
+   "pct": -5.52,
+   "closes": [
+    25955.34,
+    26169.38,
+    26477.81,
+    26549.85,
+    26184.72,
+    25437.0,
+    25164.32,
+    25372.01,
+    25736.51,
+    24314.99
+   ],
+   "dates": [
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05"
+   ],
+   "ext": null
+  },
+  {
+   "name": "원/달러",
+   "value": "1,342.1",
+   "pct": 0.04,
+   "closes": [
+    1324.6,
+    1323.1,
+    1323.7,
+    1337.7,
+    1336.8,
+    1334.3,
+    1343.8,
+    1341.0,
+    1341.5,
+    1342.1
+   ],
+   "dates": [
+    "10.23",
+    "10.26",
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05"
+   ],
+   "ext": null
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "나스닥",
+     "source": "파이낸셜뉴스",
+     "time": "11.06 06:31",
+     "title": "[뉴욕증시] '검은 목요일' AI 붕괴에 일제히 폭락…나스닥, 조정장 진입",
+     "url": "https://www.fnnews.com/news/202611060625255827",
+     "summary": "뉴욕증시가 5일(현지시간) 일제히 급락했다. 나스닥은 5.52% 내린 24,315.00으로 마감하며 조정장에 들어섰고 S&P500도 4.36% 떨어졌다. 중간선거 뒤 민주당 의회가 데이터센터 규제를 강화할 수 있다는 우려가 퍼지며 마이크론·AMD가 17%대, 엔비디아가 9%대 하락했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/10/31/202610310144049961_e.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "세제",
+     "source": "파이낸셜뉴스",
+     "time": "11.05 18:34",
+     "title": "가상자산 과세 2029년부터… 3년간 손실이월공제 추진",
+     "url": "https://www.fnnews.com/news/202611051834343489",
+     "summary": "정부가 내년 시행 예정이던 가상자산 과세를 2년 미뤄 2029년부터 시행하기로 했다. 네 번째 유예다. 부총리 겸 재정경제부 장관은 손익을 3년 단위로 통산하는 손실이월공제를 함께 추진하겠다고 밝혔다. 미국과의 과세정보 교환 시작 시점에 맞춘 조치로, 정기국회 처리를 목표로 한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/05/202611051834332975_e.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "경제",
+     "tag2": "경상수지",
+     "source": "뉴스핌",
+     "time": "11.05 10:52",
+     "title": "[종합] 9월 경상흑자 첫 600억달러 돌파…한은 \"10월도 역대 2위 예상\"",
+     "url": "https://www.newspim.com/news/view/20261105000460",
+     "summary": "9월 경상수지가 614억6000만달러 흑자로 처음 600억달러를 넘었다. 반도체 수출 호조로 상품수지가 627억5000만달러로 역대 최대를 기록했다. 1~9월 누적 흑자는 3406억6000만달러로 지난해 같은 기간의 4배를 웃돈다. 한국은행은 10월에도 역대 두 번째 규모의 흑자를 예상했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/11/05/2611051040230100_947_tc.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "중간선거",
+     "source": "한국아이닷컴",
+     "time": "11.05 11:34",
+     "title": "美 중간선거, 민주당 압승…트럼프 \"나를 탄핵하면 파멸\"",
+     "url": "https://www.hankooki.com/news/articleView.html?idxno=347771",
+     "summary": "미 중간선거 개표에서 민주당이 상원 최소 54석, 하원 228석을 확보했다. 최종 의석은 개표 중이다. 트럼프 대통령은 결과를 수용하고 민주당과 협력하겠다고 밝혔다. 다만 패배 책임은 인정하지 않았고, 자신을 탄핵하면 민주당이 파멸할 것이라고 경고했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.hankooki.com/news/thumbnail/202611/347771_494366_1793846055_v150.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "중일관계",
+     "source": "세계일보",
+     "time": "11.05 15:35",
+     "title": "“中, 다카이치 ‘대만 발언’ 실언으로 안 봐”…관계 개선 실마리는 어디에",
+     "url": "https://www.segye.com/newsView/20261105513746",
+     "summary": "아사히신문에 따르면 중국 외교부장은 일본 총리의 대만 유사시 개입 시사 발언을 실언이 아닌 역사관의 표출로 본다고 일본 측에 말했다. 일본은 철회 대신 1972년 공동성명 등 4개 문서를 재확인하는 안을 냈다. 중국의 관광 자제령과 희토류 규제로 양국 관계는 1년 가까이 굳어 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.segye.com/content/image/2026/11/05/20261105513920.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "중국",
+     "tag2": "통상",
+     "source": "SBS Biz",
+     "time": "11.05 14:07",
+     "title": "中·캐나다, '관세면제 2년 연장' 합의…美중간선거 다음날 발표",
+     "url": "https://biz.sbs.co.kr/article/20000344485",
+     "summary": "중국과 캐나다가 일부 농수산물과 철강·알루미늄 제품에 대한 상호 관세 면제를 2028년 말까지 2년 연장하기로 했다. 지난 1월 정상회담에서 합의한 무역 갈등 완화 조치를 이어가는 것이다. 발표는 미국 중간선거 다음 날인 5일에 나왔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.biz.sbs.co.kr/upload/2026/05/31/34J1780186254385-850.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "북한",
+     "source": "세계일보",
+     "time": "11.05 14:17",
+     "title": "北 \"신형 대공미사일 시험…장거리순항미사일 비행장 타격훈련\"",
+     "url": "https://www.segye.com/newsView/20261105508769",
+     "summary": "북한이 4일 동해상에서 신형 대공미사일을 시험발사하고, 장거리 전략순항미사일로 가상 비행장 표적을 타격하는 훈련도 했다고 5일 밝혔다. 합참은 선덕 일대에서 쏜 여러 발이 300km 미만을 비행했다고 판단했다. 최근 일주일 새 네 번째 무력시위다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.segye.com/content/image/2026/11/05/20261105511263.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "국회",
+     "tag2": "결의안",
+     "source": "한국일보",
+     "time": "11.05 15:45",
+     "title": "'전두환 내란 부정' 김태규 제명 촉구 결의안, 與 주도 국회 본회의 통과",
+     "url": "https://www.hankookilbo.com/news/article/A2026110514010003486",
+     "summary": "국회가 5일 본회의에서 비상계엄과 전두환 전 대통령의 행위가 내란이 아니라고 말한 국민의힘 김태규 의원의 제명 촉구 결의안을 민주당 주도로 가결했다. 167표 중 찬성은 166표였다. 결의안에는 구속력이 없고, 실제 제명에는 윤리특위 의결과 재적 3분의 2 찬성이 필요하다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://newsimg.hankookilbo.com/2026/11/05/efe33e74-2b56-419d-8877-a9253c771a16.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정치",
+     "tag2": "내란재판",
+     "source": "헤럴드경제",
+     "time": "11.05 19:41",
+     "title": "‘내란 우두머리’ 2심 내년 1월26일 선고…尹 “대통령 헌법상 권한행사, 내란죄 될 수 없어”",
+     "url": "https://biz.heraldcorp.com/article/10927682",
+     "summary": "서울고법이 5일 윤석열 전 대통령의 '내란 우두머리' 항소심 결심공판을 열고 선고일을 내년 1월 26일로 정했다. 특검은 1심과 같이 사형을 구형했다. 윤 전 대통령은 1시간 넘는 최후진술에서 대통령의 헌법상 권한을 행사한 것이라며 내란죄가 아니라고 주장했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/11/05/news-p.v1.20261011.abe4c2385c7f4c3493c6846281f1b5f6_P1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "11.05 18:18",
+     "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
+     "summary": "앤트로픽이 2일(현지시간) 모델 가중치를 드러내지 않고도 응답이 지정된 모델에서 계산됐는지 확인할 수 있는 오픈소스 검증 시스템 '플래시프루브'를 공개했다. 영지식 증명 방식이며 검증에는 약 17초가 걸린다. 프로토콜 명세는 클로드가 작성했고, 아직 상용 서비스에 쓸 단계는 아니다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/217043_221231_1530.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "보안",
+     "tag2": "규제",
+     "source": "디지털데일리",
+     "time": "11.06 06:00",
+     "title": "망분리 규제 해제 '시동'…기술적 난제·프레임워크 부재는 과제",
+     "url": "https://www.ddaily.co.kr/page/view/2026110517462321259",
+     "summary": "금융당국이 AI 해킹에 대응하기 위해 금융권 망분리 규제를 전면 해제하고 제로트러스트 등 새 보안 체계를 도입하는 TF를 가동할 계획이다. 9월 30일부터 11월 3일까지 37개사에서 침해 신고 40건이 접수됐다. 보안업계는 세부 기준과 프레임워크가 아직 부족하다고 지적한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/10/28/2026102816092340699_l.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "오픈AI",
+     "source": "AI타임스",
+     "time": "11.06 06:05",
+     "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217074",
+     "summary": "오픈AI가 5일(현지시간) 사이버보안 특화 모델 'GPT-6 사이버'를 승인된 보안 전문가와 기업에 공개했다. 익스플로잇 벤치마크에서 이전 모델보다 51% 높은 성공률을 냈고, 자체 안전 평가에서는 최고 단계인 '심각' 등급을 받았다. 접근 대상은 몇 주에 걸쳐 넓힐 계획이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/217074_221267_639.png"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "해외축구",
+     "tag2": "맨유",
+     "source": "포포투",
+     "time": "11.04 07:01",
+     "title": "[ucl.review] 'OT 대역전극 0:2→3:2' 캐릭의 맨유, 로마에 3-2 극적인 역전승...'2골' 쿠냐 퇴장",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100276",
+     "summary": "맨유가 4일 새벽 올드 트래포드에서 열린 UCL 리그 페이즈 4차전에서 AS로마에 전반 0-2로 끌려가다 브루노의 페널티킥과 쿠냐의 연속골로 3-2 역전승을 거뒀다. 2골을 넣은 쿠냐는 추가 시간에 경고 누적으로 퇴장당했다.",
+     "age": "2일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.fourfourtwo.co.kr/news/thumbnail/202611/100276_279434_110_v150.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "전시",
+     "tag2": "개막 예정",
+     "source": "뉴스1",
+     "time": "11.05 06:29",
+     "title": "신체와 사물 사이에 작동하는 힘…일민미술관 '마나'전",
+     "url": "https://www.news1.kr/life-culture/performance-exhibition/6343391",
+     "summary": "일민미술관이 이달 25일부터 내년 1월 24일까지 기획전 '마나'를 연다. 이형구·정금형·구동희·곽지수·머피염·고요손 등 작가 6명이 참여해, 인간의 신체와 사물 사이에서 작동하는 여러 힘을 작품으로 풀어낸다.",
+     "age": "1일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/4/8197426/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "행사",
+     "tag2": "개막 예정",
+     "source": "디지털데일리",
+     "time": "11.05 16:32",
+     "title": "'AGF 2026' 참가사 106개사 확정…전년比 49% 증가 '역대 최대'",
+     "url": "https://www.ddaily.co.kr/page/view/2026110516161831963",
+     "summary": "애니메이션·게임 축제 AGF 2026이 12월 4~6일 고양 킨텍스 1홀에서 열리며, 역대 최대인 106개사가 참가를 확정했다. 지난해 71개사보다 약 49% 늘었고 게임 분야가 34%로 가장 많다. 대기 공간이던 5A홀도 전시장으로 쓴다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/06/19/2026061916185742563_l.jpg"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "45주차 · 36회차 브리핑"
+}
