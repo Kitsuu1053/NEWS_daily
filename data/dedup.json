@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-10-31": [
-   {
-    "url": "https://view.asiae.co.kr/article/2026103016084854064",
-    "title": "코스피, 외국인 1.6조 순매도에 하락…5730선 마감"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026103009033138713",
-    "title": "9월까지 국세 95.4兆 더 걷혀...법인세 51.9兆↑"
-   },
-   {
-    "url": "https://www.dailian.co.kr/news/view/1708505/9%EC%9B%94-%EC%82%B0%EC%97%85%EC%83%9D%EC%82%B0-30-%EC%A6%9D%EA%B0%8015%EB%85%84-6%EA%B0%9C%EC%9B%94-2026",
-    "title": "9월 산업생산 3.0% 증가…15년 6개월만 최대폭"
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6338481",
-    "title": "美, 우크라에 2.8조 규모 패트리엇 미사일 500기 판매 승인"
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261030511913",
-    "title": "일본은행, 기준금리 1.25% 동결… “물가 2% 목표 도달” 첫 공식 인정"
-   },
-   {
-    "url": "https://www.sentv.co.kr/article/view/sentv202610310002",
-    "title": "EU·캐나다, 美 맞서 손 잡았다…'미래 동맹' 출범"
-   },
-   {
-    "url": "https://www.news1.kr/nk/politics-diplomacy/6337925",
-    "title": "北, 한미 공군연합훈련 '프리덤 플래그' 비난…\"철저히 힘으로 위협 억제\""
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261030505822",
-    "title": "[속보] 李대통령 지지율 39%…민주당 35%·국힘 30%[한국갤럽]"
-   },
-   {
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03765446645618168",
-    "title": "국힘, 820조 예산안 정조준…\"200조 포퓰리즘 자유이용권\""
-   },
-   {
-    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "title": "앤트로픽, IPO 이후 신용평가사로부터 높은 '정크' 등급 받을 전망, 보도"
-   },
-   {
-    "url": "https://www.ddaily.co.kr/page/view/2026103017521249911",
-    "title": "\"광고는 회복했지만\"…SOOP, 영업익 1년 새 60% 감소"
-   },
-   {
-    "url": "https://www.etnews.com/20261030000009",
-    "title": "엔비디아, 네이버 지분 4.54% 확보…AI 팩토리 동맹 본격화"
-   },
-   {
-    "url": "https://www.animatetimes.com/news/details.php?id=1793323425",
-    "title": "『상처와 붕대』 제3탄 테마 비주얼&티저 PV '동료' 공개! 추가 캐스트에 이구치 유카, 히카사 요코 결정"
-   },
-   {
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264261",
-    "title": "'극장판 명탐정 코난: 30호 살인 사건', CGV 예매 오픈…11월 5일 단독 개봉"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1170483",
-    "title": "시청률 27.6% 넘어설까...오늘(30일) 드디어 첫방송 출격하는 '한국 드라마'"
-   }
-  ],
   "2026-11-01": [
    {
     "url": "https://www.etoday.co.kr/news/view/2642497",
@@ -371,6 +309,68 @@
    {
     "url": "https://www.ddaily.co.kr/page/view/2026110516161831963",
     "title": "'AGF 2026' 참가사 106개사 확정…전년比 49% 증가 '역대 최대'"
+   }
+  ],
+  "2026-11-07": [
+   {
+    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744529",
+    "title": "[속보] 코스피, 6.02% 폭락 마감… 서킷브레이커 충격 속 5059선 턱걸이"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611061557294460",
+    "title": "이형일 \"최고 수준의 경계감 갖고 시장 안정 조치 선제적 강구\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611061744327271",
+    "title": "'닥공'이라는데 잇단 '주담대 축소' 지라시에...금융위 \"허위 사실, 수사 의뢰\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611070423417125",
+    "title": "트럼프 \"백악관 비서실장, 스티븐 밀러로 교체...와일스는 외곽 기구 총괄\""
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202611061444001/",
+    "title": "일본, 잇단 사이버공격에 100억엔 긴급 투입···AI로 취약점 점검"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261107000013",
+    "title": "美, 中에 \"부산 무역합의 즉각 이행\" 촉구"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261106001015",
+    "title": "울릉도 북방 동해상서 北 어선 1척 표류… 군, 해경과 신병 조사 중"
+   },
+   {
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002644",
+    "title": "韓-동티모르, 초국가범죄 공동 대응…李 \"든든한 동반자\""
+   },
+   {
+    "url": "https://www.hankookilbo.com/news/article/A2026110616540001808",
+    "title": "이 대통령, 법무부 장관 후보자에 이용철 방사청장 전격 지명"
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261106093335",
+    "title": "\"이달 내 소비 습관은?\"…앤트로픽, 클로드에 '재무 서비스' 추가"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261106000396",
+    "title": "SK하이닉스 HBM4 '업계 최상위 수율' 확보…삼성 추격에 생산 효율 높인다"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026110616155717274",
+    "title": "카카오, AI 판단 전용 모델 공개…\"응답 0.04초\""
+   },
+   {
+    "url": "https://mantan-web.jp/article/20261106dog00m200062000a.html",
+    "title": "유루캠△: TV 애니메이션 4기 2027년 4월 스타트 8명이 캠프장에 집결! 비주얼&PV 공개"
+   },
+   {
+    "url": "https://www.starnewskorea.com/movie/2026/11/06/2026110609045133884",
+    "title": "[공식] 캡틴 아메리카·토르 韓 온다..'어벤져스: 둠스데이' 내한 확정"
+   },
+   {
+    "url": "https://isplus.com/article/view/isp202611060024",
+    "title": "[공식] ‘두번째 시그널’ 12월 7일 방송 확정…tvN \"조진웅 AI 교체 시도했지만 한계\"(전문)"
    }
   ]
  }
