@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-03": [
-   {
-    "url": "https://www.fnnews.com/news/202611021536225140",
-    "title": "외국인 팔아도 기관 1.2조 '사자'…코스피 2.24% 상승 마감 [마감시황]"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611021657409341",
-    "title": "현대차 남양연구소 찾은 이형일 부총리…업계 \"전기차도 생산세액공제\" 한목소리"
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261102515970",
-    "title": "은행 가계대출 지난 10월 2.7조 증가세 전환"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611030520094260",
-    "title": "트럼프, 마지막 유세서 민주당 맹비난…5000달러 약속"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026110215075061119",
-    "title": "다카이치 日 총리 호감도 15%P 하락…정치자금·고물가 대응에 불만"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261102001641",
-    "title": "이란 \"美와 종전 협상 계속\"…합의 돌파구 없이 군사 충돌 우려 여전"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261102001094",
-    "title": "국방부 \"공군 3훈비 음주 간담회 엄중\"… 장관, 감사 지시"
-   },
-   {
-    "url": "https://fnnews.com/news/202611021428393866",
-    "title": "李대통령, 821조 예산안 시정연설…\"소수 아닌 모두의 성장 대전환\""
-   },
-   {
-    "url": "https://khan.co.kr/article/202611021736001",
-    "title": "“고장난 시계도 하루 두번 맞는다더니…” 보수 야권서 이 대통령 ‘다문화 가정’ 옹호 발언 이어진 이유"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216891",
-    "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261102001546",
-    "title": "하이브, 사내 시스템 해킹으로 개인정보 유출 \"전·현직 임직원·협력사 관계자 포함\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216888",
-    "title": "구글, '제미나이 4 카본' 공개 사흘 만에 개선판 포착…3D 성능 호평"
-   },
-   {
-    "url": "https://www.mydaily.co.kr/page/view/2026110113443557170",
-    "title": "맨체스터 유나이티드 캐릭 당장 경질 없다! A매치 휴식기까지 지켜본다…\"현 체제 유지하고 평가하기로 결정\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611030404069587",
-    "title": "독립출판·아트북 255팀 한자리에…북서울미술관서 6일 개막"
-   },
-   {
-    "url": "https://en.fnnews.com/news/202611021506299332",
-    "title": "김환기 미공개 점화부터 0원 판화까지…서울옥션 '옥션쇼' 11일 개막"
-   }
-  ],
   "2026-11-04": [
    {
     "url": "https://news.mtn.co.kr/article/2026110406523754695",
@@ -371,6 +309,68 @@
    {
     "url": "https://linkareer.com/activity/358971",
     "title": "현대모비스 창립 50주년 굿즈 아이디어 공모전 (제10회 모모전)"
+   }
+  ],
+  "2026-11-10": [
+   {
+    "url": "https://www.newspim.com/news/view/20261110000007",
+    "title": "뉴욕증시, 기술주 반등에 다우 1100p↑·나스닥 2.7%↑…엔비디아는 4% 넘게 급락"
+   },
+   {
+    "url": "https://www.dailian.co.kr/news/view/1712797/%EC%A0%80PBR-%EA%B8%B0%EC%97%85-vs-%EC%88%9C%EC%9E%90%EC%82%B0-80-%EB%AF%B8%EB%A7%8C-2026",
+    "title": "저PBR 기업 vs 순자산 80% 미만…'주가누르기 방지법' 격돌"
+   },
+   {
+    "url": "https://www.news1.kr/economy/trend/6347325",
+    "title": "KDI \"AI 투자 중심으로 성장세 양호…경기 개선, 가계 확산은 더뎌\""
+   },
+   {
+    "url": "https://www.news1.kr/world/international-economy/6348362",
+    "title": "국제유가 5% 급락…트럼프 \"이란 추가 공격 가능성 매우 낮아\""
+   },
+   {
+    "url": "https://www.hankyung.com/article/202611106137i",
+    "title": "다카이치에 반항하면 전직 총리도 징계...일본 정계 술렁 [도쿄나우]"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202611091748001/",
+    "title": "미·러·우 아부다비 협상 D-1, 동상이몽 속 각국 압박 전략은"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261109515582",
+    "title": "강신철 “각 군 사관학교 폐교 아냐”… 11월 중 통합안 수정 발표"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026110921124937625",
+    "title": "靑 \"조작기소 특검법, 내일 국무회의 상정 안 해…다음 주 심의\""
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/politics/president/2026/11/09/20261109500019",
+    "title": "李 대통령 지지율 1%p 하락 35.9%…국힘 39.7%·민주 36.5% [리얼미터]"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217196",
+    "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026110910054629043",
+    "title": "SM도 뚫렸다…하이브 이어 대형기획사 전자결재망 해킹"
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500001",
+    "title": "“불륜 인정한 젠슨 황” 엔비디아 주가 장중 8%대 급락…中 스파이 의혹 후폭풍 [월드픽]"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261109000033",
+    "title": "[EPL] 맨유, 추가시간에 2골...아스톤 빌라와 4-4 극적 무승부"
+   },
+   {
+    "url": "https://newsis.com/view/NISX20261109_0003861017",
+    "title": "백작의 아들과 세탁부의 딸…로트렉·수잔 발라동 서울서 다시 만났다"
+   },
+   {
+    "url": "https://www.gamemeca.com/view.php?gid=1782930",
+    "title": "이치방쿠지부터 TCG까지, 팝콘D스퀘어 성수점 열린다"
    }
   ]
  }

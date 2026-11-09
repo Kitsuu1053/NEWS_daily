@@ -1,0 +1,356 @@
+{
+ "date": "2026-11-10",
+ "weather": {
+  "min": 0,
+  "max": 12,
+  "am_text": "맑음",
+  "am_icon": "sun",
+  "pm_text": "맑음",
+  "pm_icon": "sun",
+  "humidity": null,
+  "rain": "없음",
+  "pm10": null,
+  "pm25": null,
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,018.85",
+   "pct": -0.81,
+   "closes": [
+    5638.34,
+    6012.44,
+    5937.66,
+    5730.74,
+    5859.08,
+    5648.79,
+    5683.8,
+    5383.8,
+    5059.69,
+    5018.85
+   ],
+   "dates": [
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09"
+   ],
+   "ext": {
+    "high": "5,172.94",
+    "low": "4,990.66"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "25,253.14",
+   "pct": 2.74,
+   "closes": [
+    26477.81,
+    26549.85,
+    26184.72,
+    25437.0,
+    25164.32,
+    25372.01,
+    25736.51,
+    24314.99,
+    24579.42,
+    25253.14
+   ],
+   "dates": [
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09"
+   ],
+   "ext": null
+  },
+  {
+   "name": "원/달러",
+   "value": "1,347.1",
+   "pct": -0.7,
+   "closes": [
+    1323.7,
+    1337.7,
+    1336.8,
+    1334.3,
+    1343.8,
+    1341.0,
+    1341.5,
+    1342.1,
+    1356.6,
+    1347.1
+   ],
+   "dates": [
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09"
+   ],
+   "ext": null
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "나스닥",
+     "source": "뉴스핌",
+     "time": "11.10 06:22",
+     "title": "뉴욕증시, 기술주 반등에 다우 1100p↑·나스닥 2.7%↑…엔비디아는 4% 넘게 급락",
+     "url": "https://www.newspim.com/news/view/20261110000007",
+     "summary": "9일(현지시간) 뉴욕증시에서 다우가 2.15% 오른 52,389.75, 나스닥은 2.74% 오른 25,253.14로 마감했다. 국제유가 급락과 AI주 낙폭이 과했다는 평가에 매수세가 몰렸고, 엔비디아는 경영진 논란으로 4% 넘게 하락했다. 이번 주 CPI·PPI 발표가 남았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "세제",
+     "source": "데일리안",
+     "time": "11.10 06:08",
+     "title": "저PBR 기업 vs 순자산 80% 미만…'주가누르기 방지법' 격돌",
+     "url": "https://www.dailian.co.kr/news/view/1712797/%EC%A0%80PBR-%EA%B8%B0%EC%97%85-vs-%EC%88%9C%EC%9E%90%EC%82%B0-80-%EB%AF%B8%EB%A7%8C-2026",
+     "summary": "대주주가 상속·증여세를 줄이려고 주가를 누르는 일을 막는 세제 정부안을 두고 보완론이 나왔다. 대상을 업종별 저PBR 하위 25%로 넓히고 할증률을 30%에서 40%로 높이자는 대안과, 순자산 80%를 하한으로 두자는 여당 의원안이 맞선다. 이달 말 법안을 확정해 12월 본회의 통과를 목표로 한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnimage.dailian.co.kr/news/202611/news_1794223083943_1712797_m_1.png"
+    },
+    {
+     "fixed": false,
+     "tag1": "경제",
+     "tag2": "경기",
+     "source": "뉴스1",
+     "time": "11.09 12:00",
+     "title": "KDI \"AI 투자 중심으로 성장세 양호…경기 개선, 가계 확산은 더뎌\"",
+     "url": "https://www.news1.kr/economy/trend/6347325",
+     "summary": "KDI가 11월 경제동향에서 AI 인프라 투자와 반도체 생산·수출을 바탕으로 성장세가 양호하다고 평가했다. 10월 수출은 93.7%, 9월 설비투자는 10.1% 늘었다. 반면 3분기 민간소비는 1.1% 증가에 그쳤고, 고유가와 시장금리 상승이 가계 회복을 늦추고 있다고 봤다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/5/8198471/high.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "이란",
+     "source": "뉴스1",
+     "time": "11.10 04:41",
+     "title": "국제유가 5% 급락…트럼프 \"이란 추가 공격 가능성 매우 낮아\"",
+     "url": "https://www.news1.kr/world/international-economy/6348362",
+     "summary": "트럼프 미국 대통령이 협상이 진전되면 이란을 다시 공격할 가능성은 매우 낮다고 밝히자 국제유가가 급락했다. 브렌트유는 5.35% 내린 배럴당 약 93달러로 9월 초 이후 가장 낮다. 다만 호르무즈 해협에서 유조선 2척이 기뢰에 부딪혀 불이 나는 등 긴장은 이어지고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/9/8204439/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "자민당",
+     "source": "한국경제",
+     "time": "11.10 04:51",
+     "title": "다카이치에 반항하면 전직 총리도 징계...일본 정계 술렁 [도쿄나우]",
+     "url": "https://www.hankyung.com/article/202611106137i",
+     "summary": "자민당 지도부가 9일 이시바 전 총리 등 의원 4명에게 공식 경고 처분을 내렸다. 이들은 식료품 소비세 인하 법안 표결 직전, 재원 대책이 없다며 퇴장했다. 자민당이 총재 출신을 징계한 것은 처음이며, 참의원에서는 여당이 과반에 4석 모자라 법안 처리가 불투명하다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.hankyung.com/photo/202611/01.46368047.1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "우크라이나",
+     "tag2": "종전협상",
+     "source": "경향신문",
+     "time": "11.09 17:48",
+     "title": "미·러·우 아부다비 협상 D-1, 동상이몽 속 각국 압박 전략은",
+     "url": "https://www.khan.co.kr/article/202611091748001/",
+     "summary": "미국이 중재하는 러시아·우크라이나 종전 협상이 10~11일 아부다비에서 약 9개월 만에 다시 열린다. 러시아는 도네츠크 등 4개 지역 양도를 요구하고, 우크라이나는 현재 전선에서 즉시 휴전하자는 입장이라 영토 문제가 핵심 쟁점이다. 유럽은 자신들이 협상에서 배제될까 우려하고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.khan.co.kr/news/2026/11/09/news-p.v1.20261109.3ec0bc4e6f5b44ddac97d3eceba9c08a_P1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "사관학교",
+     "source": "세계일보",
+     "time": "11.09 18:46",
+     "title": "강신철 “각 군 사관학교 폐교 아냐”… 11월 중 통합안 수정 발표",
+     "url": "https://www.segye.com/newsView/20261109515582",
+     "summary": "국방부 장관이 9일 육·해·공군 사관학교 총동창회장들과 만나 국군사관학교를 세우더라도 각 군 사관학교는 폐교하지 않겠다고 밝혔다. 국방부는 '2+2'안, '1+2+1'안 등 통합 교육 방식을 검토해 이달 중 수정안을 발표할 예정이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.segye.com/content/image/2026/11/09/20261109516549.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "대통령실",
+     "tag2": "특검법",
+     "source": "아시아경제",
+     "time": "11.09 21:12",
+     "title": "靑 \"조작기소 특검법, 내일 국무회의 상정 안 해…다음 주 심의\"",
+     "url": "https://view.asiae.co.kr/article/2026110921124937625",
+     "summary": "청와대가 국회를 통과한 조작기소 특검법 공포안을 10일 국무회의에 올리지 않고 다음 주에 심의한다고 밝혔다. 국무회의 계획이 정해진 뒤인 6일 오후에 법안이 이송됐다는 설명이다. 국무회의가 매주 화요일 열려 17일 심의가 유력하다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026110607274789046_1793917668.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "여론조사",
+     "tag2": "지지율",
+     "source": "서울신문",
+     "time": "11.09 08:54",
+     "title": "李 대통령 지지율 1%p 하락 35.9%…국힘 39.7%·민주 36.5% [리얼미터]",
+     "url": "https://www.seoul.co.kr/news/politics/president/2026/11/09/20261109500019",
+     "summary": "리얼미터가 2~6일 성인 2,528명을 조사한 결과 대통령 국정 지지율은 35.9%로 한 주 새 1.0%p 내렸다. 5~6일 조사한 정당 지지도는 국민의힘 39.7%, 민주당 36.5%로 오차범위 안이었고, 무당층은 11.1%였다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.seoul.co.kr//img/upload/2026/11/02/SSC_20261102101314_O2.jpg.webp"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "11.10 06:34",
+     "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217196",
+     "summary": "앤트로픽이 9일(현지시간) 최상위 모델 '페이블 5.2'와 검증된 기관용 '미토스 5.2'를 공개했다. 아티피셜 애널리시스 지능지수 65점으로 1위에 올랐고, API 가격은 20% 낮춰 입력 100만 토큰당 8달러, 출력 40달러로 정했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/217196_221416_3214.png"
+    },
+    {
+     "fixed": true,
+     "tag1": "보안",
+     "tag2": "해킹",
+     "source": "아시아경제",
+     "time": "11.09 10:05",
+     "title": "SM도 뚫렸다…하이브 이어 대형기획사 전자결재망 해킹",
+     "url": "https://view.asiae.co.kr/article/2026110910054629043",
+     "summary": "SM엔터테인먼트와 계열사의 전자결재 등 업무 시스템이 해킹돼 이름, 주민등록번호, 계좌번호, 계약서 정보 등이 유출됐다. 사고는 4일께 일어났고 KISA와 개인정보위에 신고됐으며, 경찰이 조사에 들어갔다. SM은 팬 정보는 유출되지 않았다고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026110414262786565_1793769986.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "반도체",
+     "tag2": "엔비디아",
+     "source": "서울신문",
+     "time": "11.10 01:00",
+     "title": "“불륜 인정한 젠슨 황” 엔비디아 주가 장중 8%대 급락…中 스파이 의혹 후폭풍 [월드픽]",
+     "url": "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500001",
+     "summary": "엔비디아 CEO가 중국 스파이 의혹을 받는 기업인과의 불륜을 사내 메모로 인정하자 9일(현지시간) 주가가 장중 한때 8.79% 떨어졌다. 이사회는 독립 조사에 착수했지만 국가안보·기밀 침해 근거는 없다며 CEO에 대한 신뢰를 밝혔다. 17일 3분기 실적 발표가 예정돼 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "해외축구",
+     "tag2": "맨유",
+     "source": "뉴스핌",
+     "time": "11.09 07:40",
+     "title": "[EPL] 맨유, 추가시간에 2골...아스톤 빌라와 4-4 극적 무승부",
+     "url": "https://www.newspim.com/news/view/20261109000033",
+     "summary": "맨유가 9일 올드 트래포드에서 열린 EPL 10라운드에서 아스톤 빌라와 4-4로 비겼다. 시작 4분도 안 돼 2골을 내줬으나 후반 추가시간 지르크제이·도르구의 연속골로 균형을 맞췄다. 1승 5무 4패(승점 8)로 18위에 머물렀다.",
+     "age": "1일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/11/09/2611090736227260_267_tc.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "전시",
+     "tag2": "개막",
+     "source": "뉴시스",
+     "time": "11.09 17:50",
+     "title": "백작의 아들과 세탁부의 딸…로트렉·수잔 발라동 서울서 다시 만났다",
+     "url": "https://newsis.com/view/NISX20261109_0003861017",
+     "summary": "한불 수교 140주년 기념전 '툴루즈 로트렉 & 수잔 발라동: 몽마르트르의 화가들'이 세종문화회관 세종미술관에서 열리고 있다. 화가 31명의 회화·드로잉·판화 110여 점을 내년 2월 9일까지 선보이며 두 화가의 관계와 창작 교류를 조명한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img1.newsis.com/2026/11/06/NISI20261106_0021521768_web.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "팝업",
+     "tag2": "개막 예정",
+     "source": "게임메카",
+     "time": "11.04 16:58",
+     "title": "이치방쿠지부터 TCG까지, 팝콘D스퀘어 성수점 열린다",
+     "url": "https://www.gamemeca.com/view.php?gid=1782930",
+     "summary": "서울 성수동 9개 층 건물에 이치방쿠지 공식 매장, 애니 IP 피규어숍, 산엑스 스토어 등을 모은 '팝콘D스퀘어 성수점'이 12일 정식 개점한다. 5층 포켓몬·원피스·유희왕 TCG 팝업은 12월 12일까지 열리며 1차 입장(12~18일)은 사전 예약제다.",
+     "age": "5일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.gamemeca.com/gmdata/0001/782/930/gm669380_234626.webp"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "46주차 · 40회차 브리핑"
+}
