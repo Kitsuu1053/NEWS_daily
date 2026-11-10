@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-04": [
-   {
-    "url": "https://news.mtn.co.kr/article/2026110406523754695",
-    "title": "미 중간선거 결과 앞두고 뉴욕증시 혼조…다우지수 0.38%↓[뉴욕마감]"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611030811277457",
-    "title": "정부, 역대 최대 640억원 규모 김장대책 마련…\"물가 관리 역량 집중\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611030815584016",
-    "title": "10월 소비자 물가 2.8% 상승... 두 달 연속 2%대"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611040725001/",
-    "title": "“민주당 하원 승리 확률 96%”···미 중간선거 관건은 ‘승리냐 압승이냐’"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261103000207",
-    "title": "日, 자율주행차 안전기준 개정...자율주행 택시·버스 보급 촉진"
-   },
-   {
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829246",
-    "title": "러시아, 우크라이나 구호센터에 폭탄 9발 투하…최소 33명 숨져"
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026110316130001569",
-    "title": "北, 탄도미사일 이어 순항미사일에도 '강철비' 집속탄… 軍 \"탐지 제한될 수도\""
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611032135005/",
-    "title": "한·튀르키예 “원전·방산 등 전략 분야 협력 내실화”"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611032130025/",
-    "title": "한날 국회 출동한 ‘오·장·한’…국힘판 삼국지 전초전?"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20261103091446",
-    "title": "앤트로픽, 매출 12배에도 적자…IPO 앞두고 수익성 시험대"
-   },
-   {
-    "url": "https://www.ddaily.co.kr/page/view/2026110311443756209",
-    "title": "李 대통령 `사이버보안 차르` 검토 주문…\"공공·민간 아우르는 범정부 기구 필요\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216894",
-    "title": "미소스 5.5·GPT-6.2 아스트라 잇달아 포착…최첨단 모델 출시설"
-   },
-   {
-    "url": "https://dengekionline.com/article/202610/92651",
-    "title": "『히이라기 씨네 흡혈 사정』 TV 애니메이션화 결정. 목덜미로 다가오는 히로인의 요염한 티저 비주얼에 두근거림이 멈추지 않는다…! 요시카와 미키 선생 코멘트도"
-   },
-   {
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265745",
-    "title": "영화 ‘아름다운 초저녁달’ 메인 포스터·예고편 공개…11월 18일 국내 개봉"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1171169",
-    "title": "‘기프트’ 12월 5일 첫 방송…웹툰 원작 12부작, 김우빈 4년 만의 tvN 귀환"
-   }
-  ],
   "2026-11-06": [
    {
     "url": "https://www.fnnews.com/news/202611060625255827",
@@ -371,6 +309,68 @@
    {
     "url": "https://www.gamemeca.com/view.php?gid=1782930",
     "title": "이치방쿠지부터 TCG까지, 팝콘D스퀘어 성수점 열린다"
+   }
+  ],
+  "2026-11-11": [
+   {
+    "url": "https://www.fnnews.com/news/202611110631156356",
+    "title": "[뉴욕증시] 인플레 우려에 하락…엔비디아, 5.5% 급락"
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2646119",
+    "title": "13일부터 국민 생명·안전 규제 없애거나 완화할 때도 심사"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026111013052249131",
+    "title": "반도체 날개 단 대기업 수출 2배 껑충…10대 기업 쏠림 첫 60% 돌파"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261111000034",
+    "title": "美 중간선거 물가 심판에도…백악관 \"관세 계속 고수\""
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/international/japan/2026/11/11/20261111012010",
+    "title": "日 자위대 정원 감축 추진… AI로 전력 보완"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611110731011196",
+    "title": "우크라 종전 3자 협상 9개월 만에 재개 \"건설적 회담\""
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/politics/north/2026/11/10/20261110500061",
+    "title": "소리 소문 없이 동해서 쏜 北 신형 어뢰…내년 초 곧바로 실전 배치된다 [밀리터리노트]"
+   },
+   {
+    "url": "https://fnnews.com/news/202611101629187077",
+    "title": "與 \"부동산 당청 엇박자 사실 아냐\"..靑, 여야 소통 확대키로"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6349416",
+    "title": "예결위, 오늘부터 이틀간 비경제부처 예산안 심사 돌입"
+   },
+   {
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "title": "앤트로픽, 업무 회의를 계획·작업으로 바꿔주는 '클로드 미팅' 출시"
+   },
+   {
+    "url": "https://etnews.com/20261110000268",
+    "title": "[단독] 국정원, 보안제품 중복 시험 줄인다…업계 부담 완화 기대"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026111016443568621",
+    "title": "“슈퍼컴 6호기 ‘한강’ K-문샷에 우선 배분…과학AI 난제 해결 속도”"
+   },
+   {
+    "url": "https://realsound.jp/movie/2026/11/post-2575378.html/amp",
+    "title": "『스피릿 서클』 애니화 결정 캐스트에 우라 카즈키×나가세 안나×유키무라 에리×나카무라 유이치"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261110001456",
+    "title": "'드라이브 마이 카' 하마구치 류스케, 데뷔작 '열정' 12월 개봉"
+   },
+   {
+    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16273301",
+    "title": "강훈, ‘뜨거운 안녕’ 강태구로 청춘 성장담 예고"
    }
   ]
  }
