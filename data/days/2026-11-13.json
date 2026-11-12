@@ -1,0 +1,356 @@
+{
+ "date": "2026-11-13",
+ "weather": {
+  "min": 8,
+  "max": 17,
+  "am_text": "흐리고 짙은 안개",
+  "am_icon": "cloud",
+  "pm_text": "구름 많음",
+  "pm_icon": "sun_cloud",
+  "humidity": null,
+  "rain": "없음",
+  "pm10": null,
+  "pm25": "보통",
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,342.73",
+   "pct": -0.61,
+   "closes": [
+    5730.74,
+    5859.08,
+    5648.79,
+    5683.8,
+    5383.8,
+    5059.69,
+    5018.85,
+    5239.13,
+    5375.36,
+    5342.73
+   ],
+   "dates": [
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09",
+    "11.10",
+    "11.11",
+    "11.12"
+   ],
+   "ext": {
+    "high": "5,458.84",
+    "low": "5,293.05"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "25,366.09",
+   "pct": -0.39,
+   "closes": [
+    25437.0,
+    25164.32,
+    25372.01,
+    25736.51,
+    24314.99,
+    24579.42,
+    25253.14,
+    25065.87,
+    25466.19,
+    25366.09
+   ],
+   "dates": [
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09",
+    "11.10",
+    "11.11",
+    "11.12"
+   ],
+   "ext": null
+  },
+  {
+   "name": "원/달러",
+   "value": "1,330.7",
+   "pct": -0.22,
+   "closes": [
+    1334.3,
+    1343.8,
+    1341.0,
+    1341.5,
+    1342.1,
+    1356.6,
+    1347.1,
+    1337.5,
+    1333.6,
+    1330.7
+   ],
+   "dates": [
+    "10.30",
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09",
+    "11.10",
+    "11.11",
+    "11.12"
+   ],
+   "ext": null
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "뉴욕증시",
+     "source": "아시아경제",
+     "time": "11.13 06:44",
+     "title": "[뉴욕증시]젠슨 황 사임·종전 불투명…일제히 하락 마감",
+     "url": "https://view.asiae.co.kr/article/2026111305592985181",
+     "summary": "12일(현지시간) 뉴욕증시 3대 지수가 모두 내렸다. 다우 0.36%, S&P500 0.35%, 나스닥 0.39% 하락. 엔비디아 CEO 사임 발표로 AI주가 흔들렸고, 트럼프 대통령의 이란 합의 불필요 발언에 유가와 미 국채금리가 함께 뛰었다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026111305555197829_1794516951.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "금융",
+     "source": "전자신문",
+     "time": "11.12 09:57",
+     "title": "당정, 금융지주 CEO 연임 문턱 높인다…임원추천위 전원 독립이사로",
+     "url": "https://www.etnews.com/20261112000077",
+     "summary": "당정이 12일 국회 협의회에서 금융회사 지배구조 개선방안을 내놨다. 은행지주 CEO 연임 의결요건을 단계적으로 높이고 임원추천위원회를 전원 독립이사로 꾸린다. 주주의 사외이사 후보 추천권과 성과보수 환수제도 도입한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etnews.com/news/article/2026/11/12/rcv.YNA.20261112.PYH2026111201400001300_P1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "금융",
+     "tag2": "가계대출",
+     "source": "디지털타임스",
+     "time": "11.11 12:00",
+     "title": "집 사느라 빚내고 주식 사느라 또 빚내고…은행권 가계대출 1200조원 첫 돌파",
+     "url": "https://www.dt.co.kr/article/12094483",
+     "summary": "한국은행 집계 결과 10월 말 은행권 가계대출 잔액이 1203조9000억원으로 처음 1200조원을 넘었다. 한 달 새 5조원 늘어 9월 증가폭의 10배다. 주담대가 3조3000억원 늘었고, 주식 투자 영향 등으로 기타대출도 1조7000억원 증가로 돌아섰다.",
+     "age": "2일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://wimg.dt.co.kr/news/cms/2026/11/11/rcv.YNA.20260908.PYH2026090814470001300_R.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "이란",
+     "source": "경향신문",
+     "time": "11.13 08:28",
+     "title": "트럼프 \"이란과 합의 필요 없다···밴스, 다른 임무 집중해야\"",
+     "url": "https://www.khan.co.kr/article/202611130828001/",
+     "summary": "트럼프 대통령이 12일(현지시간) 이란과의 합의가 더는 필요 없다며 협상을 이끌어온 부통령에게 다른 업무에 집중하라고 지시했다. 인터뷰에서는 즉각적인 군사공격 가능성도 언급했다. 부통령은 중간선거 참패의 원인으로 이란전쟁을 지목해 왔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.khan.co.kr/news/2026/11/13/rcv.YNA.20261112.PGT20261112044801009_P1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "정치",
+     "source": "SBS 뉴스",
+     "time": "11.12 10:29",
+     "title": "경쟁자 입장 내자 다카이치 '반색'…5년 집권 가시화하나",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842529",
+     "summary": "내년 9월 자민당 총재 선거를 앞두고, 지난해 총재 선거에서 맞붙었던 방위상과 당 정무조사회장 등이 다카이치 총리 지지 의사를 밝히고 있다고 일본 언론이 전했다. 총리는 1년 넘게 50~60%대 지지율을 지키고 있어 장기 집권 전망이 힘을 얻고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.sbs.co.kr/newimg/news/20261112/202240273_1280.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "우크라이나",
+     "tag2": "종전협상",
+     "source": "뉴스핌",
+     "time": "11.13 01:12",
+     "title": "젤렌스키 \"평화협상에 EU가 적극 참여해 달라\"… 유럽은 '언제, 누가' 놓고 갑론을박",
+     "url": "https://www.newspim.com/news/view/20261113000004",
+     "summary": "우크라이나 대통령이 12일(현지시간) 아일랜드 더블린 유럽정치공동체 정상회의에서 EU의 평화협상 적극 참여를 촉구했다. 독일·프랑스 등은 EU 대표를 언제, 누구로 정할지를 두고 의견이 갈렸다. 이탈리아 총리는 13일 비공식 EU 정상회의에서 이를 논의하자고 요청했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/02/25/2602252344548530_t1.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "합참",
+     "source": "뉴스핌",
+     "time": "11.12 14:33",
+     "title": "합참 \"현재 위협 대응에 머물면 안 돼\"… AI·우주·전자기로 미래 합동작전 설계",
+     "url": "https://www.newspim.com/news/view/20261112000986",
+     "summary": "합동참모본부가 12일 합참의장 주관으로 서울 용산에서 '합동성 강화 대토론회'를 열고 AI 전환과 우주·사이버·전자기 영역 우위를 미래 합동작전의 두 축으로 제시했다. 250여 명이 참석했으며 올해로 14회째다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/11/12/2611121429296700_t1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "국회",
+     "tag2": "예산",
+     "source": "한국경제",
+     "time": "11.12 17:35",
+     "title": "특활비 놓고 공수 뒤바뀐 여야…민주 \"꼭 필요\" 국힘 \"전액삭감\"",
+     "url": "https://www.hankyung.com/article/2026111236051",
+     "summary": "내년 예산안에 편성된 청와대 특활비 82억여원과 중수청 특활비 42억여원을 두고 여야 입장이 야당 시절과 뒤바뀌었다. 민주당은 필요성을 강조하고, 국민의힘은 집행 내역 공개 지연 등을 이유로 전액 삭감을 요구하고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    },
+    {
+     "fixed": false,
+     "tag1": "대통령실",
+     "tag2": "순방",
+     "source": "파이낸셜뉴스",
+     "time": "11.12 10:12",
+     "title": "李대통령, 16~19일 아세안·APEC 순방…靑 \"북미 접촉 가능성 적다\"",
+     "url": "https://www.fnnews.com/news/202611120952288003",
+     "summary": "이재명 대통령이 16~19일 필리핀 마닐라와 중국 선전을 방문해 한·아세안, 아세안+3, 동아시아정상회의, APEC 정상회의에 참석한다. 청와대는 회의 기간 북미 접촉 가능성은 낮다고 봤고, 양자회담은 조율 중이라고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/10/202611101029105654_e.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "11.12 17:49",
+     "title": "앤트로픽 '미소스', 미국 전력망 보안에 활용…듀크에너지 등 도입 시험",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217329",
+     "summary": "듀크에너지 등 미국 주요 전력회사가 앤트로픽의 제한 공개 모델 '미소스'로 전력 관련 소프트웨어의 보안 취약점 탐색을 시험하고 있다. 블룸버그 보도로, 늦여름부터 사용이 허용됐으며 비용 부담이 과제로 꼽히고 발견된 취약점 수는 공개되지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/217329_221560_1334.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "디지털데일리",
+     "time": "11.12 17:32",
+     "title": "금융위, 해킹에 뚫린 금융보안원 다음주 감사 착수",
+     "url": "https://ddaily.co.kr/page/view/2026111217320095988",
+     "summary": "금융위원회가 16일부터 해킹 피해를 입은 금융보안원에 대한 특정감사에 들어간다. 9일 정보보호 평가 지원시스템에 금감원을 사칭한 계정이 침입했으며, 금융사 48곳 관련 파일 약 130개와 이용자 정보 350여 건 등이 유출된 것으로 파악됐다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/10/14/2026101416390911101_l.png"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "구글",
+     "source": "AI타임스",
+     "time": "11.12 12:07",
+     "title": "구글, 판단 전용 AI '제미나이 디시전 1' 출시...질문 1000개 동시 처리",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217307",
+     "summary": "구글이 글을 생성하지 않고 선택지를 채점하는 판단 전용 모델 '제미나이 디시전 1'과 API를 공개했다. 입력 하나에 최대 1000개 질문을 한 번에 평가하며, 가격은 입력 100만 토큰당 0.10달러이고 출력 요금은 받지 않는다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/217307_221532_567.png"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "해외축구",
+     "tag2": "맨유",
+     "source": "포포투",
+     "time": "11.12 21:25",
+     "title": "[오피셜] 맨유가 결국 버렸다...'10경기 1승' 레전드 캐릭 감독 경질→훈련장 떠난 지 30분 만에 공식 발표",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100684",
+     "summary": "맨유가 12일 마이클 캐릭 감독 경질을 공식 발표했다. 지난 시즌 남은 17경기에서 12승을 거두며 리그 3위를 이끌었지만, 이번 시즌에는 리그 10경기 1승에 그쳐 강등권까지 떨어졌다. 후임으로는 포체티노 미국 대표팀 감독이 유력하다는 보도가 나온다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.fourfourtwo.co.kr/news/thumbnail/202611/100684_280225_5851_v150.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "전시",
+     "tag2": "개막",
+     "source": "파이낸셜뉴스",
+     "time": "11.13 04:00",
+     "title": "김환기 '푸른 점화'와 포켓몬 카드의 공존… 예술 경계 깬 옥션쇼 [Weekend 문화]",
+     "url": "https://www.fnnews.com/news/202611121818265778",
+     "summary": "서울옥션이 24일까지 강남센터에서 '2026 옥션쇼'를 연다. 23일 이브닝 세일에는 낮은 추정가 28억원인 김환기 '푸른 점화'를 비롯해 34점, 약 190억원어치가 나온다. 19일부터는 반 고흐 미술관 협업 포켓몬 카드도 전시된다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/12/202611121818053653_e.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "전시",
+     "tag2": "개막",
+     "source": "뉴스1",
+     "time": "11.11 07:56",
+     "title": "전태일 56주기, 노동·민주주의 잇는 특별전 13일 개막",
+     "url": "https://www.news1.kr/life-culture/general-cultural/6349820",
+     "summary": "민주화운동기념사업회가 13일 서울 용산 민주화운동기념관에서 특별전 '공존모색: 노동이 민주에게'를 연다. 전태일 56주기를 맞아 전태일 수기와 김경숙 일기 같은 노동운동 사료를 공개하고, 동시대 미술 작품과 함께 노동의 변화를 살펴본다.",
+     "age": "2일 전",
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/11/8207730/high.jpg"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "46주차 · 43회차 브리핑"
+}

@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-06": [
-   {
-    "url": "https://www.fnnews.com/news/202611060625255827",
-    "title": "[뉴욕증시] '검은 목요일' AI 붕괴에 일제히 폭락…나스닥, 조정장 진입"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611051834343489",
-    "title": "가상자산 과세 2029년부터… 3년간 손실이월공제 추진"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261105000460",
-    "title": "[종합] 9월 경상흑자 첫 600억달러 돌파…한은 \"10월도 역대 2위 예상\""
-   },
-   {
-    "url": "https://www.hankooki.com/news/articleView.html?idxno=347771",
-    "title": "美 중간선거, 민주당 압승…트럼프 \"나를 탄핵하면 파멸\""
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261105513746",
-    "title": "“中, 다카이치 ‘대만 발언’ 실언으로 안 봐”…관계 개선 실마리는 어디에"
-   },
-   {
-    "url": "https://biz.sbs.co.kr/article/20000344485",
-    "title": "中·캐나다, '관세면제 2년 연장' 합의…美중간선거 다음날 발표"
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261105508769",
-    "title": "北 \"신형 대공미사일 시험…장거리순항미사일 비행장 타격훈련\""
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026110514010003486",
-    "title": "'전두환 내란 부정' 김태규 제명 촉구 결의안, 與 주도 국회 본회의 통과"
-   },
-   {
-    "url": "https://biz.heraldcorp.com/article/10927682",
-    "title": "‘내란 우두머리’ 2심 내년 1월26일 선고…尹 “대통령 헌법상 권한행사, 내란죄 될 수 없어”"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
-    "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도"
-   },
-   {
-    "url": "https://www.ddaily.co.kr/page/view/2026110517462321259",
-    "title": "망분리 규제 해제 '시동'…기술적 난제·프레임워크 부재는 과제"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217074",
-    "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상"
-   },
-   {
-    "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100276",
-    "title": "[ucl.review] 'OT 대역전극 0:2→3:2' 캐릭의 맨유, 로마에 3-2 극적인 역전승...'2골' 쿠냐 퇴장"
-   },
-   {
-    "url": "https://www.news1.kr/life-culture/performance-exhibition/6343391",
-    "title": "신체와 사물 사이에 작동하는 힘…일민미술관 '마나'전"
-   },
-   {
-    "url": "https://www.ddaily.co.kr/page/view/2026110516161831963",
-    "title": "'AGF 2026' 참가사 106개사 확정…전년比 49% 증가 '역대 최대'"
-   }
-  ],
   "2026-11-07": [
    {
     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744529",
@@ -433,6 +371,68 @@
    {
     "url": "https://linkareer.com/activity/363182",
     "title": "2026 내가 소개하는 서울 숏폼 공모전"
+   }
+  ],
+  "2026-11-13": [
+   {
+    "url": "https://view.asiae.co.kr/article/2026111305592985181",
+    "title": "[뉴욕증시]젠슨 황 사임·종전 불투명…일제히 하락 마감"
+   },
+   {
+    "url": "https://www.etnews.com/20261112000077",
+    "title": "당정, 금융지주 CEO 연임 문턱 높인다…임원추천위 전원 독립이사로"
+   },
+   {
+    "url": "https://www.dt.co.kr/article/12094483",
+    "title": "집 사느라 빚내고 주식 사느라 또 빚내고…은행권 가계대출 1200조원 첫 돌파"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202611130828001/",
+    "title": "트럼프 \"이란과 합의 필요 없다···밴스, 다른 임무 집중해야\""
+   },
+   {
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842529",
+    "title": "경쟁자 입장 내자 다카이치 '반색'…5년 집권 가시화하나"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261113000004",
+    "title": "젤렌스키 \"평화협상에 EU가 적극 참여해 달라\"… 유럽은 '언제, 누가' 놓고 갑론을박"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261112000986",
+    "title": "합참 \"현재 위협 대응에 머물면 안 돼\"… AI·우주·전자기로 미래 합동작전 설계"
+   },
+   {
+    "url": "https://www.hankyung.com/article/2026111236051",
+    "title": "특활비 놓고 공수 뒤바뀐 여야…민주 \"꼭 필요\" 국힘 \"전액삭감\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611120952288003",
+    "title": "李대통령, 16~19일 아세안·APEC 순방…靑 \"북미 접촉 가능성 적다\""
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217329",
+    "title": "앤트로픽 '미소스', 미국 전력망 보안에 활용…듀크에너지 등 도입 시험"
+   },
+   {
+    "url": "https://ddaily.co.kr/page/view/2026111217320095988",
+    "title": "금융위, 해킹에 뚫린 금융보안원 다음주 감사 착수"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217307",
+    "title": "구글, 판단 전용 AI '제미나이 디시전 1' 출시...질문 1000개 동시 처리"
+   },
+   {
+    "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100684",
+    "title": "[오피셜] 맨유가 결국 버렸다...'10경기 1승' 레전드 캐릭 감독 경질→훈련장 떠난 지 30분 만에 공식 발표"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611121818265778",
+    "title": "김환기 '푸른 점화'와 포켓몬 카드의 공존… 예술 경계 깬 옥션쇼 [Weekend 문화]"
+   },
+   {
+    "url": "https://www.news1.kr/life-culture/general-cultural/6349820",
+    "title": "전태일 56주기, 노동·민주주의 잇는 특별전 13일 개막"
    }
   ]
  }
