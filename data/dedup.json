@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-07": [
-   {
-    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744529",
-    "title": "[속보] 코스피, 6.02% 폭락 마감… 서킷브레이커 충격 속 5059선 턱걸이"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611061557294460",
-    "title": "이형일 \"최고 수준의 경계감 갖고 시장 안정 조치 선제적 강구\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611061744327271",
-    "title": "'닥공'이라는데 잇단 '주담대 축소' 지라시에...금융위 \"허위 사실, 수사 의뢰\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611070423417125",
-    "title": "트럼프 \"백악관 비서실장, 스티븐 밀러로 교체...와일스는 외곽 기구 총괄\""
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611061444001/",
-    "title": "일본, 잇단 사이버공격에 100억엔 긴급 투입···AI로 취약점 점검"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261107000013",
-    "title": "美, 中에 \"부산 무역합의 즉각 이행\" 촉구"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261106001015",
-    "title": "울릉도 북방 동해상서 北 어선 1척 표류… 군, 해경과 신병 조사 중"
-   },
-   {
-    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002644",
-    "title": "韓-동티모르, 초국가범죄 공동 대응…李 \"든든한 동반자\""
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026110616540001808",
-    "title": "이 대통령, 법무부 장관 후보자에 이용철 방사청장 전격 지명"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20261106093335",
-    "title": "\"이달 내 소비 습관은?\"…앤트로픽, 클로드에 '재무 서비스' 추가"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261106000396",
-    "title": "SK하이닉스 HBM4 '업계 최상위 수율' 확보…삼성 추격에 생산 효율 높인다"
-   },
-   {
-    "url": "https://www.ddaily.co.kr/page/view/2026110616155717274",
-    "title": "카카오, AI 판단 전용 모델 공개…\"응답 0.04초\""
-   },
-   {
-    "url": "https://mantan-web.jp/article/20261106dog00m200062000a.html",
-    "title": "유루캠△: TV 애니메이션 4기 2027년 4월 스타트 8명이 캠프장에 집결! 비주얼&PV 공개"
-   },
-   {
-    "url": "https://www.starnewskorea.com/movie/2026/11/06/2026110609045133884",
-    "title": "[공식] 캡틴 아메리카·토르 韓 온다..'어벤져스: 둠스데이' 내한 확정"
-   },
-   {
-    "url": "https://isplus.com/article/view/isp202611060024",
-    "title": "[공식] ‘두번째 시그널’ 12월 7일 방송 확정…tvN \"조진웅 AI 교체 시도했지만 한계\"(전문)"
-   }
-  ],
   "2026-11-08": [
    {
     "url": "https://www.dailian.co.kr/news/view/1712101/%EA%B8%89%EB%9D%BD%EC%9E%A5-%EC%A7%80%EB%82%98%EB%8F%84-%EC%95%88%EC%8B%AC-%EB%AA%BB-%ED%95%9C%EB%8B%A4%EC%BD%94%EC%8A%A4%ED%94%BC-%EB%B0%98-2026",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.news1.kr/life-culture/general-cultural/6349820",
     "title": "전태일 56주기, 노동·민주주의 잇는 특별전 13일 개막"
+   }
+  ],
+  "2026-11-14": [
+   {
+    "url": "https://www.newspim.com/news/view/20261114000022",
+    "title": "뉴욕증시, 엔비디아 우려에 혼조 마감…나스닥 0.91%↓"
+   },
+   {
+    "url": "https://www.news1.kr/finance/financial-policy/6353228",
+    "title": "李 \"자본시장 개혁 전담기구 만들라\"…M&A 활성화·IR 개선 주문(종합)"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026111308371185689",
+    "title": "정부, 경기 판단 '회복→성장' 격상…\"수출, 투자 증가세 확대\""
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611140814474305",
+    "title": "美 항공 관제 통신장애로 항공대란…전국 이륙 중단 장기화(종합)"
+   },
+   {
+    "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130150",
+    "title": "'근로자 연 최대 20만원'…현금지원 대상 확대 '술렁'"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611131205307826",
+    "title": "아이젠코트, 네타냐후와 2시간 안보 회담…이란 추가 공격 견제"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6353548",
+    "title": "LIG D&A 방산업체 지정취소 검토에…여야, 신중 검토 한목소리"
+   },
+   {
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01367766645645720",
+    "title": "예산·입법 골든타임에 명청 전면전…與, 스스로 국정 동력 갉아먹어[국회기자24시]"
+   },
+   {
+    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083079",
+    "title": "서영교 \"조희대 국조 미뤄진 것…탄핵 논의 다시 할 수밖에\""
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
+    "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대"
+   },
+   {
+    "url": "https://www.boannews.com/news/articleView.html?idxno=147242",
+    "title": "카카오워크 해킹, 업무 정보 줄줄... '종단간 암호화' 무색"
+   },
+   {
+    "url": "https://segye.com/newsView/20261113514381",
+    "title": "TSMC 직원 개인정보 온라인서 판매…해커 \"4만6000건, 2억8000만원\""
+   },
+   {
+    "url": "https://eiga.com/news/20261113/19",
+    "title": "'SPY×FAMILY' TV 애니메이션 4기 & 극장판 제2탄, 27년 방송·개봉 결정"
+   },
+   {
+    "url": "https://www.news1.kr/entertain/movie/6352745",
+    "title": "디즈니·픽사 신작 '가토', 2027년 3월 개봉…마크 러팔로 목소리 출연"
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1174385",
+    "title": "'천천히 강렬하게' 22부작 한꺼번에 안 푼다…송혜교·공유, 3주 금요일마다 공개"
    }
   ]
  }

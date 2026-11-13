@@ -1,0 +1,346 @@
+{
+ "date": "2026-11-14",
+ "weather": {
+  "min": 10,
+  "max": 14,
+  "am_text": "흐리고 비",
+  "am_icon": "rain",
+  "pm_text": "흐리고 비, 저녁부터 차차 그침",
+  "pm_icon": "rain",
+  "humidity": null,
+  "rain": "5~10mm",
+  "pm10": "보통",
+  "pm25": "보통",
+  "ext": {
+   "pop_am": 60,
+   "pop_pm": 60,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,290.53",
+   "pct": -0.98,
+   "closes": [
+    5859.08,
+    5648.79,
+    5683.8,
+    5383.8,
+    5059.69,
+    5018.85,
+    5239.13,
+    5375.36,
+    5342.73,
+    5290.53
+   ],
+   "dates": [
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09",
+    "11.10",
+    "11.11",
+    "11.12",
+    "11.13"
+   ],
+   "ext": {
+    "high": "5,504.44",
+    "low": "5,259.09"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "25,136.27",
+   "pct": -0.91,
+   "closes": [
+    25164.32,
+    25372.01,
+    25736.51,
+    24314.99,
+    24579.42,
+    25253.14,
+    25065.87,
+    25466.19,
+    25366.09,
+    25136.27
+   ],
+   "dates": [
+    "11.02",
+    "11.03",
+    "11.04",
+    "11.05",
+    "11.06",
+    "11.09",
+    "11.10",
+    "11.11",
+    "11.12",
+    "11.13"
+   ],
+   "ext": null
+  },
+  {
+   "name": "원/엔(매매기준율·10/30比)",
+   "value": "834.86",
+   "pct": -1.43,
+   "closes": [
+    838.69,
+    847.07,
+    837.92,
+    846.96,
+    834.86
+   ],
+   "dates": [
+    "10.27",
+    "10.28",
+    "10.29",
+    "10.30",
+    "11.13"
+   ],
+   "ext": null
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "나스닥",
+     "source": "뉴스핌",
+     "time": "11.14 06:47",
+     "title": "뉴욕증시, 엔비디아 우려에 혼조 마감…나스닥 0.91%↓",
+     "url": "https://www.newspim.com/news/view/20261114000022",
+     "summary": "13일(현지시간) 뉴욕증시에서 다우는 0.10% 올랐지만 S&P500은 0.40%, 나스닥은 0.91% 내려 엇갈렸다. CEO 사임 여파로 엔비디아가 2% 떨어지고 필라델피아 반도체지수가 3.43% 급락했다. 10월 생산자물가가 6.5% 오른 것도 부담이 됐다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/11/14/2611140640444420_780_tc.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "자본시장",
+     "source": "뉴스1",
+     "time": "11.13 13:07",
+     "title": "李 \"자본시장 개혁 전담기구 만들라\"…M&A 활성화·IR 개선 주문(종합)",
+     "url": "https://www.news1.kr/finance/financial-policy/6353228",
+     "summary": "대통령이 13일 한국거래소 자본시장 정책 간담회에서 자본시장 개혁을 맡을 고위급 전담기구를 만들라고 지시했다. M&A를 막는 규제 점검과 증안펀드 실효성 검토, 상장사 IR 강화도 주문했고 의무공개매수 비율을 놓고 현장 투표를 제안했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/13/8212368/high.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "경기",
+     "tag2": "그린북",
+     "source": "아시아경제",
+     "time": "11.13 10:04",
+     "title": "정부, 경기 판단 '회복→성장' 격상…\"수출, 투자 증가세 확대\"",
+     "url": "https://view.asiae.co.kr/article/2026111308371185689",
+     "summary": "재정경제부가 11월 그린북에서 경기 판단을 '견조한 경기회복 흐름'에서 '견조한 성장세'로 한 단계 올렸다. 근거로는 10월 수출 93.7% 증가와 설비투자 전월 대비 5.3% 증가를 들었다. 고유가에 따른 물가 압력과 취약계층 고용 악화는 위험 요인으로 꼽았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026111209544296647_1794444883.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "항공",
+     "source": "파이낸셜뉴스",
+     "time": "11.14 08:29",
+     "title": "美 항공 관제 통신장애로 항공대란…전국 이륙 중단 장기화(종합)",
+     "url": "https://www.fnnews.com/news/202611140814474305",
+     "summary": "미 연방항공청이 13일 오후(현지시간) 관제 통신 장애로 전국 공항의 이륙을 전면 중단시켰다. 항로관제센터 22곳이 영향을 받아 지연 1만여 편, 결항 1900여 편이 생겼다. 당국은 사이버공격 증거는 아직 없다며 정확한 원인을 조사하고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/14/202611140651036443_e.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "재정",
+     "source": "한국경제TV",
+     "time": "11.13 17:36",
+     "title": "'근로자 연 최대 20만원'…현금지원 대상 확대 '술렁'",
+     "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130150",
+     "summary": "일본 총리가 13일 국회에서 소득 연동형 지원금 대상을 전체 근로자의 30% 이상에서 50% 이상으로 넓히는 방안을 검토하겠다고 밝혔다. 내년 4월부터 1인당 연 최대 2만5000엔 지급안이 거론된다. 식료품 소비세 인하가 끝난 뒤 민심이 이반할 것에 대비한 조치다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    },
+    {
+     "fixed": true,
+     "tag1": "이스라엘",
+     "tag2": "안보",
+     "source": "파이낸셜뉴스",
+     "time": "11.13 12:05",
+     "title": "아이젠코트, 네타냐후와 2시간 안보 회담…이란 추가 공격 견제",
+     "url": "https://www.fnnews.com/news/202611131205307826",
+     "summary": "이스라엘 총리가 정부 구성권을 받은 야당 대표에게 2시간 넘게 안보·외교 브리핑을 했고, 양측은 필요하면 정보를 계속 공유하기로 했다. 대이란 군사작전 재개를 두고 총리와 군 참모총장이 이견을 보인다는 보도가 나온 가운데 열린 회담이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/13/202611131205274371_e.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "방산",
+     "source": "뉴스1",
+     "time": "11.13 16:11",
+     "title": "LIG D&A 방산업체 지정취소 검토에…여야, 신중 검토 한목소리",
+     "url": "https://www.news1.kr/politics/assembly/6353548",
+     "summary": "방위사업청이 뇌물·원가 부정 의혹으로 LIG D&A에 2년 입찰 제한을 내린 데 이어 산업통상부에 방산업체 지정 취소를 요청했다. 13일 국회 산자위에서 여야는 방산 경쟁력을 고려한 신중한 검토를 주문했고, 장관은 공정성과 방산 특수성을 함께 따져 결정하겠다고 답했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/13/8212658/high.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정당",
+     "tag2": "민주당",
+     "source": "이데일리",
+     "time": "11.14 06:00",
+     "title": "예산·입법 골든타임에 명청 전면전…與, 스스로 국정 동력 갉아먹어[국회기자24시]",
+     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01367766645645720",
+     "summary": "더불어민주당 친청계 최고위원 3명이 13일 최고위원회의에 불참하고 당대표를 겨냥한 회견을 열면서 당내 갈등이 겉으로 드러났다. 예산안 법정 처리 시한(12월 2일)과 정기국회 종료(12월 9일)를 앞두고 법안 처리가 늦어지고 있어 국정 동력이 약해질 수 있다는 우려가 나온다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26111400100.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "국회",
+     "tag2": "사법부",
+     "source": "신아일보",
+     "time": "11.13 12:05",
+     "title": "서영교 \"조희대 국조 미뤄진 것…탄핵 논의 다시 할 수밖에\"",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083079",
+     "summary": "국회 법제사법위원장이 13일 라디오에서 조희대 대법원장 국정조사는 무산된 것이 아니라 미뤄진 것이라며 탄핵 논의를 다시 할 수밖에 없다고 말했다. 내란 사건 배당 의혹 등을 근거로 들었고, 법무부 장관 후보자 청문회는 다음 주쯤 열릴 것으로 내다봤다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.shinailbo.co.kr/news/photo/202611/5083079_2080569_2136.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "11.13 18:03",
+     "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
+     "summary": "앤트로픽이 12일(현지시간) 제조업용 플러그인 '클로드 포 매뉴팩처링'을 출시했다. 스킬 17개와 오토데스크 퓨전·인포·MS 365·오라클 넷스위트 연동을 갖춰 견적 작성, 불량 원인 분석, 설비 고장 진단을 돕는다. 팀·엔터프라이즈 요금제에서 쓸 수 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/217361_221598_2053.png"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "보안뉴스",
+     "time": "11.13 10:36",
+     "title": "카카오워크 해킹, 업무 정보 줄줄... '종단간 암호화' 무색",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147242",
+     "summary": "카카오엔터프라이즈의 협업툴 카카오워크가 9일 해킹을 당해 일부 이용자의 이름·연락처·이메일 본문·첨부파일과 암호화된 메시지 등이 유출됐다. 서비스 인프라를 맡은 계열사 디케이테크인이 공격을 받았다. 종단간 암호화를 강조해 온 서비스라 홍보 내용과 실제 보안의 차이가 지적되며, 회사는 경위를 조사하고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.boannews.com/news/photo/202611/147242_130002_205.png"
+    },
+    {
+     "fixed": false,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "세계일보",
+     "time": "11.13 20:20",
+     "title": "TSMC 직원 개인정보 온라인서 판매…해커 \"4만6000건, 2억8000만원\"",
+     "url": "https://segye.com/newsView/20261113514381",
+     "summary": "한 해커가 TSMC 전·현직 직원 개인정보 약 4만6000건을 갖고 있다며 해킹 포럼에 3비트코인(약 2억8000만원) 판매 글을 올렸다. TSMC는 일부 정보가 무단 게시된 사실은 인정했지만, 자사 시스템에 침입한 흔적은 없고 외부 클라우드 업체가 보관하던 자료라고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.segye.com/content/image/2026/11/13/20261113514408.jpg"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "애니",
+     "tag2": "방영 확정",
+     "source": "영화.com",
+     "time": "11.13 14:00",
+     "title": "'SPY×FAMILY' TV 애니메이션 4기 & 극장판 제2탄, 27년 방송·개봉 결정",
+     "url": "https://eiga.com/news/20261113/19",
+     "summary": "인기 애니 'SPY×FAMILY'의 TV 시리즈 4기와 극장판 두 번째 작품이 모두 2027년에 나온다. 11월 8일 특별 이벤트에서 발표됐고, 캐릭터 디자이너 가도와키 사토시가 새로 그린 4기 티저 비주얼도 함께 공개됐다. 세부 일정은 미정이다.",
+     "age": null,
+     "orig": "「SPY×FAMILY」TVアニメ第4期＆劇場版第2弾、27年に放送＆公開決定",
+     "deadline": null,
+     "thumb": "https://media.eiga.com/images/buzz/130521/0f5b1b15c7b9ef36.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "영화",
+     "tag2": "개봉 확정",
+     "source": "뉴스1",
+     "time": "11.13 09:24",
+     "title": "디즈니·픽사 신작 '가토', 2027년 3월 개봉…마크 러팔로 목소리 출연",
+     "url": "https://www.news1.kr/entertain/movie/6352745",
+     "summary": "디즈니·픽사 신작 애니메이션 '가토'가 2027년 3월 국내 개봉을 확정했다. '루카'의 엔리코 카사로사 감독 작품으로, 베니스를 배경으로 아홉 개의 목숨을 가진 검은 고양이 네로의 모험을 그린다. 마크 러팔로와 로렌스 피시번이 목소리를 맡았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/13/8212183/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "드라마",
+     "tag2": "공개",
+     "source": "위키트리",
+     "time": "11.13 14:48",
+     "title": "'천천히 강렬하게' 22부작 한꺼번에 안 푼다…송혜교·공유, 3주 금요일마다 공개",
+     "url": "https://www.wikitree.co.kr/articles/1174385",
+     "summary": "노희경 작가와 이윤정 감독의 넷플릭스 시리즈 '천천히 강렬하게'가 22부작을 세 파트로 나눠 공개한다. 12월 11일 1~8화를 시작으로 18일과 25일 금요일에 이어진다. 송혜교·공유가 주연을 맡았고 1960~80년대 연예계와 음반 산업이 배경이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdnweb01.wikitree.co.kr/webdata/editor/202611/13/img_20261113142756_4cbd913f.jpeg"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "46주차 · 44회차 브리핑"
+}
