@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-13": [
-   {
-    "url": "https://view.asiae.co.kr/article/2026111305592985181",
-    "title": "[뉴욕증시]젠슨 황 사임·종전 불투명…일제히 하락 마감"
-   },
-   {
-    "url": "https://www.etnews.com/20261112000077",
-    "title": "당정, 금융지주 CEO 연임 문턱 높인다…임원추천위 전원 독립이사로"
-   },
-   {
-    "url": "https://www.dt.co.kr/article/12094483",
-    "title": "집 사느라 빚내고 주식 사느라 또 빚내고…은행권 가계대출 1200조원 첫 돌파"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611130828001/",
-    "title": "트럼프 \"이란과 합의 필요 없다···밴스, 다른 임무 집중해야\""
-   },
-   {
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842529",
-    "title": "경쟁자 입장 내자 다카이치 '반색'…5년 집권 가시화하나"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261113000004",
-    "title": "젤렌스키 \"평화협상에 EU가 적극 참여해 달라\"… 유럽은 '언제, 누가' 놓고 갑론을박"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261112000986",
-    "title": "합참 \"현재 위협 대응에 머물면 안 돼\"… AI·우주·전자기로 미래 합동작전 설계"
-   },
-   {
-    "url": "https://www.hankyung.com/article/2026111236051",
-    "title": "특활비 놓고 공수 뒤바뀐 여야…민주 \"꼭 필요\" 국힘 \"전액삭감\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611120952288003",
-    "title": "李대통령, 16~19일 아세안·APEC 순방…靑 \"북미 접촉 가능성 적다\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217329",
-    "title": "앤트로픽 '미소스', 미국 전력망 보안에 활용…듀크에너지 등 도입 시험"
-   },
-   {
-    "url": "https://ddaily.co.kr/page/view/2026111217320095988",
-    "title": "금융위, 해킹에 뚫린 금융보안원 다음주 감사 착수"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217307",
-    "title": "구글, 판단 전용 AI '제미나이 디시전 1' 출시...질문 1000개 동시 처리"
-   },
-   {
-    "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100684",
-    "title": "[오피셜] 맨유가 결국 버렸다...'10경기 1승' 레전드 캐릭 감독 경질→훈련장 떠난 지 30분 만에 공식 발표"
-   },
-   {
-    "url": "https://www.news1.kr/life-culture/performance-exhibition/6347133",
-    "title": "\"이탈리아 정물화 거장의 걸작 만나다\"…'조르조 모란디' 展"
-   },
-   {
-    "url": "https://www.news1.kr/life-culture/general-cultural/6349820",
-    "title": "전태일 56주기, 노동·민주주의 잇는 특별전 13일 개막"
-   }
-  ],
   "2026-11-14": [
    {
     "url": "https://www.newspim.com/news/view/20261114000022",
@@ -433,6 +371,68 @@
    {
     "url": "https://linkareer.com/activity/353820",
     "title": "CREPET AWARDS 2026 반려용품 디자인 공모전"
+   }
+  ],
+  "2026-11-20": [
+   {
+    "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500007",
+    "title": "[서울데이터랩]미 뉴욕증시 급락 마감…다우 2.19%·나스닥 2.25% 하락"
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2650141",
+    "title": "정부, 최저주거기준 15년 만에 손질⋯보편형 공공임대 도입 추진"
+   },
+   {
+    "url": "https://seoul.co.kr/news/economy/2026/11/19/20261119500342",
+    "title": "오징어 팔던 나라, 韓 78년 만에 ‘수출 1조 달러’ 금자탑"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611192124311948",
+    "title": "미·중·러 정상 공동성명… \"핵확산 방지·석유공급 확대\" [미중러 첫 3자회담]"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611200332121885e7e8286d56_1",
+    "title": "日 다카이치, APEC서 \"중국은 중요한 이웃\"…푸틴과는 30분 회담 소통 강조"
+   },
+   {
+    "url": "https://fnnews.com/news/202611200632171628",
+    "title": "유럽 정상들, '얄타 2.0' 수용 거부"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026111910280295602",
+    "title": "함정·기지 이어 해군대학 방문…北김정은 \"강력한 해군건설, 제1 전략적 임무\""
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6360148",
+    "title": "대법 한덕수 파기환송에 與 \"기회주의자 변명\" 野 \"사법정의 살아있다\"(종합)"
+   },
+   {
+    "url": "https://m.sedaily.com/article/20116607",
+    "title": "與 민주유공자법 강행에 野 필버…주택공급 3법은 또 뒷전으로"
+   },
+   {
+    "url": "https://www.hankyung.com/article/2026112088476",
+    "title": "143조 모은 앤트로픽, 상장 첫날 주가 '롤러코스터'…공모가보다 17% 올라"
+   },
+   {
+    "url": "https://www.boannews.com/news/articleView.html?idxno=147382",
+    "title": "[더존비즈온 사태] 11월19일 현황... 한국전자인증 등 4곳 추가 발견"
+   },
+   {
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716670",
+    "title": "코딩 성능 세계 1위?…구글, 신형 AI '제미나이 4 네온' 공개"
+   },
+   {
+    "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101021",
+    "title": "'리버풀? 이긴다는 생각으로 안필드 간다!'…포체티노, 맨유 데뷔전 앞두고 자신감 폭발! \"경기의 주인공이 돼야 한다\""
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/life/exhibition/2026/11/19/20261119016002",
+    "title": "동화 같은 캔버스 너머, ‘처절한 현실’ 빚은 샤갈"
+   },
+   {
+    "url": "https://www.gamemeca.com/view.php?gid=1783542",
+    "title": "[AGF 26] 공식 굿즈와 부스 배치도 공개, 16일 방송 실시"
    }
   ]
  }
