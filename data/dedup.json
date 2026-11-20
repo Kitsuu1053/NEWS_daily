@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-14": [
-   {
-    "url": "https://www.newspim.com/news/view/20261114000022",
-    "title": "뉴욕증시, 엔비디아 우려에 혼조 마감…나스닥 0.91%↓"
-   },
-   {
-    "url": "https://www.news1.kr/finance/financial-policy/6353228",
-    "title": "李 \"자본시장 개혁 전담기구 만들라\"…M&A 활성화·IR 개선 주문(종합)"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026111308371185689",
-    "title": "정부, 경기 판단 '회복→성장' 격상…\"수출, 투자 증가세 확대\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611140814474305",
-    "title": "美 항공 관제 통신장애로 항공대란…전국 이륙 중단 장기화(종합)"
-   },
-   {
-    "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130150",
-    "title": "'근로자 연 최대 20만원'…현금지원 대상 확대 '술렁'"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611131205307826",
-    "title": "아이젠코트, 네타냐후와 2시간 안보 회담…이란 추가 공격 견제"
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6353548",
-    "title": "LIG D&A 방산업체 지정취소 검토에…여야, 신중 검토 한목소리"
-   },
-   {
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01367766645645720",
-    "title": "예산·입법 골든타임에 명청 전면전…與, 스스로 국정 동력 갉아먹어[국회기자24시]"
-   },
-   {
-    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083079",
-    "title": "서영교 \"조희대 국조 미뤄진 것…탄핵 논의 다시 할 수밖에\""
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
-    "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대"
-   },
-   {
-    "url": "https://www.boannews.com/news/articleView.html?idxno=147242",
-    "title": "카카오워크 해킹, 업무 정보 줄줄... '종단간 암호화' 무색"
-   },
-   {
-    "url": "https://segye.com/newsView/20261113514381",
-    "title": "TSMC 직원 개인정보 온라인서 판매…해커 \"4만6000건, 2억8000만원\""
-   },
-   {
-    "url": "https://eiga.com/news/20261113/19",
-    "title": "'SPY×FAMILY' TV 애니메이션 4기 & 극장판 제2탄, 27년 방송·개봉 결정"
-   },
-   {
-    "url": "https://www.news1.kr/entertain/movie/6352745",
-    "title": "디즈니·픽사 신작 '가토', 2027년 3월 개봉…마크 러팔로 목소리 출연"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1174385",
-    "title": "'천천히 강렬하게' 22부작 한꺼번에 안 푼다…송혜교·공유, 3주 금요일마다 공개"
-   }
-  ],
   "2026-11-15": [
    {
     "url": "https://www.newsis.com/view/NISX20261113_0003867514",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.gamemeca.com/view.php?gid=1783542",
     "title": "[AGF 26] 공식 굿즈와 부스 배치도 공개, 16일 방송 실시"
+   }
+  ],
+  "2026-11-21": [
+   {
+    "url": "https://www.etoday.co.kr/news/view/2651148",
+    "title": "뉴욕증시 다우·S&P500 조정장 진입…나스닥, AI주 투매에 올해 상승분 반납[종합]"
+   },
+   {
+    "url": "https://www.sedaily.com/article/20117066",
+    "title": "내년 공시가 현실화율 69%…5년째 동결"
+   },
+   {
+    "url": "https://www.dailian.co.kr/news/view/1717637/10%EC%9B%94-%EC%83%9D%EC%82%B0%EC%9E%90%EB%AC%BC%EA%B0%80-%EC%84%9D-%EB%8B%AC-%EB%A7%8C%EC%97%90-%ED%95%98%EB%9D%BD%EA%B3%B5-2026",
+    "title": "10월 생산자물가 석 달 만에 하락…공산품은 되레 올라"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611210309557646",
+    "title": "트럼프 \"美 기업 해외 데이터센터 금지 추진…어기면 세금 폭탄\""
+   },
+   {
+    "url": "https://www.news1.kr/world/northeast-asia/6361447",
+    "title": "日, 핵추진 잠수함 도입·핵무기 예외 반입 추진…안보문서 초안 반영"
+   },
+   {
+    "url": "https://news1.kr/world/middleeast-africa/6361469",
+    "title": "호르무즈 케슘섬 미사일 피격 보도…오만 앞바다 유조선도 폭발·화재"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261120001228",
+    "title": "진성준 국방위원장, '국군사관학교법' 대표발의… 2028년 시행, 2029년 '1기' 입학"
+   },
+   {
+    "url": "https://www.dailian.co.kr/news/view/1717814/%ED%95%9C%EB%8F%99%ED%9B%88-%EA%B8%B4%EA%B8%89-%EB%B0%B1%EB%B8%94%EA%B3%84%EC%97%84-%EB%82%B4%EB%9E%80-%ED%99%95%EC%A0%95%ED%95%9C-%EC%B5%9C-2026",
+    "title": "한동훈 긴급 백블…\"'계엄은 내란' 확정한 최초 판결에도 與 조희대 탄핵 납득 안돼\""
+   },
+   {
+    "url": "https://www.hankyung.com/article/202611209619i",
+    "title": "'빛의위원회 예산 78억' 놓고 여야 충돌…예산소위 한때 파행"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217604",
+    "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026112008442479237",
+    "title": "美 AI 반도체 수출규제 강화…삼성전자·TSMC, 中 고객사 칩 공급 중단"
+   },
+   {
+    "url": "https://fnnews.com/news/202611202135010179",
+    "title": "컬리서 1만여명 개인정보 유출…최대 15만원 적립금 보상키로(종합2보)"
+   },
+   {
+    "url": "https://animeanime.jp/article/2026/11/20/104963.html",
+    "title": "'고향의 괴롭힘꾼들에게 복수하려 했더니, 다른 싸움이 시작됐다.' 2027년 TV 애니메이션화 결정! 착각 배틀 러브코미디가 개막"
+   },
+   {
+    "url": "https://www.starnewskorea.com/movie/2026/11/20/2026112017510393876",
+    "title": "브래드 피트·타란티노·핀처의 만남 '클리프 부스...'공개, 평론가들 '엄지척'"
+   },
+   {
+    "url": "https://www.starnewskorea.com/movie/2026/11/20/2026112015023639219",
+    "title": "'D.P.' 한준희 감독 신작..손석구X나가야마 에이타 '푸른길' 오늘(20일) 공개"
    }
   ]
  }
