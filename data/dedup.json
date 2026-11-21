@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-15": [
-   {
-    "url": "https://www.newsis.com/view/NISX20261113_0003867514",
-    "title": "'젠슨 황 사태' 속 엔비디아 실적 발표 주목…밸류에이션 정상화 지속[주간증시전망]"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261114000003",
-    "title": "김정관, 체코원전 공백 최소화 나섰다…2029년 착공 '총력'"
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/economy/2026/11/11/20261111500147",
-    "title": "공정위, '국고채 담합' 15개 증권·은행사에 1조 6000억원대 과징금… 역대 최대"
-   },
-   {
-    "url": "https://www.news1.kr/world/usa-canada/6353958",
-    "title": "백악관 \"트럼프, 시진핑·푸틴과 내주 중국서 회동\"…핵군축·이란 문제 논의"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611142220248936",
-    "title": "日, 방위비 증액폭 '70조→60조엔' 억제 검토…\"증세 반발·소비세 감세 역행 우려\""
-   },
-   {
-    "url": "https://biz.sbs.co.kr/article/20000346428",
-    "title": "EU \"우크라 종전협상에 독일 등 5개국·EU가 유럽 대표로 참여\""
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611142203001/",
-    "title": "김정은 최측근 조용원, 러시아 방문···“북·러 관계 강화 예상”"
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6354001",
-    "title": "미래대응기금 공방…與 \"뒤로는 증액 요구\" 野 \"기막힌 재정 농간\""
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6354106",
-    "title": "예산 정국 덮친 여야 대치…'특검법·한덕수·청문회' 줄줄이 뇌관"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217360",
-    "title": "구글 \"검색 역대 최대 AI 모델 업그레이드\"…최신 '하이드로젠' 적용"
-   },
-   {
-    "url": "https://www.boannews.com/news/articleView.html?idxno=147267",
-    "title": "노란우산 정보 유출 정황... 주소·연락처 등"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
-    "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시"
-   },
-   {
-    "url": "https://www.wikitree.co.kr/articles/1173878",
-    "title": "국내 대형 게임사 다수 빠진 지스타 2026, 캡콤·호요버스 등 글로벌 개발사가 채운다"
-   },
-   {
-    "url": "https://www.gamemeca.com/view.php?gid=1783277",
-    "title": "200연차·학생 선택권도, 블루 아카이브 5주년 이벤트 연다"
-   },
-   {
-    "url": "https://www.invenglobal.com/articles/28315/bm-overhaul-and-maplestory-collab-teased-blue-archive-5th-anniversary-live",
-    "title": "BM 개편·메이플스토리 콜라보 예고, 블루 아카이브 5주년 라이브"
-   }
-  ],
   "2026-11-16": [
    {
     "url": "https://nocutnews.co.kr/news/6606974",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.starnewskorea.com/movie/2026/11/20/2026112015023639219",
     "title": "'D.P.' 한준희 감독 신작..손석구X나가야마 에이타 '푸른길' 오늘(20일) 공개"
+   }
+  ],
+  "2026-11-22": [
+   {
+    "url": "https://www.news1.kr/finance/general-stock/6361255",
+    "title": "1월로 돌아간 코스피, 반등 안갯속…美 물가·금통위 주목"
+   },
+   {
+    "url": "https://biz.heraldcorp.com/article/10944655",
+    "title": "李 대통령, 울산 SK AI 데이터센터 방문…“반도체·데이터센터 건설 인력 부족 대책 마련”"
+   },
+   {
+    "url": "https://biz.heraldcorp.com/article/10944619",
+    "title": "한은, 다음주 금리 3.25%로 올리나…내년 성장률 전망치도 주목"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611220635425782bd56fbc3c_1",
+    "title": "중국 지분 20% 족쇄 풀리나…미 의회, 벤츠 예외 조항 논의"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261122030237613020990b2dc5_1",
+    "title": "일본 자위대, 2027년 인도서 첫 미사일 실사격… 함정 공동 건조 모색"
+   },
+   {
+    "url": "https://www.hankookilbo.com/news/article/A2026112110530001045",
+    "title": "러 정보기관, 조직 동원해 美·우크라 이중 국적 래퍼 암살 시도"
+   },
+   {
+    "url": "https://www.news1.kr/nk/politics-diplomacy/6361580",
+    "title": "김정은, 북미 대화 대신 교육 현장 방문…'내치' 집중 행보 [데일리 북한]"
+   },
+   {
+    "url": "https://www.dt.co.kr/article/12096438",
+    "title": "대구서 특검 폐지 외친 국힘, 내일 헌재로…이용철 청문회선 공소취소 쟁점"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202611190600021/",
+    "title": "“김민석 당도 정청래 당도 아냐” “통 크게 만나야”···집안싸움 격화에 여당 중진들 잇단 쓴소리"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6361593",
+    "title": "앤트로픽 연구원 \"AI 클로드와 '167년 난제' 리만 가설 증명\" 주장"
+   },
+   {
+    "url": "https://www.news1.kr/world/usa-canada/6361688",
+    "title": "손정의, SK하이닉스 1조달러 인수 구상…AI주 폭락 속 실현 가능할까(종합)"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026112117530323929",
+    "title": "2968억 ‘AI 사이버 쉴드돔’ 첫발 뗀다…\"AI로 국가 해킹 탐지·대응 맡는 K-방어막 개발\""
+   },
+   {
+    "url": "https://www.wikitree.co.kr/articles/1175920",
+    "title": "13년 만에 돌아온 GTA6 초대박…판매량·매출 '상상초월'"
+   },
+   {
+    "url": "https://www.invenglobal.com/articles/28803/maplestory-launches-blue-archive-collaboration",
+    "title": "메이플스토리, 블루 아카이브 컬래버레이션 시작"
+   },
+   {
+    "url": "https://dengekionline.com/article/202611/94390",
+    "title": "『블루아카』 미카의 신작 피규어는 메모리얼 로비의 수영복 차림을 재현"
    }
   ]
  }
