@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-16": [
-   {
-    "url": "https://nocutnews.co.kr/news/6606974",
-    "title": "반등 노린 '빚투'인가…마통 잔액 4년 3개월 만에 최대"
-   },
-   {
-    "url": "https://www.etoday.co.kr/news/view/2648336",
-    "title": "이형일 부총리, 경제현안간담회 개최⋯물가 안정 방안 논의"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261116000021",
-    "title": "베선트 美 재무장관, 연준에 \"추가 긴축 자제\"…12월 인상론에 견제구"
-   },
-   {
-    "url": "https://www.newsis.com/view/NISX20261115_0003868807",
-    "title": "젠슨 황 스캔들 후폭풍…美 의회, 中 AI 반도체 수출 규제 속도"
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261116000136",
-    "title": "미중러 정상회동 앞두고 다카이치 '일본 패싱' 막기 총력"
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611152047005/",
-    "title": "젤렌스키 \"미, 나토 가입·돈바스 영토 '맞교환' 첫 제안\""
-   },
-   {
-    "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6353593",
-    "title": "\"北, 이미 드론 대량 생산 체계 진입…우리도 '대드론 장벽' 구축해야\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611160501104606",
-    "title": "이 대통령, 아세안·APEC 정상회의 참석차 오늘 출국…미중러 정상회담 속 한중 정상회담 주목"
-   },
-   {
-    "url": "https://www.segye.com/newsView/20261115509049",
-    "title": "조작징계·韓 복당 '내홍'… 국힘 중진들, 지도부에 '통합' 압박"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217289",
-    "title": "TSMC, 자체 칩 개발 나선 오픈AI·앤트로픽에 최대 1.3조원 투자"
-   },
-   {
-    "url": "https://zdnet.co.kr/view/?no=20261115004601",
-    "title": "AI 반도체 호황에 ICT 수출 증가율 첫 200% 돌파"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611150630371581",
-    "title": "글로벌 AI 규제 변수 속 韓 통신 3사 'AIDC 속도전'[AI 간판 단 통신사②]"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611090912283322",
-    "title": "제네시스 마그마 레이싱, WEC 데뷔 시즌 마무리…시즌 최고 7위"
-   },
-   {
-    "url": "https://www.hankyung.com/article/202611123213g",
-    "title": "\"지금 사도 8개월 걸려\"…불티나게 팔린 '가성비 車' 정체 [최수진의 모빌리티톡]"
-   },
-   {
-    "url": "https://www.news1.kr/local/daejeon-chungnam/6350095",
-    "title": "한국연구재단, 창립 50주년 기념 엠블럼 디자인 공모전 개최"
-   }
-  ],
   "2026-11-17": [
    {
     "url": "https://www.dailian.co.kr/news/view/1715816/%EC%A0%A0%EC%8A%A8-%ED%99%A9-%EC%82%AC%EC%9E%84-%ED%9B%84%ED%8F%AD%ED%92%8D-%E7%BE%8E%EC%A6%9D%EC%8B%9C-%ED%9C%98%EC%B2%AD%EB%82%98%EC%8A%A4-2026",
@@ -433,6 +371,68 @@
    {
     "url": "https://dengekionline.com/article/202611/94390",
     "title": "『블루아카』 미카의 신작 피규어는 메모리얼 로비의 수영복 차림을 재현"
+   }
+  ],
+  "2026-11-23": [
+   {
+    "url": "https://hankyung.com/article/2026112329446",
+    "title": "\"코스피 4300 아래로 밀릴 수 있다\"…AI 수익성 시험대"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202611221821001/",
+    "title": "[속보]‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수"
+   },
+   {
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01344806645648344",
+    "title": "12월 제조업 경기 4개월 만에 악화 전망…철강·가전 '급락'"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261123500357",
+    "title": "트럼프 레임덕 현실화되나…공화당發 국방부 고위직 인준 제동"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261122508784",
+    "title": "‘정치자금’ 논란 日 문부상 경질론 확산"
+   },
+   {
+    "url": "https://www.seoul.co.kr/news/international/2026/11/23/20261123014007",
+    "title": "기울어져 가는 러우 종전 협상… 이란전쟁은 폭풍전야"
+   },
+   {
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008544",
+    "title": "WSJ “김정은, 트럼프 전화·친서 외면”…핵탄두 60기·영변 증축으로 협상력 강화"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611230502101249",
+    "title": "열흘 앞으로 다가온 예산 처리 기한…與野 162조 미래대응기금 등 충돌"
+   },
+   {
+    "url": "https://www.segye.com/newsView/20261122507879",
+    "title": "與 “‘백골단 기자회견’ 김민전이 연수원장, ‘내란 미수’ 감형하자는 우재준”"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+    "title": "오픈AI \"AI가 연구 작업 절반 스스로 완료\"…7개월 만에 성공률 2배"
+   },
+   {
+    "url": "https://fnnews.com/news/202611221923247138",
+    "title": "한전 해킹… 주민번호·계좌·카드번호 등 152만명 정보 유출"
+   },
+   {
+    "url": "https://zdnet.co.kr/view/?no=20261123080718",
+    "title": "심의 받으면 개인정보 'AI 학습' 가능…특례안 입법예고"
+   },
+   {
+    "url": "https://www.etoday.co.kr/news/view/2650795",
+    "title": "제네시스, LA오토쇼서 'G80 하이브리드' 첫 공개…연비 34% 개선"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112307304224572bd56fbc3c_1",
+    "title": "BMW iX3 주문 10만 대 돌파…독일 3사, 샤오미 공세 맞서 신차 총력전"
+   },
+   {
+    "url": "https://linkareer.com/activity/348164",
+    "title": "2026 국제사이버디자인 트렌드공모전"
    }
   ]
  }
