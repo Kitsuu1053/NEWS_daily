@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-18": [
-   {
-    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010006778",
-    "title": "[굿모닝 美 증시] 엔비디아 매출 ‘1158억 달러’…뉴욕증시 3대 지수는 하락"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611171845105667",
-    "title": "\"금감원 검사 때 추가 자료 요구, 금융위 승인 받아야\""
-   },
-   {
-    "url": "https://www.hankyung.com/article/2026111718967",
-    "title": "IMF, 한국 성장률 3.9%로 상향…\"물가 압력엔 추가 긴축 필요\""
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611180240508450",
-    "title": "트럼프 \"이란 '더티밤' 계획, 심각하게 받아들여\""
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/international/2026/11/18/20261118500007",
-    "title": "“잘나가던 일본, 켄차나?”…엔화 추락에 경제까지 휘청 [월드픽]"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026111719062999980",
-    "title": "이란 혁수대 \"호르무즈서 美지원 유조선 등 2척 폭발\""
-   },
-   {
-    "url": "https://www.newspim.com/news/view/20261117001203",
-    "title": "강신철 국방장관 \"미래전 승패는 합동역량… 양성·보수교육 함께 바꿔야\""
-   },
-   {
-    "url": "https://www.khan.co.kr/article/202611172112025/",
-    "title": "반년 만에 만난 한·일 정상…‘셔틀외교’ 공고화에 뜻 모아"
-   },
-   {
-    "url": "https://www.hankookilbo.com/news/article/A2026111715030002810",
-    "title": "이 대통령 순방 중 '조작기소 특검법' 국무회의 의결… 정국 경색 불가피"
-   },
-   {
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
-    "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하"
-   },
-   {
-    "url": "https://m.sedaily.com/article/20115635",
-    "title": "AI 안경이 산업기밀 훔칠라…삼성·SK·현대차·LG ‘철통 보안’"
-   },
-   {
-    "url": "https://thenextweb.com/news/anthropic-linked-billing-claude-api-customers-pay",
-    "title": "앤트로픽, 앱이 클로드 비용을 고객에게 청구하도록 허용"
-   },
-   {
-    "url": "https://animeanime.jp/article/2026/11/17/104835.html",
-    "title": "'다이아몬드의 공죄' TV 애니메이션화 결정! 제작은 라판트랙, 감독은 '정반대인 너와 나'의 나가토모 다카카즈"
-   },
-   {
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16278975",
-    "title": "'실연당한 사람들을 위한 일곱 시 조찬모임', 메인 예고편 공개…수지X이진욱 재회"
-   },
-   {
-    "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111711007254211",
-    "title": "'굿파트너2' 장나라 \"김혜윤은 토끼, 박해진은 귀요미\""
-   }
-  ],
   "2026-11-19": [
    {
     "url": "https://www.dailian.co.kr/news/view/1716920/%E7%BE%8E%EC%A6%9D%EC%8B%9C-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%ED%98%B8%EC%8B%A4%EC%A0%81%EC%97%90%EB%8F%84-%ED%98%BC%EC%A1%B0%EA%B8%88%EB%A6%AC-2026",
@@ -433,6 +371,68 @@
    {
     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760308",
     "title": "'치이카와 클리닉' 팝업 1차 사전예약 하루 연기된 이유"
+   }
+  ],
+  "2026-11-25": [
+   {
+    "url": "https://www.fnnews.com/news/202611250626366579",
+    "title": "[뉴욕증시] 엔비디아 약세 속 기술주 후퇴…앤스로픽, 공모가 붕괴"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611241104054000",
+    "title": "내년 韓경제, 모두의 성장 구현한다…국민 삶의 질 지표도 개발"
+   },
+   {
+    "url": "https://www.newspim.com/news/view/20261124001269",
+    "title": "11월 기업 체감경기 한 달 만에 하락…수출기업·내수기업 희비"
+   },
+   {
+    "url": "https://www.newsis.com/view/NISX20261124_0003881830",
+    "title": "美 USTR, 빠르면 이번주 中·EU·14개국 ‘과잉생산 관세’ 조사 발표"
+   },
+   {
+    "url": "https://www.news1.kr/world/northeast-asia/6364813",
+    "title": "日총리, 美제재 받는 ICC 공개 지지…\"내년 분담금도 앞당겨 낸다\""
+   },
+   {
+    "url": "https://www.news1.kr/world/europe/6364880",
+    "title": "젤렌스키 \"美, 내년 1월 이전 우크라 종전 합의 위해 협상 서둘러\""
+   },
+   {
+    "url": "https://news1.kr/diplomacy/defense-diplomacy/6363991",
+    "title": "국방부 \"러 군용기 KADIZ 진입 무관 초치 항의 계획\""
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6364665",
+    "title": "장동혁 '조작징계' 의혹 작심 반박…한동훈 \"배후 조종 자인\"(종합)"
+   },
+   {
+    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287906&PAGE_CD=N0002&CMPT_CD=M0112",
+    "title": "12월 3일, '국민주권의 날'로 지정됐다"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026112506040732097",
+    "title": "패치 나올 때까지 AI가 방패…오픈AI·시스코, 오픈소스 '시루도' 공개"
+   },
+   {
+    "url": "https://www.etnews.com/20261124000060",
+    "title": "삼성전자 임원 131명 승진…역대 최대 실적에도 30명 줄이고 반도체 집중"
+   },
+   {
+    "url": "https://www.ddaily.co.kr/page/view/2026112418085132281",
+    "title": "정부, AI기본법 제도개선·규제유예 방향 논의…25일 비공개 간담회"
+   },
+   {
+    "url": "https://mantan-web.jp/article/20261124dog00m200104000a.html",
+    "title": "마법사의 밤: 극장판 애니메이션 속편 제작 결정"
+   },
+   {
+    "url": "https://www.starnewskorea.com/movie/2026/11/24/2026112415080699072",
+    "title": "\"때가 왔다\"..막 오른 '어벤져스: 둠스데이', 사상 최대 결전 예고"
+   },
+   {
+    "url": "https://isplus.com/article/view/isp202611240069",
+    "title": "‘신의 구슬’ 안보현·이성민·하윤경, 고려 희망 찾아 목숨건 여정"
    }
   ]
  }

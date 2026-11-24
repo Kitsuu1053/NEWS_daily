@@ -1,0 +1,355 @@
+{
+ "date": "2026-11-25",
+ "weather": {
+  "min": -4,
+  "max": 7,
+  "am_text": "구름 많음",
+  "am_icon": "sun_cloud",
+  "pm_text": "구름 많음",
+  "pm_icon": "sun_cloud",
+  "rain": "없음",
+  "humidity": null,
+  "pm10": "좋음",
+  "pm25": "좋음",
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "5,006.03",
+   "pct": 6.32,
+   "closes": [
+    5375.36,
+    5342.73,
+    5290.53,
+    5100.5,
+    4968.48,
+    5067.44,
+    5137.89,
+    4869.96,
+    4708.54,
+    5006.03
+   ],
+   "dates": [
+    "11.11",
+    "11.12",
+    "11.13",
+    "11.16",
+    "11.17",
+    "11.18",
+    "11.19",
+    "11.20",
+    "11.23",
+    "11.24"
+   ],
+   "ext": {
+    "high": "5,065.74"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "23,733.54",
+   "pct": -1.48,
+   "closes": [
+    25466.19,
+    25366.09,
+    25136.27,
+    24509.76,
+    24328.38,
+    24429.89,
+    23879.2,
+    22617.73,
+    24089.56,
+    23733.54
+   ],
+   "dates": [
+    "11.11",
+    "11.12",
+    "11.13",
+    "11.16",
+    "11.17",
+    "11.18",
+    "11.19",
+    "11.20",
+    "11.23",
+    "11.24"
+   ],
+   "ext": null
+  },
+  {
+   "name": "원/달러",
+   "value": "1,342.4",
+   "pct": -0.26,
+   "closes": [
+    1333.6,
+    1330.7,
+    1336.7,
+    1335.7,
+    1338.2,
+    1333.0,
+    1330.0,
+    1336.2,
+    1345.9,
+    1342.4
+   ],
+   "dates": [
+    "11.11",
+    "11.12",
+    "11.13",
+    "11.16",
+    "11.17",
+    "11.18",
+    "11.19",
+    "11.20",
+    "11.23",
+    "11.24"
+   ],
+   "ext": null
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "나스닥",
+     "source": "파이낸셜뉴스",
+     "time": "11.25 06:29",
+     "title": "[뉴욕증시] 엔비디아 약세 속 기술주 후퇴…앤스로픽, 공모가 붕괴",
+     "url": "https://www.fnnews.com/news/202611250626366579",
+     "summary": "24일(현지시간) 뉴욕증시에서 나스닥이 1.48% 내린 23,733.54, S&P500은 0.50% 하락했고 다우는 0.85% 올라 혼조로 마감했다. 전날 30% 넘게 뛴 엔비디아는 5.86% 밀렸고, 앤트로픽은 6.54% 떨어져 공모가 83달러 아래로 내려갔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/20/202611200822262878_e.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "경제정책방향",
+     "source": "파이낸셜뉴스",
+     "time": "11.24 11:06",
+     "title": "내년 韓경제, 모두의 성장 구현한다…국민 삶의 질 지표도 개발",
+     "url": "https://www.fnnews.com/news/202611241104054000",
+     "summary": "정부가 24일 국무회의에서 2027년 경제정책방향의 목표를 '모두의 성장'으로 정했다고 보고했다. 민생 안정·성장동력 확충·글로벌 경쟁력 강화를 3대 방향으로 잡고, 양극화 개선을 점검할 국민 삶의 질 지표를 만들어 예산과 연계한다. 세부 방향은 이달 중 발표한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/24/202611241046059662_e.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "경기",
+     "tag2": "기업심리",
+     "source": "뉴스핌",
+     "time": "11.25 06:00",
+     "title": "11월 기업 체감경기 한 달 만에 하락…수출기업·내수기업 희비",
+     "url": "https://www.newspim.com/news/view/20261124001269",
+     "summary": "11월 전산업 기업심리지수(CBSI)가 103.5로 전월보다 0.7p 내렸다. 수출기업은 2.7p 떨어진 103.4에 그친 반면 내수기업은 105.3으로 4년 6개월 만에 가장 높았다. 원화 강세와 화학제품 공급과잉이 수출기업 심리를 끌어내린 요인으로 꼽혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2026/04/23/260423112930804_706_tc.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "관세",
+     "source": "뉴시스",
+     "time": "11.24 23:01",
+     "title": "美 USTR, 빠르면 이번주 中·EU·14개국 ‘과잉생산 관세’ 조사 발표",
+     "url": "https://www.newsis.com/view/NISX20261124_0003881830",
+     "summary": "미 무역대표부가 중국·EU와 14개국의 산업 보조금에 대한 관세 조사 결과를 이르면 이번 주 발표할 수 있다고 WSJ이 전했다. 한국·일본도 대상에 들어 있다. 대법원이 2월 상호관세를 무효화한 뒤 이와 비슷한 관세를 다시 매기려는 움직임이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img1.newsis.com/2026/09/21/NISI20260921_0002245079_web.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "외교",
+     "source": "뉴스1",
+     "time": "11.24 19:32",
+     "title": "日총리, 美제재 받는 ICC 공개 지지…\"내년 분담금도 앞당겨 낸다\"",
+     "url": "https://www.news1.kr/world/northeast-asia/6364813",
+     "summary": "일본 총리가 24일 도쿄 총리관저에서 국제형사재판소(ICC) 소장을 만나 재판소에 대한 지지를 공개적으로 밝혔다. 일본은 내년 분담금 전액을 올해 안에 미리 낼 계획이다. ICC는 현재 미국의 제재를 받고 있어 운영 부담이 커진 상황이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/24/8231010/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "우크라이나",
+     "tag2": "종전협상",
+     "source": "뉴스1",
+     "time": "11.24 22:37",
+     "title": "젤렌스키 \"美, 내년 1월 이전 우크라 종전 합의 위해 협상 서둘러\"",
+     "url": "https://www.news1.kr/world/europe/6364880",
+     "summary": "우크라이나 대통령이 미국이 내년 1월 전 종전 합의를 끌어내려 후속 협상을 서두르고 있다고 밝혔다. 그는 우크라이나만 희생하는 평화는 받아들일 수 없다고 했다. 영토와 안보 보장 등 핵심 쟁점에서는 여전히 이견이 큰 상태다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/10/8207625/high.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "방공식별구역",
+     "source": "뉴스1",
+     "time": "11.24 10:51",
+     "title": "국방부 \"러 군용기 KADIZ 진입 무관 초치 항의 계획\"",
+     "url": "https://news1.kr/diplomacy/defense-diplomacy/6363991",
+     "summary": "러시아 군용기 여러 대가 24일 오전 동해 방공식별구역(KADIZ)에 들어와 국방부가 주한 러시아 국방무관을 불러 항의하기로 했다. 합참은 영공 침범은 없었고 F-15K 등을 띄워 대비했다고 밝혔다. 이 과정에서 울릉군 주민에게 경보 문자가 나가기도 했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/10/22/8174546/high.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "정당",
+     "tag2": "국민의힘",
+     "source": "뉴스1",
+     "time": "11.24 17:11",
+     "title": "장동혁 '조작징계' 의혹 작심 반박…한동훈 \"배후 조종 자인\"(종합)",
+     "url": "https://www.news1.kr/politics/assembly/6364665",
+     "summary": "장동혁 국민의힘 대표가 24일 당 윤리위원회 '조작 징계' 의혹에 처음 공개 반박하며 한동훈 전 대표를 '보수 궤멸의 중심'이라고 규정했다. 한 의원은 이를 윤리위 배후 조종을 인정한 것이라고 맞섰고, 당내 일부 의원들은 장 대표 사퇴를 요구했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/24/8230505/high.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "대통령실",
+     "tag2": "국무회의",
+     "source": "오마이뉴스",
+     "time": "11.24 15:51",
+     "title": "12월 3일, '국민주권의 날'로 지정됐다",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287906&PAGE_CD=N0002&CMPT_CD=M0112",
+     "summary": "정부가 24일 국무회의에서 12월 3일을 국가기념일 '국민주권의 날'로 정하는 기념일 규정 개정안을 처리했다. 2024년 비상계엄에 맞선 시민들의 행동을 기리고 헌법·민주주의 수호 정신을 잇는다는 취지로, 대통령은 국민이 나라의 주인이라는 원칙을 확고히 하는 조치라고 밝혔다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2024/1204/IE003385364_BIG.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "오픈AI",
+     "source": "디지털데일리",
+     "time": "11.25 06:04",
+     "title": "패치 나올 때까지 AI가 방패…오픈AI·시스코, 오픈소스 '시루도' 공개",
+     "url": "https://www.ddaily.co.kr/page/view/2026112506040732097",
+     "summary": "오픈AI와 시스코가 보안 패치가 나오기 전까지 리눅스 시스템을 지켜주는 오픈소스 AI 방어 도구 '시루도'를 공개했다. eBPF로 재시작 없이 보호막을 적용하며, 시험에서 코덱스가 만든 방어막이 일래스틱서치 공격을 막았다. 소스는 BSD 라이선스로 깃허브에 공개됐고 아직 초기 단계다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/08/04/2026080409470089614_l.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "반도체",
+     "tag2": "인사",
+     "source": "전자신문",
+     "time": "11.24 09:13",
+     "title": "삼성전자 임원 131명 승진…역대 최대 실적에도 30명 줄이고 반도체 집중",
+     "url": "https://www.etnews.com/20261124000060",
+     "summary": "삼성전자가 24일 2027년 정기 임원인사에서 부사장 39명, 상무 78명 등 131명을 승진시켰다. 전년 161명보다 18.6% 줄었지만 HBM4 양산 주역 등 반도체와 로봇·AI·파운드리 인재를 중용했고 여성 신규 승진은 11명으로 역대 최다다. 조직개편·보직인사는 곧 발표된다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etnews.com/news/article/2026/04/07/news-p.v1.20260407.74b42049c1c546fa86646ecfe3c64a1f_P1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "규제",
+     "source": "디지털데일리",
+     "time": "11.24 18:10",
+     "title": "정부, AI기본법 제도개선·규제유예 방향 논의…25일 비공개 간담회",
+     "url": "https://www.ddaily.co.kr/page/view/2026112418085132281",
+     "summary": "AI기본법 제도개선연구반과 국가AI전략위원회가 25일 서울에서 비공개 간담회를 열고 제도 개선·규제 유예 방향에 대한 산업계·시민사회 의견을 듣는다. 정부는 시행 후 최소 1년 규제를 유예하고 중대 사고 때만 사실조사를 하기로 했으며, 계도기간 종료가 두 달여 남았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://www.ddaily.co.kr/photos/2026/01/21/2026012112014389915_l.jpg"
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "애니",
+     "tag2": "신작 발표",
+     "source": "MANTANWEB",
+     "time": "11.24 18:51",
+     "title": "마법사의 밤: 극장판 애니메이션 속편 제작 결정",
+     "url": "https://mantan-web.jp/article/20261124dog00m200104000a.html",
+     "summary": "TYPE-MOON 비주얼노벨 원작 극장판 애니 '마법사의 밤' 속편 제작이 결정됐다. 11월 20일 일본 개봉 후 4일 만에 흥행수입 5억 엔, 관객 30만 명을 넘었다. 제작은 ufotable이며 속편 공개 시기와 세부 정보는 미정이다.",
+     "age": null,
+     "orig": "魔法使いの夜：劇場版アニメ　続編制作決定",
+     "deadline": null,
+     "thumb": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/24/20261124dog00m200104000a/001.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "영화",
+     "tag2": "예고편",
+     "source": "스타뉴스",
+     "time": "11.24 16:17",
+     "title": "\"때가 왔다\"..막 오른 '어벤져스: 둠스데이', 사상 최대 결전 예고",
+     "url": "https://www.starnewskorea.com/movie/2026/11/24/2026112415080699072",
+     "summary": "'어벤져스: 둠스데이'가 글로벌 메인 포스터와 메인 예고편을 공개했다. 예고편에는 아버지가 된 스티브 로저스와 닥터 둠, 토르와 엑스맨 주역 등 여러 세계관 히어로들이 담겼다. 12월 16일 전 세계 최초로 국내 극장에서 개봉한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1777,fit=cover,q=high,sharpen=2/21/2026/11/2026112415080699072_1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "드라마",
+     "tag2": "티저",
+     "source": "일간스포츠",
+     "time": "11.24 11:38",
+     "title": "‘신의 구슬’ 안보현·이성민·하윤경, 고려 희망 찾아 목숨건 여정",
+     "url": "https://isplus.com/article/view/isp202611240069",
+     "summary": "JTBC 토일드라마 '신의 구슬'이 5차 티저를 공개했다. 1258년 몽골 전쟁기를 배경으로 호국 성물 관음보주를 찾아 나선 호송대 이야기로, 안보현·이성민·하윤경이 출연한다. 12월 5일 밤 10시 40분 첫 방송하며 쿠팡플레이·아마존 프라임에서도 볼 수 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://isplus.com/data/isp/image/2026/11/24/isp20261124000168.800x.0.jpg"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "48주차 · 55회차 브리핑"
+}
