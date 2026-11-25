@@ -1,0 +1,355 @@
+{
+ "date": "2026-11-26",
+ "weather": {
+  "min": 5,
+  "max": 16,
+  "am_text": "구름 많고 아침까지 빗방울",
+  "am_icon": "cloud",
+  "pm_text": "가끔 구름 많음",
+  "pm_icon": "sun_cloud",
+  "rain": "0.1mm 미만",
+  "humidity": null,
+  "pm10": null,
+  "pm25": null,
+  "ext": {
+   "pop_am": null,
+   "pop_pm": null,
+   "feels": null,
+   "wind": null,
+   "uv": null,
+   "vs_yday": null
+  }
+ },
+ "markets": [
+  {
+   "name": "코스피",
+   "value": "4,697.51",
+   "pct": -6.16,
+   "closes": [
+    5342.73,
+    5290.53,
+    5100.5,
+    4968.48,
+    5067.44,
+    5137.89,
+    4869.96,
+    4708.54,
+    5006.03,
+    4697.51
+   ],
+   "dates": [
+    "11.12",
+    "11.13",
+    "11.16",
+    "11.17",
+    "11.18",
+    "11.19",
+    "11.20",
+    "11.23",
+    "11.24",
+    "11.25"
+   ],
+   "ext": {
+    "low": "4,672.55"
+   }
+  },
+  {
+   "name": "나스닥",
+   "value": "23,585.80",
+   "pct": -0.62,
+   "closes": [
+    25366.09,
+    25136.27,
+    24509.76,
+    24328.38,
+    24429.89,
+    23879.2,
+    22617.73,
+    24089.56,
+    23733.54,
+    23585.8
+   ],
+   "dates": [
+    "11.12",
+    "11.13",
+    "11.16",
+    "11.17",
+    "11.18",
+    "11.19",
+    "11.20",
+    "11.23",
+    "11.24",
+    "11.25"
+   ],
+   "ext": null
+  },
+  {
+   "name": "원/달러",
+   "value": "1,343.2",
+   "pct": 0.06,
+   "closes": [
+    1330.7,
+    1336.7,
+    1335.7,
+    1338.2,
+    1333.0,
+    1330.0,
+    1336.2,
+    1345.9,
+    1342.4,
+    1343.2
+   ],
+   "dates": [
+    "11.12",
+    "11.13",
+    "11.16",
+    "11.17",
+    "11.18",
+    "11.19",
+    "11.20",
+    "11.23",
+    "11.24",
+    "11.25"
+   ],
+   "ext": null
+  }
+ ],
+ "sectors": [
+  {
+   "id": "econ",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "증시",
+     "tag2": "코스피",
+     "source": "한국경제",
+     "time": "11.25 16:05",
+     "title": "[마감시황] 젠슨황發 상승분 모두 반납...코스피 6.16% 내린 4697.51 마감",
+     "url": "https://www.hankyung.com/article/202611259903i",
+     "summary": "코스피가 25일 6.16% 급락한 4697.51에 마감하며 전날 회복한 5000선을 하루 만에 내줬다. 외국인이 2조2711억원을 순매도했고 개인은 1조8245억원 순매수했다. 미국 필라델피아 반도체지수 7.88% 급락과 마이크론 투자의견 하향이 반도체주를 끌어내렸다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.hankyung.com/photo/202611/01.46541405.1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "정책",
+     "tag2": "주택",
+     "source": "국제뉴스",
+     "time": "11.25 21:23",
+     "title": "이재명 대통령, 공적임대주택 대개편 예고…중산층 선택지로 개선",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763208",
+     "summary": "대통령이 25일 은평구청 현장간담회에서 공적 임대주택을 중산층도 고를 수 있는 주거로 바꾸겠다고 밝혔다. 2030년까지 연평균 24만 호 공급을 목표로 제시했는데, 지난 10년 평균보다 50% 많은 규모다. 2022년 이후 인허가·착공 감소가 공급 부족으로 이어졌다는 진단에 따른 것이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.gukjenews.com/news/thumbnail/202611/3763208_3947345_2310_v150.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "통상",
+     "tag2": "관세",
+     "source": "이투데이",
+     "time": "11.26 06:59",
+     "title": "美, 14개 경제권에 '과잉생산 관세' 예고⋯韓 15% 유지·25% 인상 경고 [종합]",
+     "url": "https://www.etoday.co.kr/news/view/2653055",
+     "summary": "미국 무역대표부가 25일(현지시간) 무역법 301조 과잉생산 조사 대상 14개 경제권에 관세안을 제시했다. 한국은 한미 합의를 반영해 최대 15%를 매기되 이행이 미흡하면 25%로 올릴 수 있다고 했다. 232조 품목인 자동차·반도체는 면제되며, 내년 1월 25일 공청회를 연다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.etoday.co.kr/pto_db/2026/11/20261126065357_2423833_1200_800.jpg"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "미국",
+     "tag2": "경제",
+     "source": "헤럴드경제",
+     "time": "11.26 05:58",
+     "title": "AI 투자·소비가 이끈 美경제…3분기 성장률 4.3%로 3년 만에 최고",
+     "url": "https://biz.heraldcorp.com/article/10949532",
+     "summary": "미국 상무부가 3분기 실질 GDP 성장률 잠정치를 연율 4.3%로 발표했다. 속보치 3.4%와 시장 전망 3.6%를 크게 웃돌며 2023년 3분기 이후 최고치다. 개인소비가 4.2%, 기업 비주거용 투자가 16.1% 늘었고, 강한 수요로 연준의 다음 달 금리 인상 가능성이 거론된다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/11/26/news-p.v1.20260730.e28505d03a294ce992d429d10798cd8b_P1.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "일본",
+     "tag2": "안보",
+     "source": "뉴스1",
+     "time": "11.25 22:15",
+     "title": "日 안보문서 전문가회의 제언에 비핵 3원칙 재검토론 병기",
+     "url": "https://news1.kr/world/northeast-asia/6366257",
+     "summary": "일본 안보 3문서 개정을 위한 전문가회의가 제언 초안을 마련했다. 비핵 3원칙 유지를 담으면서도 핵무기 반입 금지 원칙을 재검토해야 한다는 의견을 주석에 함께 적었고, 판단은 정부·여당에 넘겼다. 방위비 재원 마련 과정에서 국민 부담이 커질 수 있다는 점도 짚었다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://i3n.news1.kr/system/photos/2026/11/19/8223433/high.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "EU",
+     "tag2": "기술",
+     "source": "뉴스핌",
+     "time": "11.25 16:21",
+     "title": "EU, AI·양자컴퓨팅에 500억유로 기술주권펀드 추진",
+     "url": "https://www.newspim.com/news/view/20261125001122",
+     "summary": "EU 집행위원회가 AI·양자컴퓨팅 기업에 장기·고위험 투자를 하는 최대 500억유로(약 73조원) 규모 펀드를 추진한다고 FT가 25일 보도했다. EU 예산 1유로당 민간 자금을 최대 6유로 끌어들이는 구조다. 미국·중국에 뒤처진 기술 주권을 강화하려는 조치로, 내년 2월 정상회의에서 운영안을 낼 계획이다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.newspim.com/news/2023/01/04/2301040912063130_202_tc.jpg"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "국방",
+     "tag2": "북한",
+     "source": "헤럴드경제",
+     "time": "11.26 07:16",
+     "title": "김정은, 핵시설 현지지도…“핵보유 정당성·질량적 강화 는 돌릴 수 없는 현실”",
+     "url": "https://biz.heraldcorp.com/article/10949570",
+     "summary": "북한 국무위원장이 25일 무기급 핵물질 생산기지와 핵무기연구소 등을 찾았다고 조선중앙통신이 26일 보도했다. 9차 당대회 핵전략에 따른 올해 생산 실적을 점검하며 전술핵의 다영역 활용을 긴급 과업으로 꼽았고, 한·일 핵잠 추진을 겨냥해 미국의 핵동맹 구축도 비난했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/11/26/news-p.v1.20261126.775148b616274cff8f9772cf3f1aa7e8_P1.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "대통령실",
+     "tag2": "과거사",
+     "source": "파이낸셜뉴스",
+     "time": "11.25 10:42",
+     "title": "李대통령, 5·18 진압 경찰 등 포상 취소에 \"너무 당연한 조치\"",
+     "url": "https://www.fnnews.com/news/202611251034265120",
+     "summary": "경찰청이 헌정질서 파괴·인권침해에 연루된 경찰관 102명의 정부 포상 104건을 취소하는 안건이 국무회의를 통과했다고 밝혔다. 삼청교육대 관련이 72명으로 가장 많고 5·18 진압 18명이다. 대통령은 X에 늦었지만 당연한 조치라며 역사 바로잡기를 끝까지 하겠다고 썼다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://image.fnnews.com/resource/media/image/2026/11/24/202611241018554281_e.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "인사",
+     "tag2": "국정원장",
+     "source": "SBS 뉴스",
+     "time": "11.25 16:24",
+     "title": "강금실, 인사청문 준비 본격화…야당 집중 공세 대응 주목",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863267",
+     "summary": "23일 국정원장 후보자로 지명된 강금실 전 법무장관이 26일부터 강남의 국정원 관련 시설에 마련된 사무실로 출근해 청문회 준비에 들어간다. 요청안은 이번 주말께 국회에 제출될 전망이다. 국민의힘은 중국 지방정부 고문 이력과 정보 분야 경험 부족을 문제 삼고 있다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://img.sbs.co.kr/newimg/news/20261125/202244182_1280.jpg"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "AI",
+     "tag2": "앤트로픽",
+     "source": "AI타임스",
+     "time": "11.26 06:12",
+     "title": "앤트로픽, 클로드로 누구나 PC 앱 제작·배포하도록 지원",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217786",
+     "summary": "앤트로픽이 클로드 아티팩트를 맥·윈도 데스크톱 앱으로 설치하는 기능을 베타로 내놨다. 무료 포함 전 요금제 대상이며 공유 메뉴의 '앱으로 설치'로 만들고 알림·파일 접근 등 앱별 권한을 따로 준다. 원본을 고치면 앱에 반영되고 앱 내 AI 사용량은 기존 한도에서 차감된다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cdn.aitimes.com/news/photo/202611/217786_222153_1850.png"
+    },
+    {
+     "fixed": true,
+     "tag1": "IT",
+     "tag2": "보안",
+     "source": "국민일보",
+     "time": "11.26 00:01",
+     "title": "보름 간 털린 줄도 몰라⋯ 빗썸 해킹 추가 확인",
+     "url": "https://www.kmib.co.kr/article/20261125502160",
+     "summary": "빗썸이 25일 공지에서 사내 모바일 그룹웨어 해킹 피해가 지난달 발표보다 크다고 밝혔다. 침입은 약 1시간이 아니라 10월 12일부터 27일까지 15일간 이어졌고, 주민번호·계좌번호·신분증 사본 등이 추가로 확인됐다. 앞서 고객 6444명·임직원 715명 유출을 신고했으며 정확한 추가 규모는 밝히지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/25/.cache/512/20261125502084.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "AI",
+     "tag2": "오픈AI",
+     "source": "테크42",
+     "time": "11.26 08:13",
+     "title": "오픈AI, 챗GPT '챗·워크' 기능 전격 통합… 헤비 유저 사용 한도 축소 우려",
+     "url": "https://www.tech42.co.kr/%EC%98%A4%ED%94%88ai-%EC%B1%97gpt-%EC%B1%97%C2%B7%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%8A%A5-%EC%A0%84%EA%B2%A9-%ED%86%B5%ED%95%A9-%ED%97%A4%EB%B9%84-%EC%9C%A0%EC%A0%80-%EC%82%AC%EC%9A%A9/",
+     "summary": "오픈AI가 챗GPT의 일반 대화와 업무용 '워크' 기능을 한 화면으로 합치고 사용 한도도 공유하도록 바꾸기 시작했다. 일부 프로 구독자부터 적용해 12월 전체로 넓힌다. 인스턴트 모델은 무제한이지만 고성능 추론 모델 한도에 더 빨리 닿을 수 있어 일부 구독자가 불만을 제기했다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": null
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "articles": [
+    {
+     "fixed": true,
+     "tag1": "제네시스",
+     "tag2": "라인업",
+     "source": "글로벌이코노믹",
+     "time": "11.26 06:34",
+     "title": "제네시스, 출범 10년 넘어 고성능 마그마와 하이브리드·틈새 차종으로 라인업 전면 확장",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112606294652312bd56fbc3c_1",
+     "summary": "제네시스 제품기획 담당 이사가 미국 모터트렌드 인터뷰에서 고성능 '마그마' 라인을 하이브리드로 넓힐 가능성을 내비쳤다. 미드십 V8 슈퍼카 마그마 GT 개발과 컨버터블·왜건·대형 SUV 순차 출시 계획도 밝혔지만 출시 시점은 공개하지 않았다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20261126063300019122bd56fbc3c21121419978.jpg"
+    },
+    {
+     "fixed": false,
+     "tag1": "자동차",
+     "tag2": "충전",
+     "source": "아시아경제",
+     "time": "11.25 09:55",
+     "title": "현대차·기아·제네시스 통합 충전…'HMG 글로벌 완속충전기' 개발",
+     "url": "https://view.asiae.co.kr/article/2026112509552218169",
+     "summary": "현대차그룹이 현대차·기아·제네시스에 공통으로 쓰는 'HMG 글로벌 완속충전기'를 개발했다. 7·11kW 출력에 커넥터만 꽂으면 인증·결제가 되는 플러그앤차지와 OTA를 지원하며, 내년 국내 출시 뒤 미국·유럽·인도로 순차 확대한다.",
+     "age": null,
+     "orig": null,
+     "deadline": null,
+     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026112509524222756_1795567962.jpg"
+    },
+    {
+     "fixed": true,
+     "tag1": "공모전",
+     "tag2": "영상",
+     "source": "링커리어",
+     "time": "11.09",
+     "title": "2026 내가 소개하는 서울 숏폼 공모전",
+     "url": "https://linkareer.com/activity/363182",
+     "summary": "서울시가 주최하는 서울 소개 숏폼 영상 공모전이 11월 27일 17시 접수를 마감한다. 국내에 거주하는 내외국인 누구나 응모할 수 있고, 대상 300만 원·최우수상 150만 원 등 11명(팀)에게 총 1,000만 원을 시상한다.",
+     "age": null,
+     "orig": null,
+     "deadline": "11.27",
+     "thumb": "https://api.linkareer.com/attachments/984093"
+    }
+   ]
+  }
+ ],
+ "_meta_line": "48주차 · 56회차 브리핑"
+}
