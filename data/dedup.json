@@ -1,68 +1,6 @@
 {
  "retention_days": 7,
  "days": {
-  "2026-11-20": [
-   {
-    "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500007",
-    "title": "[서울데이터랩]미 뉴욕증시 급락 마감…다우 2.19%·나스닥 2.25% 하락"
-   },
-   {
-    "url": "https://www.etoday.co.kr/news/view/2650141",
-    "title": "정부, 최저주거기준 15년 만에 손질⋯보편형 공공임대 도입 추진"
-   },
-   {
-    "url": "https://seoul.co.kr/news/economy/2026/11/19/20261119500342",
-    "title": "오징어 팔던 나라, 韓 78년 만에 ‘수출 1조 달러’ 금자탑"
-   },
-   {
-    "url": "https://www.fnnews.com/news/202611192124311948",
-    "title": "미·중·러 정상 공동성명… \"핵확산 방지·석유공급 확대\" [미중러 첫 3자회담]"
-   },
-   {
-    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611200332121885e7e8286d56_1",
-    "title": "日 다카이치, APEC서 \"중국은 중요한 이웃\"…푸틴과는 30분 회담 소통 강조"
-   },
-   {
-    "url": "https://fnnews.com/news/202611200632171628",
-    "title": "유럽 정상들, '얄타 2.0' 수용 거부"
-   },
-   {
-    "url": "https://view.asiae.co.kr/article/2026111910280295602",
-    "title": "함정·기지 이어 해군대학 방문…北김정은 \"강력한 해군건설, 제1 전략적 임무\""
-   },
-   {
-    "url": "https://www.news1.kr/politics/assembly/6360148",
-    "title": "대법 한덕수 파기환송에 與 \"기회주의자 변명\" 野 \"사법정의 살아있다\"(종합)"
-   },
-   {
-    "url": "https://m.sedaily.com/article/20116607",
-    "title": "與 민주유공자법 강행에 野 필버…주택공급 3법은 또 뒷전으로"
-   },
-   {
-    "url": "https://www.hankyung.com/article/2026112088476",
-    "title": "143조 모은 앤트로픽, 상장 첫날 주가 '롤러코스터'…공모가보다 17% 올라"
-   },
-   {
-    "url": "https://www.boannews.com/news/articleView.html?idxno=147382",
-    "title": "[더존비즈온 사태] 11월19일 현황... 한국전자인증 등 4곳 추가 발견"
-   },
-   {
-    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716670",
-    "title": "코딩 성능 세계 1위?…구글, 신형 AI '제미나이 4 네온' 공개"
-   },
-   {
-    "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101021",
-    "title": "'리버풀? 이긴다는 생각으로 안필드 간다!'…포체티노, 맨유 데뷔전 앞두고 자신감 폭발! \"경기의 주인공이 돼야 한다\""
-   },
-   {
-    "url": "https://www.seoul.co.kr/news/life/exhibition/2026/11/19/20261119016002",
-    "title": "동화 같은 캔버스 너머, ‘처절한 현실’ 빚은 샤갈"
-   },
-   {
-    "url": "https://www.gamemeca.com/view.php?gid=1783542",
-    "title": "[AGF 26] 공식 굿즈와 부스 배치도 공개, 16일 방송 실시"
-   }
-  ],
   "2026-11-21": [
    {
     "url": "https://www.etoday.co.kr/news/view/2651148",
@@ -433,6 +371,68 @@
    {
     "url": "https://linkareer.com/activity/363182",
     "title": "2026 내가 소개하는 서울 숏폼 공모전"
+   }
+  ],
+  "2026-11-27": [
+   {
+    "url": "https://fnnews.com/news/202611261548115574",
+    "title": "'4800' 찍고 '4700' 마감…반등 코스피, 금리 인상에 뒷심 부족 [fn마감시황]"
+   },
+   {
+    "url": "https://view.asiae.co.kr/article/2026112610564805865",
+    "title": "한은 금통위 \"韓 성장세 한층 강화…물가 상당기간 목표 상회\""
+   },
+   {
+    "url": "https://www.kmib.co.kr/article/20261126501219",
+    "title": "삼성 다음은 애플, 과징금 최대 536억?⋯공정위 “AI 광고 기만”"
+   },
+   {
+    "url": "https://www.fnnews.com/news/202611270603565740",
+    "title": "트럼프, 내달 4일 TSMC 美 신규 공장 착공식 참석…반도체 투자 부각"
+   },
+   {
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611261342036969e7e8286d56_1",
+    "title": "주가 급락에 '쓸 재원 다 썼다'…다카이치 정권 재정 시험대"
+   },
+   {
+    "url": "https://www.news1.kr/world/middleeast-africa/6367762",
+    "title": "아이젠코트, 이스라엘 좌파 민주당과 연정 구성 합의…과반 확보는 여전히 난항"
+   },
+   {
+    "url": "https://www.hankyung.com/article/2026112736227",
+    "title": "\"北, 지뢰 도발 후에도 MDL 40여회 침범\"…경고사격 '무색'"
+   },
+   {
+    "url": "https://www.khan.co.kr/article/202611262120005/",
+    "title": "조작기소 특검 후보에 민주당 이임성·혁신당 이정훈 추천"
+   },
+   {
+    "url": "https://www.news1.kr/politics/assembly/6367749",
+    "title": "예결소위 미래대응기금 심사 줄 보류…與 \"성장동력\" 野 \"폐기\"(종합)"
+   },
+   {
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718249",
+    "title": "\"인간 통제권 AI에 넘긴다?\"…앤트로픽 CEO, 비판 정면 반박"
+   },
+   {
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261126010010419",
+    "title": "7년 만에 '5G SA' 시대 열린다…통신3사, 내달 전국망 상용화 시작"
+   },
+   {
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217838",
+    "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망"
+   },
+   {
+    "url": "https://mydaily.co.kr/page/view/2026112610373024056",
+    "title": "브루노 페르난데스 멀티골에도 포체티노 첫 승 실패…맨유, UCL 스포르팅 원정서 2-2 무승부"
+   },
+   {
+    "url": "https://www.news1.kr/industry/general-industry/6367062",
+    "title": "[뉴스1 PICK] '디자인의 과거와 현재를 만나다' 서울디자인페스티벌 개막"
+   },
+   {
+    "url": "https://www.news1.kr/life-culture/performance-exhibition/6365514",
+    "title": "\"모네·클레오부터 칸딘스키·자코메티까지\"…'모던 아트의 탄생' 展"
    }
   ]
  }
